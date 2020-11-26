@@ -1,0 +1,92 @@
+[
+  {
+    "type": "madsrdf:Authority",
+    "count": 1240927,
+    "percent": 99.94193201293764
+  },
+  {
+    "type": "skos:Concept",
+    "count": 1240927,
+    "percent": 99.94193201293764
+  },
+  {
+    "type": "madsrdf:PersonalName",
+    "count": 995600,
+    "percent": 80.18375578263726
+  },
+  {
+    "type": "madsrdf:CorporateName",
+    "count": 122414,
+    "percent": 9.858993853330412
+  },
+  {
+    "type": "madsrdf:Geographic",
+    "count": 84209,
+    "percent": 6.782034844013762
+  },
+  {
+    "type": "madsrdf:Topic",
+    "count": 23848,
+    "percent": 1.9206731698516812
+  },
+  {
+    "type": "madsrdf:NameTitle",
+    "count": 5686,
+    "percent": 0.45793977036970224
+  },
+  {
+    "type": "madsrdf:Title",
+    "count": 4269,
+    "percent": 0.34381724933314434
+  },
+  {
+    "type": "madsrdf:ComplexSubject",
+    "count": 4158,
+    "percent": 0.33487751762174145
+  },
+  {
+    "type": "madsrdf:ConferenceName",
+    "count": 956,
+    "percent": 0.07699444609100163
+  },
+  {
+    "type": "madsrdf:DeprecatedAuthority",
+    "count": 721,
+    "percent": 0.05806798706235584
+  },
+  {
+    "type": "madsrdf:Variant",
+    "count": 721,
+    "percent": 0.05806798706235584
+  },
+  {
+    "type": "skosxl:Label",
+    "count": 719,
+    "percent": 0.05790691081530353
+  },
+  {
+    "type": "madsrdf:FamilyName",
+    "count": 458,
+    "percent": 0.03688646057497777
+  },
+  {
+    "type": "madsrdf:GenreForm",
+    "count": 46,
+    "percent": 0.003704753682203008
+  },
+  {
+    "type": "madsrdf:Temporal",
+    "count": 4,
+    "percent": 0.00032215249410460936
+  },
+  {
+    "type": "madsrdf:Organization",
+    "count": 2,
+    "percent": 0.00016107624705230468
+  },
+  {
+    "type": "skosxl:",
+    "count": 2,
+    "percent": 0.00016107624705230468
+  }
+]

@@ -1,0 +1,11348 @@
+[
+  {
+    "p": "P31",
+    "count": 1230815,
+    "label": "instance of",
+    "percent": 99.23
+  },
+  {
+    "p": "P569",
+    "count": 954418,
+    "label": "date of birth",
+    "percent": 76.94
+  },
+  {
+    "p": "P21",
+    "count": 926440,
+    "label": "sex or gender",
+    "percent": 74.69
+  },
+  {
+    "p": "P106",
+    "count": 850390,
+    "label": "occupation",
+    "percent": 68.56
+  },
+  {
+    "p": "P735",
+    "count": 820048,
+    "label": "given name",
+    "percent": 66.11
+  },
+  {
+    "p": "P27",
+    "count": 721963,
+    "label": "country of citizenship",
+    "percent": 58.2
+  },
+  {
+    "p": "P19",
+    "count": 629480,
+    "label": "place of birth",
+    "percent": 50.75
+  },
+  {
+    "p": "P570",
+    "count": 565042,
+    "label": "date of death",
+    "percent": 45.55
+  },
+  {
+    "p": "P734",
+    "count": 462454,
+    "label": "family name",
+    "percent": 37.28
+  },
+  {
+    "p": "P18",
+    "count": 411152,
+    "label": "image",
+    "percent": 33.15
+  },
+  {
+    "p": "P1412",
+    "count": 362998,
+    "label": "languages spoken, written or signed",
+    "percent": 29.26
+  },
+  {
+    "p": "P69",
+    "count": 329204,
+    "label": "educated at",
+    "percent": 26.54
+  },
+  {
+    "p": "P20",
+    "count": 325131,
+    "label": "place of death",
+    "percent": 26.21
+  },
+  {
+    "p": "P373",
+    "count": 322086,
+    "label": "Commons category",
+    "percent": 25.97
+  },
+  {
+    "p": "P108",
+    "count": 203513,
+    "label": "employer",
+    "percent": 16.41
+  },
+  {
+    "p": "P17",
+    "count": 182152,
+    "label": "country",
+    "percent": 14.68
+  },
+  {
+    "p": "P166",
+    "count": 176338,
+    "label": "award received",
+    "percent": 14.22
+  },
+  {
+    "p": "P856",
+    "count": 171954,
+    "label": "official website",
+    "percent": 13.86
+  },
+  {
+    "p": "P1559",
+    "count": 155254,
+    "label": "name in native language",
+    "percent": 12.52
+  },
+  {
+    "p": "P1343",
+    "count": 142504,
+    "label": "described by source",
+    "percent": 11.49
+  },
+  {
+    "p": "P131",
+    "count": 134214,
+    "label": "located in the administrative territorial entity",
+    "percent": 10.82
+  },
+  {
+    "p": "P625",
+    "count": 131643,
+    "label": "coordinate location",
+    "percent": 10.61
+  },
+  {
+    "p": "P571",
+    "count": 106260,
+    "label": "inception",
+    "percent": 8.57
+  },
+  {
+    "p": "P39",
+    "count": 100327,
+    "label": "position held",
+    "percent": 8.09
+  },
+  {
+    "p": "P463",
+    "count": 97798,
+    "label": "member of",
+    "percent": 7.88
+  },
+  {
+    "p": "P910",
+    "count": 91332,
+    "label": "topic's main category",
+    "percent": 7.36
+  },
+  {
+    "p": "P937",
+    "count": 71740,
+    "label": "work location",
+    "percent": 5.78
+  },
+  {
+    "p": "P2031",
+    "count": 71040,
+    "label": "work period (start)",
+    "percent": 5.73
+  },
+  {
+    "p": "P119",
+    "count": 68087,
+    "label": "place of burial",
+    "percent": 5.49
+  },
+  {
+    "p": "P102",
+    "count": 67454,
+    "label": "political party",
+    "percent": 5.44
+  },
+  {
+    "p": "P136",
+    "count": 64027,
+    "label": "genre",
+    "percent": 5.16
+  },
+  {
+    "p": "P26",
+    "count": 62593,
+    "label": "spouse",
+    "percent": 5.05
+  },
+  {
+    "p": "P140",
+    "count": 58179,
+    "label": "religion",
+    "percent": 4.69
+  },
+  {
+    "p": "P101",
+    "count": 56425,
+    "label": "field of work",
+    "percent": 4.55
+  },
+  {
+    "p": "P22",
+    "count": 55124,
+    "label": "father",
+    "percent": 4.44
+  },
+  {
+    "p": "P1303",
+    "count": 54897,
+    "label": "instrument",
+    "percent": 4.43
+  },
+  {
+    "p": "P40",
+    "count": 52015,
+    "label": "child",
+    "percent": 4.19
+  },
+  {
+    "p": "P2046",
+    "count": 49734,
+    "label": "area",
+    "percent": 4.01
+  },
+  {
+    "p": "P7763",
+    "count": 47146,
+    "label": "copyright status as a creator",
+    "percent": 3.8
+  },
+  {
+    "p": "P509",
+    "count": 46467,
+    "label": "cause of death",
+    "percent": 3.75
+  },
+  {
+    "p": "P1082",
+    "count": 45075,
+    "label": "population",
+    "percent": 3.63
+  },
+  {
+    "p": "P281",
+    "count": 45054,
+    "label": "postal code",
+    "percent": 3.63
+  },
+  {
+    "p": "P2044",
+    "count": 44694,
+    "label": "elevation above sea level",
+    "percent": 3.6
+  },
+  {
+    "p": "P242",
+    "count": 39685,
+    "label": "locator map image",
+    "percent": 3.2
+  },
+  {
+    "p": "P1477",
+    "count": 38864,
+    "label": "birth name",
+    "percent": 3.13
+  },
+  {
+    "p": "P3373",
+    "count": 38588,
+    "label": "sibling",
+    "percent": 3.11
+  },
+  {
+    "p": "P1196",
+    "count": 36442,
+    "label": "manner of death",
+    "percent": 2.94
+  },
+  {
+    "p": "P6886",
+    "count": 36071,
+    "label": "writing language",
+    "percent": 2.91
+  },
+  {
+    "p": "P103",
+    "count": 34301,
+    "label": "native language",
+    "percent": 2.77
+  },
+  {
+    "p": "P421",
+    "count": 33341,
+    "label": "located in time zone",
+    "percent": 2.69
+  },
+  {
+    "p": "P512",
+    "count": 31334,
+    "label": "academic degree",
+    "percent": 2.53
+  },
+  {
+    "p": "P159",
+    "count": 31195,
+    "label": "headquarters location",
+    "percent": 2.51
+  },
+  {
+    "p": "P1814",
+    "count": 30810,
+    "label": "name in kana",
+    "percent": 2.48
+  },
+  {
+    "p": "P1889",
+    "count": 30189,
+    "label": "different from",
+    "percent": 2.43
+  },
+  {
+    "p": "P6379",
+    "count": 29917,
+    "label": "has works in the collection",
+    "percent": 2.41
+  },
+  {
+    "p": "P25",
+    "count": 27856,
+    "label": "mother",
+    "percent": 2.25
+  },
+  {
+    "p": "P607",
+    "count": 24901,
+    "label": "conflict",
+    "percent": 2.01
+  },
+  {
+    "p": "P172",
+    "count": 24853,
+    "label": "ethnic group",
+    "percent": 2.0
+  },
+  {
+    "p": "P935",
+    "count": 24178,
+    "label": "Commons gallery",
+    "percent": 1.95
+  },
+  {
+    "p": "P94",
+    "count": 24173,
+    "label": "coat of arms image",
+    "percent": 1.95
+  },
+  {
+    "p": "P473",
+    "count": 23987,
+    "label": "local dialing code",
+    "percent": 1.93
+  },
+  {
+    "p": "P1472",
+    "count": 23845,
+    "label": "Commons Creator page",
+    "percent": 1.92
+  },
+  {
+    "p": "P551",
+    "count": 23800,
+    "label": "residence",
+    "percent": 1.92
+  },
+  {
+    "p": "P361",
+    "count": 23723,
+    "label": "part of",
+    "percent": 1.91
+  },
+  {
+    "p": "P800",
+    "count": 23080,
+    "label": "notable work",
+    "percent": 1.86
+  },
+  {
+    "p": "P264",
+    "count": 21634,
+    "label": "record label",
+    "percent": 1.74
+  },
+  {
+    "p": "P184",
+    "count": 21584,
+    "label": "doctoral advisor",
+    "percent": 1.74
+  },
+  {
+    "p": "P47",
+    "count": 21519,
+    "label": "shares border with",
+    "percent": 1.73
+  },
+  {
+    "p": "P641",
+    "count": 19711,
+    "label": "sport",
+    "percent": 1.59
+  },
+  {
+    "p": "P241",
+    "count": 18515,
+    "label": "military branch",
+    "percent": 1.49
+  },
+  {
+    "p": "P1448",
+    "count": 18041,
+    "label": "official name",
+    "percent": 1.45
+  },
+  {
+    "p": "P495",
+    "count": 17999,
+    "label": "country of origin",
+    "percent": 1.45
+  },
+  {
+    "p": "P6275",
+    "count": 17335,
+    "label": "copyright representative",
+    "percent": 1.4
+  },
+  {
+    "p": "P1442",
+    "count": 17195,
+    "label": "image of grave",
+    "percent": 1.39
+  },
+  {
+    "p": "P410",
+    "count": 16752,
+    "label": "military rank",
+    "percent": 1.35
+  },
+  {
+    "p": "P485",
+    "count": 16169,
+    "label": "archives at",
+    "percent": 1.3
+  },
+  {
+    "p": "P1066",
+    "count": 16110,
+    "label": "student of",
+    "percent": 1.3
+  },
+  {
+    "p": "P742",
+    "count": 15345,
+    "label": "pseudonym",
+    "percent": 1.24
+  },
+  {
+    "p": "P1464",
+    "count": 15134,
+    "label": "category for people born here",
+    "percent": 1.22
+  },
+  {
+    "p": "P5008",
+    "count": 14822,
+    "label": "on focus list of Wikimedia project",
+    "percent": 1.19
+  },
+  {
+    "p": "P185",
+    "count": 14784,
+    "label": "doctoral student",
+    "percent": 1.19
+  },
+  {
+    "p": "P1705",
+    "count": 14741,
+    "label": "native label",
+    "percent": 1.19
+  },
+  {
+    "p": "P1792",
+    "count": 14592,
+    "label": "category of associated people",
+    "percent": 1.18
+  },
+  {
+    "p": "P1344",
+    "count": 14480,
+    "label": "participant in",
+    "percent": 1.17
+  },
+  {
+    "p": "P1376",
+    "count": 13962,
+    "label": "capital of",
+    "percent": 1.13
+  },
+  {
+    "p": "P279",
+    "count": 13462,
+    "label": "subclass of",
+    "percent": 1.09
+  },
+  {
+    "p": "P138",
+    "count": 13405,
+    "label": "named after",
+    "percent": 1.08
+  },
+  {
+    "p": "P276",
+    "count": 12717,
+    "label": "location",
+    "percent": 1.03
+  },
+  {
+    "p": "P973",
+    "count": 12500,
+    "label": "described at URL",
+    "percent": 1.01
+  },
+  {
+    "p": "P1411",
+    "count": 12440,
+    "label": "nominated for",
+    "percent": 1.0
+  },
+  {
+    "p": "P154",
+    "count": 12316,
+    "label": "logo image",
+    "percent": 0.99
+  },
+  {
+    "p": "P1435",
+    "count": 12251,
+    "label": "heritage designation",
+    "percent": 0.99
+  },
+  {
+    "p": "P527",
+    "count": 12246,
+    "label": "has part",
+    "percent": 0.99
+  },
+  {
+    "p": "P109",
+    "count": 12034,
+    "label": "signature",
+    "percent": 0.97
+  },
+  {
+    "p": "P135",
+    "count": 12000,
+    "label": "movement",
+    "percent": 0.97
+  },
+  {
+    "p": "P802",
+    "count": 11789,
+    "label": "student",
+    "percent": 0.95
+  },
+  {
+    "p": "P6375",
+    "count": 11159,
+    "label": "street address",
+    "percent": 0.9
+  },
+  {
+    "p": "P36",
+    "count": 10632,
+    "label": "capital",
+    "percent": 0.86
+  },
+  {
+    "p": "P948",
+    "count": 10186,
+    "label": "page banner",
+    "percent": 0.82
+  },
+  {
+    "p": "P53",
+    "count": 10111,
+    "label": "family",
+    "percent": 0.82
+  },
+  {
+    "p": "P1454",
+    "count": 10024,
+    "label": "legal form",
+    "percent": 0.81
+  },
+  {
+    "p": "P112",
+    "count": 9754,
+    "label": "founded by",
+    "percent": 0.79
+  },
+  {
+    "p": "P41",
+    "count": 9409,
+    "label": "flag image",
+    "percent": 0.76
+  },
+  {
+    "p": "P97",
+    "count": 9204,
+    "label": "noble title",
+    "percent": 0.74
+  },
+  {
+    "p": "P395",
+    "count": 9012,
+    "label": "licence plate code",
+    "percent": 0.73
+  },
+  {
+    "p": "P740",
+    "count": 8996,
+    "label": "location of formation",
+    "percent": 0.73
+  },
+  {
+    "p": "P611",
+    "count": 8606,
+    "label": "religious order",
+    "percent": 0.69
+  },
+  {
+    "p": "P1971",
+    "count": 8571,
+    "label": "number of children",
+    "percent": 0.69
+  },
+  {
+    "p": "P412",
+    "count": 8564,
+    "label": "voice type",
+    "percent": 0.69
+  },
+  {
+    "p": "P749",
+    "count": 8458,
+    "label": "parent organization",
+    "percent": 0.68
+  },
+  {
+    "p": "P7959",
+    "count": 8414,
+    "label": "historic county",
+    "percent": 0.68
+  },
+  {
+    "p": "P576",
+    "count": 8379,
+    "label": "dissolved, abolished or demolished date",
+    "percent": 0.68
+  },
+  {
+    "p": "P190",
+    "count": 8365,
+    "label": "twinned administrative body",
+    "percent": 0.67
+  },
+  {
+    "p": "P7867",
+    "count": 8212,
+    "label": "category for maps",
+    "percent": 0.66
+  },
+  {
+    "p": "P1465",
+    "count": 7791,
+    "label": "category for people who died here",
+    "percent": 0.63
+  },
+  {
+    "p": "P7084",
+    "count": 7635,
+    "label": "related category",
+    "percent": 0.62
+  },
+  {
+    "p": "P1038",
+    "count": 7532,
+    "label": "relative",
+    "percent": 0.61
+  },
+  {
+    "p": "P793",
+    "count": 7520,
+    "label": "significant event",
+    "percent": 0.61
+  },
+  {
+    "p": "P54",
+    "count": 7503,
+    "label": "member of sports team",
+    "percent": 0.6
+  },
+  {
+    "p": "P1313",
+    "count": 7388,
+    "label": "office held by head of government",
+    "percent": 0.6
+  },
+  {
+    "p": "P443",
+    "count": 6910,
+    "label": "pronunciation audio",
+    "percent": 0.56
+  },
+  {
+    "p": "P150",
+    "count": 6761,
+    "label": "contains administrative territorial entity",
+    "percent": 0.55
+  },
+  {
+    "p": "P2048",
+    "count": 6718,
+    "label": "height",
+    "percent": 0.54
+  },
+  {
+    "p": "P1950",
+    "count": 6548,
+    "label": "second family name in Spanish name",
+    "percent": 0.53
+  },
+  {
+    "p": "P1539",
+    "count": 6543,
+    "label": "female population",
+    "percent": 0.53
+  },
+  {
+    "p": "P1540",
+    "count": 6532,
+    "label": "male population",
+    "percent": 0.53
+  },
+  {
+    "p": "P3876",
+    "count": 6404,
+    "label": "category for alumni of educational institution",
+    "percent": 0.52
+  },
+  {
+    "p": "P945",
+    "count": 6101,
+    "label": "allegiance",
+    "percent": 0.49
+  },
+  {
+    "p": "P3602",
+    "count": 6082,
+    "label": "candidacy in election",
+    "percent": 0.49
+  },
+  {
+    "p": "P1830",
+    "count": 6058,
+    "label": "owner of",
+    "percent": 0.49
+  },
+  {
+    "p": "P206",
+    "count": 5945,
+    "label": "located in or next to body of water",
+    "percent": 0.48
+  },
+  {
+    "p": "P1619",
+    "count": 5904,
+    "label": "date of official opening",
+    "percent": 0.48
+  },
+  {
+    "p": "P358",
+    "count": 5864,
+    "label": "discography",
+    "percent": 0.47
+  },
+  {
+    "p": "P1813",
+    "count": 5851,
+    "label": "short name",
+    "percent": 0.47
+  },
+  {
+    "p": "P577",
+    "count": 5830,
+    "label": "publication date",
+    "percent": 0.47
+  },
+  {
+    "p": "P1416",
+    "count": 5784,
+    "label": "affiliation",
+    "percent": 0.47
+  },
+  {
+    "p": "P86",
+    "count": 5642,
+    "label": "composer",
+    "percent": 0.45
+  },
+  {
+    "p": "P6",
+    "count": 5542,
+    "label": "head of government",
+    "percent": 0.45
+  },
+  {
+    "p": "P1476",
+    "count": 5465,
+    "label": "title",
+    "percent": 0.44
+  },
+  {
+    "p": "P452",
+    "count": 5455,
+    "label": "industry",
+    "percent": 0.44
+  },
+  {
+    "p": "P413",
+    "count": 5357,
+    "label": "position played on team \/ speciality",
+    "percent": 0.43
+  },
+  {
+    "p": "P127",
+    "count": 5236,
+    "label": "owned by",
+    "percent": 0.42
+  },
+  {
+    "p": "P1532",
+    "count": 5194,
+    "label": "country for sport",
+    "percent": 0.42
+  },
+  {
+    "p": "P1801",
+    "count": 5186,
+    "label": "commemorative plaque image",
+    "percent": 0.42
+  },
+  {
+    "p": "P1456",
+    "count": 5184,
+    "label": "list of monuments",
+    "percent": 0.42
+  },
+  {
+    "p": "P737",
+    "count": 5153,
+    "label": "influenced by",
+    "percent": 0.42
+  },
+  {
+    "p": "P1598",
+    "count": 5143,
+    "label": "consecrator",
+    "percent": 0.41
+  },
+  {
+    "p": "P2927",
+    "count": 4701,
+    "label": "water as percent of area",
+    "percent": 0.38
+  },
+  {
+    "p": "P2032",
+    "count": 4647,
+    "label": "work period (end)",
+    "percent": 0.37
+  },
+  {
+    "p": "P407",
+    "count": 4638,
+    "label": "language of work or name",
+    "percent": 0.37
+  },
+  {
+    "p": "P2067",
+    "count": 4533,
+    "label": "mass",
+    "percent": 0.37
+  },
+  {
+    "p": "P137",
+    "count": 4263,
+    "label": "operator",
+    "percent": 0.34
+  },
+  {
+    "p": "P149",
+    "count": 4195,
+    "label": "architectural style",
+    "percent": 0.34
+  },
+  {
+    "p": "P1050",
+    "count": 4176,
+    "label": "medical condition",
+    "percent": 0.34
+  },
+  {
+    "p": "P1365",
+    "count": 4146,
+    "label": "replaces",
+    "percent": 0.33
+  },
+  {
+    "p": "P355",
+    "count": 3995,
+    "label": "subsidiary",
+    "percent": 0.32
+  },
+  {
+    "p": "P451",
+    "count": 3952,
+    "label": "unmarried partner",
+    "percent": 0.32
+  },
+  {
+    "p": "P968",
+    "count": 3948,
+    "label": "e-mail address",
+    "percent": 0.32
+  },
+  {
+    "p": "P7938",
+    "count": 3827,
+    "label": "associated electoral district",
+    "percent": 0.31
+  },
+  {
+    "p": "P2043",
+    "count": 3692,
+    "label": "length",
+    "percent": 0.3
+  },
+  {
+    "p": "P2632",
+    "count": 3630,
+    "label": "place of detention",
+    "percent": 0.29
+  },
+  {
+    "p": "P1329",
+    "count": 3618,
+    "label": "phone number",
+    "percent": 0.29
+  },
+  {
+    "p": "P580",
+    "count": 3532,
+    "label": "start time",
+    "percent": 0.28
+  },
+  {
+    "p": "P1612",
+    "count": 3511,
+    "label": "Commons Institution page",
+    "percent": 0.28
+  },
+  {
+    "p": "P488",
+    "count": 3502,
+    "label": "chairperson",
+    "percent": 0.28
+  },
+  {
+    "p": "P84",
+    "count": 3494,
+    "label": "architect",
+    "percent": 0.28
+  },
+  {
+    "p": "P1538",
+    "count": 3460,
+    "label": "number of households",
+    "percent": 0.28
+  },
+  {
+    "p": "P585",
+    "count": 3434,
+    "label": "point in time",
+    "percent": 0.28
+  },
+  {
+    "p": "P1424",
+    "count": 3377,
+    "label": "topic's main template",
+    "percent": 0.27
+  },
+  {
+    "p": "P1449",
+    "count": 3312,
+    "label": "nickname",
+    "percent": 0.27
+  },
+  {
+    "p": "P528",
+    "count": 3304,
+    "label": "catalog code",
+    "percent": 0.27
+  },
+  {
+    "p": "P511",
+    "count": 3202,
+    "label": "honorific prefix",
+    "percent": 0.26
+  },
+  {
+    "p": "P1001",
+    "count": 3090,
+    "label": "applies to jurisdiction",
+    "percent": 0.25
+  },
+  {
+    "p": "P708",
+    "count": 3084,
+    "label": "diocese",
+    "percent": 0.25
+  },
+  {
+    "p": "P613",
+    "count": 3003,
+    "label": "OS grid reference",
+    "percent": 0.24
+  },
+  {
+    "p": "P1317",
+    "count": 2914,
+    "label": "floruit",
+    "percent": 0.23
+  },
+  {
+    "p": "P1142",
+    "count": 2896,
+    "label": "political ideology",
+    "percent": 0.23
+  },
+  {
+    "p": "P1366",
+    "count": 2871,
+    "label": "replaced by",
+    "percent": 0.23
+  },
+  {
+    "p": "P2888",
+    "count": 2808,
+    "label": "exact match",
+    "percent": 0.23
+  },
+  {
+    "p": "P155",
+    "count": 2737,
+    "label": "follows",
+    "percent": 0.22
+  },
+  {
+    "p": "P2348",
+    "count": 2723,
+    "label": "time period",
+    "percent": 0.22
+  },
+  {
+    "p": "P156",
+    "count": 2722,
+    "label": "followed by",
+    "percent": 0.22
+  },
+  {
+    "p": "P364",
+    "count": 2714,
+    "label": "original language of film or TV show",
+    "percent": 0.22
+  },
+  {
+    "p": "P1128",
+    "count": 2699,
+    "label": "employees",
+    "percent": 0.22
+  },
+  {
+    "p": "P158",
+    "count": 2687,
+    "label": "seal image",
+    "percent": 0.22
+  },
+  {
+    "p": "P57",
+    "count": 2628,
+    "label": "director",
+    "percent": 0.21
+  },
+  {
+    "p": "P582",
+    "count": 2624,
+    "label": "end time",
+    "percent": 0.21
+  },
+  {
+    "p": "P30",
+    "count": 2602,
+    "label": "continent",
+    "percent": 0.21
+  },
+  {
+    "p": "P3896",
+    "count": 2596,
+    "label": "geoshape",
+    "percent": 0.21
+  },
+  {
+    "p": "P161",
+    "count": 2588,
+    "label": "cast member",
+    "percent": 0.21
+  },
+  {
+    "p": "P706",
+    "count": 2578,
+    "label": "located on terrain feature",
+    "percent": 0.21
+  },
+  {
+    "p": "P462",
+    "count": 2576,
+    "label": "color",
+    "percent": 0.21
+  },
+  {
+    "p": "P2047",
+    "count": 2556,
+    "label": "duration",
+    "percent": 0.21
+  },
+  {
+    "p": "P1549",
+    "count": 2527,
+    "label": "demonym",
+    "percent": 0.2
+  },
+  {
+    "p": "P1399",
+    "count": 2469,
+    "label": "convicted of",
+    "percent": 0.2
+  },
+  {
+    "p": "P2936",
+    "count": 2440,
+    "label": "language used",
+    "percent": 0.2
+  },
+  {
+    "p": "P750",
+    "count": 2438,
+    "label": "distributed by",
+    "percent": 0.2
+  },
+  {
+    "p": "P1037",
+    "count": 2438,
+    "label": "director \/ manager",
+    "percent": 0.2
+  },
+  {
+    "p": "P411",
+    "count": 2394,
+    "label": "canonization status",
+    "percent": 0.19
+  },
+  {
+    "p": "P840",
+    "count": 2389,
+    "label": "narrative location",
+    "percent": 0.19
+  },
+  {
+    "p": "P37",
+    "count": 2367,
+    "label": "official language",
+    "percent": 0.19
+  },
+  {
+    "p": "P162",
+    "count": 2316,
+    "label": "producer",
+    "percent": 0.19
+  },
+  {
+    "p": "P460",
+    "count": 2300,
+    "label": "said to be the same as",
+    "percent": 0.19
+  },
+  {
+    "p": "P58",
+    "count": 2283,
+    "label": "screenwriter",
+    "percent": 0.18
+  },
+  {
+    "p": "P6104",
+    "count": 2262,
+    "label": "maintained by WikiProject",
+    "percent": 0.18
+  },
+  {
+    "p": "P237",
+    "count": 2250,
+    "label": "coat of arms",
+    "percent": 0.18
+  },
+  {
+    "p": "P163",
+    "count": 2243,
+    "label": "flag",
+    "percent": 0.18
+  },
+  {
+    "p": "P803",
+    "count": 2221,
+    "label": "professorship",
+    "percent": 0.18
+  },
+  {
+    "p": "P1552",
+    "count": 2172,
+    "label": "has quality",
+    "percent": 0.18
+  },
+  {
+    "p": "P841",
+    "count": 2161,
+    "label": "feast day",
+    "percent": 0.17
+  },
+  {
+    "p": "P2643",
+    "count": 2161,
+    "label": "Carnegie Classification of Institutions of Higher Education",
+    "percent": 0.17
+  },
+  {
+    "p": "P921",
+    "count": 2147,
+    "label": "main subject",
+    "percent": 0.17
+  },
+  {
+    "p": "P6216",
+    "count": 2147,
+    "label": "copyright status",
+    "percent": 0.17
+  },
+  {
+    "p": "P4195",
+    "count": 2116,
+    "label": "category for employees of the organization",
+    "percent": 0.17
+  },
+  {
+    "p": "P344",
+    "count": 2055,
+    "label": "director of photography",
+    "percent": 0.17
+  },
+  {
+    "p": "P1056",
+    "count": 2053,
+    "label": "product or material produced",
+    "percent": 0.17
+  },
+  {
+    "p": "P1791",
+    "count": 2027,
+    "label": "category of people buried here",
+    "percent": 0.16
+  },
+  {
+    "p": "P1853",
+    "count": 1991,
+    "label": "blood type",
+    "percent": 0.16
+  },
+  {
+    "p": "P272",
+    "count": 1934,
+    "label": "production company",
+    "percent": 0.16
+  },
+  {
+    "p": "P2139",
+    "count": 1910,
+    "label": "total revenue",
+    "percent": 0.15
+  },
+  {
+    "p": "P2021",
+    "count": 1877,
+    "label": "Erd\u0151s number",
+    "percent": 0.15
+  },
+  {
+    "p": "P50",
+    "count": 1803,
+    "label": "author",
+    "percent": 0.15
+  },
+  {
+    "p": "P1875",
+    "count": 1796,
+    "label": "represented by",
+    "percent": 0.14
+  },
+  {
+    "p": "P105",
+    "count": 1792,
+    "label": "taxon rank",
+    "percent": 0.14
+  },
+  {
+    "p": "P225",
+    "count": 1792,
+    "label": "taxon name",
+    "percent": 0.14
+  },
+  {
+    "p": "P171",
+    "count": 1792,
+    "label": "parent taxon",
+    "percent": 0.14
+  },
+  {
+    "p": "P144",
+    "count": 1764,
+    "label": "based on",
+    "percent": 0.14
+  },
+  {
+    "p": "P835",
+    "count": 1727,
+    "label": "author citation (zoology)",
+    "percent": 0.14
+  },
+  {
+    "p": "P669",
+    "count": 1710,
+    "label": "located on street",
+    "percent": 0.14
+  },
+  {
+    "p": "P403",
+    "count": 1710,
+    "label": "mouth of the watercourse",
+    "percent": 0.14
+  },
+  {
+    "p": "P176",
+    "count": 1689,
+    "label": "manufacturer",
+    "percent": 0.14
+  },
+  {
+    "p": "P1026",
+    "count": 1686,
+    "label": "doctoral thesis",
+    "percent": 0.14
+  },
+  {
+    "p": "P118",
+    "count": 1674,
+    "label": "league",
+    "percent": 0.13
+  },
+  {
+    "p": "P366",
+    "count": 1635,
+    "label": "use",
+    "percent": 0.13
+  },
+  {
+    "p": "P1040",
+    "count": 1633,
+    "label": "film editor",
+    "percent": 0.13
+  },
+  {
+    "p": "P2196",
+    "count": 1598,
+    "label": "students count",
+    "percent": 0.13
+  },
+  {
+    "p": "P7561",
+    "count": 1585,
+    "label": "category for the interior of the item",
+    "percent": 0.13
+  },
+  {
+    "p": "P1451",
+    "count": 1537,
+    "label": "motto text",
+    "percent": 0.12
+  },
+  {
+    "p": "P4614",
+    "count": 1526,
+    "label": "drainage basin",
+    "percent": 0.12
+  },
+  {
+    "p": "P989",
+    "count": 1497,
+    "label": "spoken text audio",
+    "percent": 0.12
+  },
+  {
+    "p": "P610",
+    "count": 1493,
+    "label": "highest point",
+    "percent": 0.12
+  },
+  {
+    "p": "P2049",
+    "count": 1471,
+    "label": "width",
+    "percent": 0.12
+  },
+  {
+    "p": "P3919",
+    "count": 1459,
+    "label": "contributed to creative work",
+    "percent": 0.12
+  },
+  {
+    "p": "P2650",
+    "count": 1450,
+    "label": "interested in",
+    "percent": 0.12
+  },
+  {
+    "p": "P825",
+    "count": 1416,
+    "label": "dedicated to",
+    "percent": 0.11
+  },
+  {
+    "p": "P6269",
+    "count": 1410,
+    "label": "API endpoint",
+    "percent": 0.11
+  },
+  {
+    "p": "P1981",
+    "count": 1407,
+    "label": "FSK film rating",
+    "percent": 0.11
+  },
+  {
+    "p": "P170",
+    "count": 1405,
+    "label": "creator",
+    "percent": 0.11
+  },
+  {
+    "p": "P1174",
+    "count": 1386,
+    "label": "visitors per year",
+    "percent": 0.11
+  },
+  {
+    "p": "P814",
+    "count": 1383,
+    "label": "IUCN protected areas category",
+    "percent": 0.11
+  },
+  {
+    "p": "P1249",
+    "count": 1372,
+    "label": "time of earliest written record",
+    "percent": 0.11
+  },
+  {
+    "p": "P1191",
+    "count": 1362,
+    "label": "date of first performance",
+    "percent": 0.11
+  },
+  {
+    "p": "P1332",
+    "count": 1359,
+    "label": "coordinates of northernmost point",
+    "percent": 0.11
+  },
+  {
+    "p": "P194",
+    "count": 1329,
+    "label": "legislative body",
+    "percent": 0.11
+  },
+  {
+    "p": "P186",
+    "count": 1321,
+    "label": "material used",
+    "percent": 0.11
+  },
+  {
+    "p": "P1334",
+    "count": 1320,
+    "label": "coordinates of easternmost point",
+    "percent": 0.11
+  },
+  {
+    "p": "P1581",
+    "count": 1318,
+    "label": "official blog",
+    "percent": 0.11
+  },
+  {
+    "p": "P974",
+    "count": 1316,
+    "label": "tributary",
+    "percent": 0.11
+  },
+  {
+    "p": "P1335",
+    "count": 1314,
+    "label": "coordinates of westernmost point",
+    "percent": 0.11
+  },
+  {
+    "p": "P414",
+    "count": 1306,
+    "label": "stock exchange",
+    "percent": 0.11
+  },
+  {
+    "p": "P91",
+    "count": 1304,
+    "label": "sexual orientation",
+    "percent": 0.11
+  },
+  {
+    "p": "P1333",
+    "count": 1303,
+    "label": "coordinates of southernmost point",
+    "percent": 0.11
+  },
+  {
+    "p": "P1441",
+    "count": 1303,
+    "label": "present in work",
+    "percent": 0.11
+  },
+  {
+    "p": "P1843",
+    "count": 1302,
+    "label": "taxon common name",
+    "percent": 0.1
+  },
+  {
+    "p": "P2388",
+    "count": 1297,
+    "label": "office held by head of the organization",
+    "percent": 0.1
+  },
+  {
+    "p": "P710",
+    "count": 1295,
+    "label": "participant",
+    "percent": 0.1
+  },
+  {
+    "p": "P4552",
+    "count": 1268,
+    "label": "mountain range",
+    "percent": 0.1
+  },
+  {
+    "p": "P826",
+    "count": 1266,
+    "label": "tonality",
+    "percent": 0.1
+  },
+  {
+    "p": "P1884",
+    "count": 1265,
+    "label": "hair color",
+    "percent": 0.1
+  },
+  {
+    "p": "P2900",
+    "count": 1244,
+    "label": "fax number",
+    "percent": 0.1
+  },
+  {
+    "p": "P2094",
+    "count": 1244,
+    "label": "competition class",
+    "percent": 0.1
+  },
+  {
+    "p": "P2001",
+    "count": 1226,
+    "label": "Revised Romanization",
+    "percent": 0.1
+  },
+  {
+    "p": "P1269",
+    "count": 1216,
+    "label": "facet of",
+    "percent": 0.1
+  },
+  {
+    "p": "P7153",
+    "count": 1197,
+    "label": "significant place",
+    "percent": 0.1
+  },
+  {
+    "p": "P1151",
+    "count": 1191,
+    "label": "topic's main Wikimedia portal",
+    "percent": 0.1
+  },
+  {
+    "p": "P6365",
+    "count": 1188,
+    "label": "member category",
+    "percent": 0.1
+  },
+  {
+    "p": "P1340",
+    "count": 1180,
+    "label": "eye color",
+    "percent": 0.1
+  },
+  {
+    "p": "P898",
+    "count": 1180,
+    "label": "IPA transcription",
+    "percent": 0.1
+  },
+  {
+    "p": "P1636",
+    "count": 1163,
+    "label": "date of baptism in early childhood",
+    "percent": 0.09
+  },
+  {
+    "p": "P915",
+    "count": 1119,
+    "label": "filming location",
+    "percent": 0.09
+  },
+  {
+    "p": "P1942",
+    "count": 1116,
+    "label": "McCune-Reischauer romanization",
+    "percent": 0.09
+  },
+  {
+    "p": "P2053",
+    "count": 1116,
+    "label": "watershed area",
+    "percent": 0.09
+  },
+  {
+    "p": "P598",
+    "count": 1112,
+    "label": "commander of (DEPRECATED)",
+    "percent": 0.09
+  },
+  {
+    "p": "P123",
+    "count": 1109,
+    "label": "publisher",
+    "percent": 0.09
+  },
+  {
+    "p": "P2184",
+    "count": 1099,
+    "label": "history of topic",
+    "percent": 0.09
+  },
+  {
+    "p": "P1283",
+    "count": 1092,
+    "label": "filmography",
+    "percent": 0.09
+  },
+  {
+    "p": "P674",
+    "count": 1086,
+    "label": "characters",
+    "percent": 0.09
+  },
+  {
+    "p": "P4969",
+    "count": 1080,
+    "label": "derivative work",
+    "percent": 0.09
+  },
+  {
+    "p": "P5021",
+    "count": 1068,
+    "label": "test taken",
+    "percent": 0.09
+  },
+  {
+    "p": "P2758",
+    "count": 1056,
+    "label": "CNC film rating (France)",
+    "percent": 0.09
+  },
+  {
+    "p": "P1081",
+    "count": 1053,
+    "label": "Human Development Index",
+    "percent": 0.08
+  },
+  {
+    "p": "P417",
+    "count": 1015,
+    "label": "patron saint",
+    "percent": 0.08
+  },
+  {
+    "p": "P1740",
+    "count": 1014,
+    "label": "category for films shot at this location",
+    "percent": 0.08
+  },
+  {
+    "p": "P3793",
+    "count": 995,
+    "label": "IPv6 routing prefix",
+    "percent": 0.08
+  },
+  {
+    "p": "P8744",
+    "count": 977,
+    "label": "economy of topic",
+    "percent": 0.08
+  },
+  {
+    "p": "P5970",
+    "count": 972,
+    "label": "Medier\u00e5det rating",
+    "percent": 0.08
+  },
+  {
+    "p": "P2959",
+    "count": 970,
+    "label": "permanent duplicated item",
+    "percent": 0.08
+  },
+  {
+    "p": "P5715",
+    "count": 968,
+    "label": "Academia.edu profile URL",
+    "percent": 0.08
+  },
+  {
+    "p": "P2124",
+    "count": 944,
+    "label": "member count",
+    "percent": 0.08
+  },
+  {
+    "p": "P2561",
+    "count": 943,
+    "label": "name",
+    "percent": 0.08
+  },
+  {
+    "p": "P2354",
+    "count": 932,
+    "label": "has list",
+    "percent": 0.08
+  },
+  {
+    "p": "P3342",
+    "count": 924,
+    "label": "significant person",
+    "percent": 0.07
+  },
+  {
+    "p": "P87",
+    "count": 914,
+    "label": "librettist",
+    "percent": 0.07
+  },
+  {
+    "p": "P465",
+    "count": 914,
+    "label": "sRGB color hex triplet",
+    "percent": 0.07
+  },
+  {
+    "p": "P1687",
+    "count": 912,
+    "label": "Wikidata property",
+    "percent": 0.07
+  },
+  {
+    "p": "P1327",
+    "count": 875,
+    "label": "partner in business or sport",
+    "percent": 0.07
+  },
+  {
+    "p": "P178",
+    "count": 851,
+    "label": "developer",
+    "percent": 0.07
+  },
+  {
+    "p": "P2061",
+    "count": 841,
+    "label": "aspect ratio",
+    "percent": 0.07
+  },
+  {
+    "p": "P870",
+    "count": 824,
+    "label": "instrumentation",
+    "percent": 0.07
+  },
+  {
+    "p": "P2716",
+    "count": 820,
+    "label": "collage image",
+    "percent": 0.07
+  },
+  {
+    "p": "P1299",
+    "count": 819,
+    "label": "depicted by",
+    "percent": 0.07
+  },
+  {
+    "p": "P205",
+    "count": 811,
+    "label": "basin country",
+    "percent": 0.07
+  },
+  {
+    "p": "P169",
+    "count": 805,
+    "label": "chief executive officer",
+    "percent": 0.06
+  },
+  {
+    "p": "P747",
+    "count": 796,
+    "label": "has edition or translation",
+    "percent": 0.06
+  },
+  {
+    "p": "P487",
+    "count": 792,
+    "label": "Unicode character",
+    "percent": 0.06
+  },
+  {
+    "p": "P1092",
+    "count": 782,
+    "label": "total produced",
+    "percent": 0.06
+  },
+  {
+    "p": "P3018",
+    "count": 774,
+    "label": "located in protected area",
+    "percent": 0.06
+  },
+  {
+    "p": "P461",
+    "count": 764,
+    "label": "opposite of",
+    "percent": 0.06
+  },
+  {
+    "p": "P2283",
+    "count": 759,
+    "label": "uses",
+    "percent": 0.06
+  },
+  {
+    "p": "P729",
+    "count": 753,
+    "label": "service entry",
+    "percent": 0.06
+  },
+  {
+    "p": "P6801",
+    "count": 748,
+    "label": "number of hospital beds",
+    "percent": 0.06
+  },
+  {
+    "p": "P2554",
+    "count": 740,
+    "label": "production designer",
+    "percent": 0.06
+  },
+  {
+    "p": "P3761",
+    "count": 739,
+    "label": "IPv4 routing prefix",
+    "percent": 0.06
+  },
+  {
+    "p": "P2962",
+    "count": 733,
+    "label": "title of chess person",
+    "percent": 0.06
+  },
+  {
+    "p": "P175",
+    "count": 719,
+    "label": "performer",
+    "percent": 0.06
+  },
+  {
+    "p": "P3095",
+    "count": 709,
+    "label": "practiced by",
+    "percent": 0.06
+  },
+  {
+    "p": "P282",
+    "count": 707,
+    "label": "writing system",
+    "percent": 0.06
+  },
+  {
+    "p": "P1282",
+    "count": 706,
+    "label": "OpenStreetMap tag or key",
+    "percent": 0.06
+  },
+  {
+    "p": "P3716",
+    "count": 701,
+    "label": "social classification",
+    "percent": 0.06
+  },
+  {
+    "p": "P179",
+    "count": 698,
+    "label": "part of the series",
+    "percent": 0.06
+  },
+  {
+    "p": "P5353",
+    "count": 697,
+    "label": "school district",
+    "percent": 0.06
+  },
+  {
+    "p": "P2562",
+    "count": 691,
+    "label": "married name",
+    "percent": 0.06
+  },
+  {
+    "p": "P115",
+    "count": 683,
+    "label": "home venue",
+    "percent": 0.06
+  },
+  {
+    "p": "P2416",
+    "count": 676,
+    "label": "sports discipline competed in",
+    "percent": 0.05
+  },
+  {
+    "p": "P859",
+    "count": 675,
+    "label": "sponsor",
+    "percent": 0.05
+  },
+  {
+    "p": "P1347",
+    "count": 673,
+    "label": "military casualty classification",
+    "percent": 0.05
+  },
+  {
+    "p": "P1766",
+    "count": 672,
+    "label": "place name sign",
+    "percent": 0.05
+  },
+  {
+    "p": "P606",
+    "count": 672,
+    "label": "first flight",
+    "percent": 0.05
+  },
+  {
+    "p": "P141",
+    "count": 670,
+    "label": "IUCN conservation status",
+    "percent": 0.05
+  },
+  {
+    "p": "P627",
+    "count": 670,
+    "label": "IUCN taxon ID",
+    "percent": 0.05
+  },
+  {
+    "p": "P286",
+    "count": 658,
+    "label": "head coach",
+    "percent": 0.05
+  },
+  {
+    "p": "P2541",
+    "count": 648,
+    "label": "operating area",
+    "percent": 0.05
+  },
+  {
+    "p": "P2341",
+    "count": 644,
+    "label": "indigenous to",
+    "percent": 0.05
+  },
+  {
+    "p": "P1621",
+    "count": 644,
+    "label": "detail map",
+    "percent": 0.05
+  },
+  {
+    "p": "P239",
+    "count": 644,
+    "label": "ICAO airport code",
+    "percent": 0.05
+  },
+  {
+    "p": "P2670",
+    "count": 641,
+    "label": "has parts of the class",
+    "percent": 0.05
+  },
+  {
+    "p": "P208",
+    "count": 637,
+    "label": "executive body",
+    "percent": 0.05
+  },
+  {
+    "p": "P1877",
+    "count": 627,
+    "label": "after a work by",
+    "percent": 0.05
+  },
+  {
+    "p": "P2747",
+    "count": 624,
+    "label": "Filmiroda rating",
+    "percent": 0.05
+  },
+  {
+    "p": "P10",
+    "count": 624,
+    "label": "video",
+    "percent": 0.05
+  },
+  {
+    "p": "P126",
+    "count": 614,
+    "label": "maintained by",
+    "percent": 0.05
+  },
+  {
+    "p": "P3823",
+    "count": 611,
+    "label": "Ethnologue language status",
+    "percent": 0.05
+  },
+  {
+    "p": "P38",
+    "count": 611,
+    "label": "currency",
+    "percent": 0.05
+  },
+  {
+    "p": "P2633",
+    "count": 602,
+    "label": "geography of topic",
+    "percent": 0.05
+  },
+  {
+    "p": "P5775",
+    "count": 602,
+    "label": "image of interior",
+    "percent": 0.05
+  },
+  {
+    "p": "P3999",
+    "count": 602,
+    "label": "date of official closure",
+    "percent": 0.05
+  },
+  {
+    "p": "P238",
+    "count": 601,
+    "label": "IATA airport code",
+    "percent": 0.05
+  },
+  {
+    "p": "P1387",
+    "count": 596,
+    "label": "political alignment",
+    "percent": 0.05
+  },
+  {
+    "p": "P990",
+    "count": 595,
+    "label": "audio recording of the subject's spoken voice",
+    "percent": 0.05
+  },
+  {
+    "p": "P181",
+    "count": 594,
+    "label": "taxon range map image",
+    "percent": 0.05
+  },
+  {
+    "p": "P4647",
+    "count": 594,
+    "label": "location of first performance",
+    "percent": 0.05
+  },
+  {
+    "p": "P1083",
+    "count": 584,
+    "label": "maximum capacity",
+    "percent": 0.05
+  },
+  {
+    "p": "P6872",
+    "count": 578,
+    "label": "has written for",
+    "percent": 0.05
+  },
+  {
+    "p": "P15",
+    "count": 572,
+    "label": "route map",
+    "percent": 0.05
+  },
+  {
+    "p": "P768",
+    "count": 571,
+    "label": "electoral district",
+    "percent": 0.05
+  },
+  {
+    "p": "P360",
+    "count": 567,
+    "label": "is a list of",
+    "percent": 0.05
+  },
+  {
+    "p": "P466",
+    "count": 557,
+    "label": "occupant",
+    "percent": 0.04
+  },
+  {
+    "p": "P4602",
+    "count": 557,
+    "label": "date of burial or cremation",
+    "percent": 0.04
+  },
+  {
+    "p": "P2579",
+    "count": 556,
+    "label": "studied by",
+    "percent": 0.04
+  },
+  {
+    "p": "P195",
+    "count": 551,
+    "label": "collection",
+    "percent": 0.04
+  },
+  {
+    "p": "P2868",
+    "count": 550,
+    "label": "subject has role",
+    "percent": 0.04
+  },
+  {
+    "p": "P1576",
+    "count": 549,
+    "label": "lifestyle",
+    "percent": 0.04
+  },
+  {
+    "p": "P2521",
+    "count": 549,
+    "label": "female form of label",
+    "percent": 0.04
+  },
+  {
+    "p": "P2596",
+    "count": 547,
+    "label": "culture",
+    "percent": 0.04
+  },
+  {
+    "p": "P1087",
+    "count": 544,
+    "label": "Elo rating",
+    "percent": 0.04
+  },
+  {
+    "p": "P85",
+    "count": 542,
+    "label": "anthem",
+    "percent": 0.04
+  },
+  {
+    "p": "P1383",
+    "count": 541,
+    "label": "contains settlement",
+    "percent": 0.04
+  },
+  {
+    "p": "P61",
+    "count": 535,
+    "label": "discoverer or inventor",
+    "percent": 0.04
+  },
+  {
+    "p": "P1943",
+    "count": 531,
+    "label": "location map",
+    "percent": 0.04
+  },
+  {
+    "p": "P5125",
+    "count": 530,
+    "label": "Wikimedia outline",
+    "percent": 0.04
+  },
+  {
+    "p": "P730",
+    "count": 528,
+    "label": "service retirement",
+    "percent": 0.04
+  },
+  {
+    "p": "P2614",
+    "count": 528,
+    "label": "World Heritage criteria",
+    "percent": 0.04
+  },
+  {
+    "p": "P1325",
+    "count": 526,
+    "label": "external data available at",
+    "percent": 0.04
+  },
+  {
+    "p": "P1321",
+    "count": 522,
+    "label": "place of origin (Switzerland)",
+    "percent": 0.04
+  },
+  {
+    "p": "P287",
+    "count": 520,
+    "label": "designed by",
+    "percent": 0.04
+  },
+  {
+    "p": "P1482",
+    "count": 517,
+    "label": "Stack Exchange tag",
+    "percent": 0.04
+  },
+  {
+    "p": "P2515",
+    "count": 510,
+    "label": "costume designer",
+    "percent": 0.04
+  },
+  {
+    "p": "P5555",
+    "count": 507,
+    "label": "schematic",
+    "percent": 0.04
+  },
+  {
+    "p": "P2130",
+    "count": 498,
+    "label": "cost",
+    "percent": 0.04
+  },
+  {
+    "p": "P2142",
+    "count": 496,
+    "label": "box office",
+    "percent": 0.04
+  },
+  {
+    "p": "P88",
+    "count": 494,
+    "label": "commissioned by",
+    "percent": 0.04
+  },
+  {
+    "p": "P8402",
+    "count": 492,
+    "label": "Open Data portal",
+    "percent": 0.04
+  },
+  {
+    "p": "P6499",
+    "count": 485,
+    "label": "literate population",
+    "percent": 0.04
+  },
+  {
+    "p": "P6498",
+    "count": 485,
+    "label": "illiterate population",
+    "percent": 0.04
+  },
+  {
+    "p": "P6087",
+    "count": 484,
+    "label": "coach of sports team",
+    "percent": 0.04
+  },
+  {
+    "p": "P1431",
+    "count": 483,
+    "label": "executive producer",
+    "percent": 0.04
+  },
+  {
+    "p": "P529",
+    "count": 479,
+    "label": "runway",
+    "percent": 0.04
+  },
+  {
+    "p": "P931",
+    "count": 477,
+    "label": "place served by transport hub",
+    "percent": 0.04
+  },
+  {
+    "p": "P1421",
+    "count": 476,
+    "label": "GRIN URL",
+    "percent": 0.04
+  },
+  {
+    "p": "P122",
+    "count": 468,
+    "label": "basic form of government",
+    "percent": 0.04
+  },
+  {
+    "p": "P1542",
+    "count": 463,
+    "label": "has effect",
+    "percent": 0.04
+  },
+  {
+    "p": "P1782",
+    "count": 458,
+    "label": "courtesy name",
+    "percent": 0.04
+  },
+  {
+    "p": "P647",
+    "count": 454,
+    "label": "drafted by",
+    "percent": 0.04
+  },
+  {
+    "p": "P51",
+    "count": 450,
+    "label": "audio",
+    "percent": 0.04
+  },
+  {
+    "p": "P1350",
+    "count": 448,
+    "label": "number of matches played\/races\/starts",
+    "percent": 0.04
+  },
+  {
+    "p": "P6343",
+    "count": 445,
+    "label": "urban population",
+    "percent": 0.04
+  },
+  {
+    "p": "P6344",
+    "count": 444,
+    "label": "rural population",
+    "percent": 0.04
+  },
+  {
+    "p": "P2359",
+    "count": 443,
+    "label": "Roman nomen gentilicium",
+    "percent": 0.04
+  },
+  {
+    "p": "P5025",
+    "count": 433,
+    "label": "gens",
+    "percent": 0.03
+  },
+  {
+    "p": "P3451",
+    "count": 432,
+    "label": "nighttime view",
+    "percent": 0.03
+  },
+  {
+    "p": "P1064",
+    "count": 422,
+    "label": "track gauge",
+    "percent": 0.03
+  },
+  {
+    "p": "P1713",
+    "count": 420,
+    "label": "biography at the Bundestag of Germany URL",
+    "percent": 0.03
+  },
+  {
+    "p": "P516",
+    "count": 420,
+    "label": "powered by",
+    "percent": 0.03
+  },
+  {
+    "p": "P1075",
+    "count": 415,
+    "label": "rector",
+    "percent": 0.03
+  },
+  {
+    "p": "P6509",
+    "count": 414,
+    "label": "total goals in career",
+    "percent": 0.03
+  },
+  {
+    "p": "P2358",
+    "count": 411,
+    "label": "Roman praenomen",
+    "percent": 0.03
+  },
+  {
+    "p": "P1754",
+    "count": 408,
+    "label": "category related to list",
+    "percent": 0.03
+  },
+  {
+    "p": "P240",
+    "count": 407,
+    "label": "FAA airport code",
+    "percent": 0.03
+  },
+  {
+    "p": "P1995",
+    "count": 406,
+    "label": "health specialty",
+    "percent": 0.03
+  },
+  {
+    "p": "P467",
+    "count": 404,
+    "label": "legislated by",
+    "percent": 0.03
+  },
+  {
+    "p": "P2635",
+    "count": 403,
+    "label": "number of parts of this work",
+    "percent": 0.03
+  },
+  {
+    "p": "P157",
+    "count": 395,
+    "label": "killed by",
+    "percent": 0.03
+  },
+  {
+    "p": "P1787",
+    "count": 394,
+    "label": "art-name",
+    "percent": 0.03
+  },
+  {
+    "p": "P2225",
+    "count": 393,
+    "label": "discharge",
+    "percent": 0.03
+  },
+  {
+    "p": "P1408",
+    "count": 391,
+    "label": "licensed to broadcast to",
+    "percent": 0.03
+  },
+  {
+    "p": "P575",
+    "count": 388,
+    "label": "time of discovery or invention",
+    "percent": 0.03
+  },
+  {
+    "p": "P2660",
+    "count": 387,
+    "label": "topographic prominence",
+    "percent": 0.03
+  },
+  {
+    "p": "P1891",
+    "count": 387,
+    "label": "signatory",
+    "percent": 0.03
+  },
+  {
+    "p": "P4511",
+    "count": 383,
+    "label": "vertical depth",
+    "percent": 0.03
+  },
+  {
+    "p": "P2572",
+    "count": 382,
+    "label": "hashtag",
+    "percent": 0.03
+  },
+  {
+    "p": "P2522",
+    "count": 378,
+    "label": "victory",
+    "percent": 0.03
+  },
+  {
+    "p": "P121",
+    "count": 377,
+    "label": "item operated",
+    "percent": 0.03
+  },
+  {
+    "p": "P274",
+    "count": 375,
+    "label": "chemical formula",
+    "percent": 0.03
+  },
+  {
+    "p": "P3501",
+    "count": 374,
+    "label": "Catholic rite",
+    "percent": 0.03
+  },
+  {
+    "p": "P201",
+    "count": 371,
+    "label": "lake outflow",
+    "percent": 0.03
+  },
+  {
+    "p": "P3650",
+    "count": 365,
+    "label": "JMK film rating",
+    "percent": 0.03
+  },
+  {
+    "p": "P797",
+    "count": 357,
+    "label": "authority",
+    "percent": 0.03
+  },
+  {
+    "p": "P200",
+    "count": 357,
+    "label": "inflows",
+    "percent": 0.03
+  },
+  {
+    "p": "P828",
+    "count": 355,
+    "label": "has cause",
+    "percent": 0.03
+  },
+  {
+    "p": "P1589",
+    "count": 352,
+    "label": "lowest point",
+    "percent": 0.03
+  },
+  {
+    "p": "P233",
+    "count": 342,
+    "label": "canonical SMILES",
+    "percent": 0.03
+  },
+  {
+    "p": "P1709",
+    "count": 341,
+    "label": "equivalent class",
+    "percent": 0.03
+  },
+  {
+    "p": "P6363",
+    "count": 340,
+    "label": "WordLift URL",
+    "percent": 0.03
+  },
+  {
+    "p": "P4091",
+    "count": 333,
+    "label": "Irish Grid Reference",
+    "percent": 0.03
+  },
+  {
+    "p": "P1019",
+    "count": 332,
+    "label": "web feed URL",
+    "percent": 0.03
+  },
+  {
+    "p": "P425",
+    "count": 332,
+    "label": "field of this occupation",
+    "percent": 0.03
+  },
+  {
+    "p": "P92",
+    "count": 332,
+    "label": "main regulatory text",
+    "percent": 0.03
+  },
+  {
+    "p": "P6112",
+    "count": 331,
+    "label": "category for members of a team",
+    "percent": 0.03
+  },
+  {
+    "p": "P1455",
+    "count": 327,
+    "label": "list of works",
+    "percent": 0.03
+  },
+  {
+    "p": "P1885",
+    "count": 324,
+    "label": "cathedral",
+    "percent": 0.03
+  },
+  {
+    "p": "P1596",
+    "count": 323,
+    "label": "penalty",
+    "percent": 0.03
+  },
+  {
+    "p": "P1098",
+    "count": 323,
+    "label": "number of speakers",
+    "percent": 0.03
+  },
+  {
+    "p": "P1200",
+    "count": 323,
+    "label": "bodies of water basin category",
+    "percent": 0.03
+  },
+  {
+    "p": "P1748",
+    "count": 323,
+    "label": "NCI Thesaurus ID",
+    "percent": 0.03
+  },
+  {
+    "p": "P812",
+    "count": 322,
+    "label": "academic major",
+    "percent": 0.03
+  },
+  {
+    "p": "P291",
+    "count": 322,
+    "label": "place of publication",
+    "percent": 0.03
+  },
+  {
+    "p": "P1342",
+    "count": 317,
+    "label": "number of seats",
+    "percent": 0.03
+  },
+  {
+    "p": "P2564",
+    "count": 312,
+    "label": "K\u00f6ppen climate classification",
+    "percent": 0.03
+  },
+  {
+    "p": "P35",
+    "count": 311,
+    "label": "head of state",
+    "percent": 0.03
+  },
+  {
+    "p": "P3321",
+    "count": 310,
+    "label": "male form of label",
+    "percent": 0.02
+  },
+  {
+    "p": "P885",
+    "count": 308,
+    "label": "origin of the watercourse",
+    "percent": 0.02
+  },
+  {
+    "p": "P370",
+    "count": 305,
+    "label": "Sandbox-String",
+    "percent": 0.02
+  },
+  {
+    "p": "P552",
+    "count": 304,
+    "label": "handedness",
+    "percent": 0.02
+  },
+  {
+    "p": "P6885",
+    "count": 304,
+    "label": "historical region",
+    "percent": 0.02
+  },
+  {
+    "p": "P3311",
+    "count": 302,
+    "label": "plan view image",
+    "percent": 0.02
+  },
+  {
+    "p": "P449",
+    "count": 301,
+    "label": "original broadcaster",
+    "percent": 0.02
+  },
+  {
+    "p": "P2872",
+    "count": 298,
+    "label": "visitor centre",
+    "percent": 0.02
+  },
+  {
+    "p": "P3872",
+    "count": 297,
+    "label": "patronage",
+    "percent": 0.02
+  },
+  {
+    "p": "P1120",
+    "count": 295,
+    "label": "number of deaths",
+    "percent": 0.02
+  },
+  {
+    "p": "P832",
+    "count": 288,
+    "label": "public holiday",
+    "percent": 0.02
+  },
+  {
+    "p": "P2050",
+    "count": 288,
+    "label": "wingspan",
+    "percent": 0.02
+  },
+  {
+    "p": "P1101",
+    "count": 286,
+    "label": "floors above ground",
+    "percent": 0.02
+  },
+  {
+    "p": "P1906",
+    "count": 286,
+    "label": "office held by head of state",
+    "percent": 0.02
+  },
+  {
+    "p": "P2408",
+    "count": 286,
+    "label": "set in period",
+    "percent": 0.02
+  },
+  {
+    "p": "P457",
+    "count": 284,
+    "label": "foundational text",
+    "percent": 0.02
+  },
+  {
+    "p": "P2363",
+    "count": 283,
+    "label": "NMHH film rating",
+    "percent": 0.02
+  },
+  {
+    "p": "P180",
+    "count": 280,
+    "label": "depicts",
+    "percent": 0.02
+  },
+  {
+    "p": "P676",
+    "count": 280,
+    "label": "lyrics by",
+    "percent": 0.02
+  },
+  {
+    "p": "P4132",
+    "count": 280,
+    "label": "linguistic typology",
+    "percent": 0.02
+  },
+  {
+    "p": "P1545",
+    "count": 279,
+    "label": "series ordinal",
+    "percent": 0.02
+  },
+  {
+    "p": "P3320",
+    "count": 279,
+    "label": "board member",
+    "percent": 0.02
+  },
+  {
+    "p": "P2795",
+    "count": 277,
+    "label": "directions",
+    "percent": 0.02
+  },
+  {
+    "p": "P66",
+    "count": 277,
+    "label": "ancestral home",
+    "percent": 0.02
+  },
+  {
+    "p": "P2295",
+    "count": 276,
+    "label": "net profit",
+    "percent": 0.02
+  },
+  {
+    "p": "P2769",
+    "count": 272,
+    "label": "budget",
+    "percent": 0.02
+  },
+  {
+    "p": "P6553",
+    "count": 272,
+    "label": "preferred pronoun",
+    "percent": 0.02
+  },
+  {
+    "p": "P3402",
+    "count": 269,
+    "label": "CNC film rating (Romania)",
+    "percent": 0.02
+  },
+  {
+    "p": "P1831",
+    "count": 269,
+    "label": "electorate",
+    "percent": 0.02
+  },
+  {
+    "p": "P1080",
+    "count": 267,
+    "label": "from narrative universe",
+    "percent": 0.02
+  },
+  {
+    "p": "P3150",
+    "count": 267,
+    "label": "birthday",
+    "percent": 0.02
+  },
+  {
+    "p": "P2403",
+    "count": 265,
+    "label": "total assets",
+    "percent": 0.02
+  },
+  {
+    "p": "P1113",
+    "count": 263,
+    "label": "number of episodes",
+    "percent": 0.02
+  },
+  {
+    "p": "P2093",
+    "count": 263,
+    "label": "author name string",
+    "percent": 0.02
+  },
+  {
+    "p": "P1879",
+    "count": 263,
+    "label": "income classification (Philippines)",
+    "percent": 0.02
+  },
+  {
+    "p": "P3975",
+    "count": 261,
+    "label": "secretary general",
+    "percent": 0.02
+  },
+  {
+    "p": "P2817",
+    "count": 261,
+    "label": "appears in the heritage monument list",
+    "percent": 0.02
+  },
+  {
+    "p": "P474",
+    "count": 260,
+    "label": "country calling code",
+    "percent": 0.02
+  },
+  {
+    "p": "P3096",
+    "count": 259,
+    "label": "KML file",
+    "percent": 0.02
+  },
+  {
+    "p": "P78",
+    "count": 259,
+    "label": "top-level Internet domain",
+    "percent": 0.02
+  },
+  {
+    "p": "P2218",
+    "count": 253,
+    "label": "net worth",
+    "percent": 0.02
+  },
+  {
+    "p": "P1035",
+    "count": 252,
+    "label": "honorific suffix",
+    "percent": 0.02
+  },
+  {
+    "p": "P2789",
+    "count": 251,
+    "label": "connects with",
+    "percent": 0.02
+  },
+  {
+    "p": "P98",
+    "count": 249,
+    "label": "editor",
+    "percent": 0.02
+  },
+  {
+    "p": "P6364",
+    "count": 248,
+    "label": "official color",
+    "percent": 0.02
+  },
+  {
+    "p": "P520",
+    "count": 246,
+    "label": "armament",
+    "percent": 0.02
+  },
+  {
+    "p": "P3383",
+    "count": 242,
+    "label": "film poster",
+    "percent": 0.02
+  },
+  {
+    "p": "P2132",
+    "count": 241,
+    "label": "nominal GDP per capita",
+    "percent": 0.02
+  },
+  {
+    "p": "P3300",
+    "count": 241,
+    "label": "musical conductor",
+    "percent": 0.02
+  },
+  {
+    "p": "P3306",
+    "count": 241,
+    "label": "ICAA rating",
+    "percent": 0.02
+  },
+  {
+    "p": "P197",
+    "count": 240,
+    "label": "adjacent station",
+    "percent": 0.02
+  },
+  {
+    "p": "P807",
+    "count": 240,
+    "label": "separated from",
+    "percent": 0.02
+  },
+  {
+    "p": "P3448",
+    "count": 238,
+    "label": "stepparent",
+    "percent": 0.02
+  },
+  {
+    "p": "P2131",
+    "count": 238,
+    "label": "nominal GDP",
+    "percent": 0.02
+  },
+  {
+    "p": "P941",
+    "count": 237,
+    "label": "inspired by",
+    "percent": 0.02
+  },
+  {
+    "p": "P530",
+    "count": 237,
+    "label": "diplomatic relation",
+    "percent": 0.02
+  },
+  {
+    "p": "P400",
+    "count": 236,
+    "label": "platform",
+    "percent": 0.02
+  },
+  {
+    "p": "P1434",
+    "count": 236,
+    "label": "takes place in fictional universe",
+    "percent": 0.02
+  },
+  {
+    "p": "P217",
+    "count": 236,
+    "label": "inventory number",
+    "percent": 0.02
+  },
+  {
+    "p": "P969",
+    "count": 234,
+    "label": "street address (DEPRECATED)",
+    "percent": 0.02
+  },
+  {
+    "p": "P1382",
+    "count": 234,
+    "label": "partially coincident with",
+    "percent": 0.02
+  },
+  {
+    "p": "P423",
+    "count": 233,
+    "label": "shooting handedness",
+    "percent": 0.02
+  },
+  {
+    "p": "P1731",
+    "count": 232,
+    "label": "Fach",
+    "percent": 0.02
+  },
+  {
+    "p": "P2437",
+    "count": 230,
+    "label": "number of seasons",
+    "percent": 0.02
+  },
+  {
+    "p": "P117",
+    "count": 230,
+    "label": "chemical structure",
+    "percent": 0.02
+  },
+  {
+    "p": "P612",
+    "count": 230,
+    "label": "mother house",
+    "percent": 0.02
+  },
+  {
+    "p": "P1716",
+    "count": 229,
+    "label": "brand",
+    "percent": 0.02
+  },
+  {
+    "p": "P3878",
+    "count": 229,
+    "label": "Soundex",
+    "percent": 0.02
+  },
+  {
+    "p": "P1543",
+    "count": 228,
+    "label": "monogram",
+    "percent": 0.02
+  },
+  {
+    "p": "P2884",
+    "count": 228,
+    "label": "mains voltage",
+    "percent": 0.02
+  },
+  {
+    "p": "P1535",
+    "count": 228,
+    "label": "used by",
+    "percent": 0.02
+  },
+  {
+    "p": "P8017",
+    "count": 227,
+    "label": "generational suffix",
+    "percent": 0.02
+  },
+  {
+    "p": "P1618",
+    "count": 227,
+    "label": "sport number",
+    "percent": 0.02
+  },
+  {
+    "p": "P1622",
+    "count": 227,
+    "label": "driving side",
+    "percent": 0.02
+  },
+  {
+    "p": "P2979",
+    "count": 227,
+    "label": "maritime identification digits",
+    "percent": 0.02
+  },
+  {
+    "p": "P2852",
+    "count": 226,
+    "label": "emergency phone number",
+    "percent": 0.02
+  },
+  {
+    "p": "P2873",
+    "count": 225,
+    "label": "time in space",
+    "percent": 0.02
+  },
+  {
+    "p": "P953",
+    "count": 225,
+    "label": "full work available at URL",
+    "percent": 0.02
+  },
+  {
+    "p": "P2853",
+    "count": 225,
+    "label": "electrical plug type",
+    "percent": 0.02
+  },
+  {
+    "p": "P1963",
+    "count": 220,
+    "label": "properties for this type",
+    "percent": 0.02
+  },
+  {
+    "p": "P1657",
+    "count": 220,
+    "label": "MPAA film rating",
+    "percent": 0.02
+  },
+  {
+    "p": "P553",
+    "count": 220,
+    "label": "website account on",
+    "percent": 0.02
+  },
+  {
+    "p": "P229",
+    "count": 219,
+    "label": "IATA airline designator",
+    "percent": 0.02
+  },
+  {
+    "p": "P2101",
+    "count": 216,
+    "label": "melting point",
+    "percent": 0.02
+  },
+  {
+    "p": "P2250",
+    "count": 216,
+    "label": "life expectancy",
+    "percent": 0.02
+  },
+  {
+    "p": "P8345",
+    "count": 215,
+    "label": "media franchise",
+    "percent": 0.02
+  },
+  {
+    "p": "P1436",
+    "count": 214,
+    "label": "collection or exhibition size",
+    "percent": 0.02
+  },
+  {
+    "p": "P230",
+    "count": 214,
+    "label": "ICAO airline designator",
+    "percent": 0.02
+  },
+  {
+    "p": "P2813",
+    "count": 214,
+    "label": "house publication",
+    "percent": 0.02
+  },
+  {
+    "p": "P3989",
+    "count": 213,
+    "label": "members have occupation",
+    "percent": 0.02
+  },
+  {
+    "p": "P81",
+    "count": 212,
+    "label": "connecting line",
+    "percent": 0.02
+  },
+  {
+    "p": "P5982",
+    "count": 210,
+    "label": "annual number of weddings",
+    "percent": 0.02
+  },
+  {
+    "p": "P972",
+    "count": 209,
+    "label": "catalog",
+    "percent": 0.02
+  },
+  {
+    "p": "P1433",
+    "count": 209,
+    "label": "published in",
+    "percent": 0.02
+  },
+  {
+    "p": "P1049",
+    "count": 209,
+    "label": "worshipped by",
+    "percent": 0.02
+  },
+  {
+    "p": "P450",
+    "count": 209,
+    "label": "astronaut mission",
+    "percent": 0.02
+  },
+  {
+    "p": "P4841",
+    "count": 205,
+    "label": "total fertility rate",
+    "percent": 0.02
+  },
+  {
+    "p": "P2054",
+    "count": 204,
+    "label": "density",
+    "percent": 0.02
+  },
+  {
+    "p": "P4080",
+    "count": 202,
+    "label": "number of houses",
+    "percent": 0.02
+  },
+  {
+    "p": "P3834",
+    "count": 202,
+    "label": "RTC film rating",
+    "percent": 0.02
+  },
+  {
+    "p": "P437",
+    "count": 201,
+    "label": "distribution format",
+    "percent": 0.02
+  },
+  {
+    "p": "P6802",
+    "count": 198,
+    "label": "related image",
+    "percent": 0.02
+  },
+  {
+    "p": "P8047",
+    "count": 198,
+    "label": "country of registry",
+    "percent": 0.02
+  },
+  {
+    "p": "P3087",
+    "count": 198,
+    "label": "fiscal\/tax revenue",
+    "percent": 0.02
+  },
+  {
+    "p": "P1290",
+    "count": 197,
+    "label": "godparent",
+    "percent": 0.02
+  },
+  {
+    "p": "P2299",
+    "count": 197,
+    "label": "PPP GDP per capita",
+    "percent": 0.02
+  },
+  {
+    "p": "P8413",
+    "count": 196,
+    "label": "academic appointment",
+    "percent": 0.02
+  },
+  {
+    "p": "P113",
+    "count": 196,
+    "label": "airline hub",
+    "percent": 0.02
+  },
+  {
+    "p": "P4010",
+    "count": 196,
+    "label": "GDP (PPP)",
+    "percent": 0.02
+  },
+  {
+    "p": "P5607",
+    "count": 194,
+    "label": "located in the ecclesiastical territorial entity",
+    "percent": 0.02
+  },
+  {
+    "p": "P3880",
+    "count": 194,
+    "label": "Caverphone",
+    "percent": 0.02
+  },
+  {
+    "p": "P1279",
+    "count": 194,
+    "label": "inflation rate",
+    "percent": 0.02
+  },
+  {
+    "p": "P2219",
+    "count": 193,
+    "label": "real gross domestic product growth rate",
+    "percent": 0.02
+  },
+  {
+    "p": "P1692",
+    "count": 191,
+    "label": "ICD-9-CM",
+    "percent": 0.02
+  },
+  {
+    "p": "P1811",
+    "count": 191,
+    "label": "list of episodes",
+    "percent": 0.02
+  },
+  {
+    "p": "P6544",
+    "count": 190,
+    "label": "total points in career",
+    "percent": 0.02
+  },
+  {
+    "p": "P4220",
+    "count": 190,
+    "label": "order of battle",
+    "percent": 0.02
+  },
+  {
+    "p": "P6546",
+    "count": 189,
+    "label": "penalty minutes in career",
+    "percent": 0.02
+  },
+  {
+    "p": "P6545",
+    "count": 189,
+    "label": "total assists in career",
+    "percent": 0.02
+  },
+  {
+    "p": "P2699",
+    "count": 187,
+    "label": "URL",
+    "percent": 0.02
+  },
+  {
+    "p": "P1471",
+    "count": 187,
+    "label": "reporting mark",
+    "percent": 0.02
+  },
+  {
+    "p": "P2258",
+    "count": 187,
+    "label": "mobile country code",
+    "percent": 0.02
+  },
+  {
+    "p": "P2684",
+    "count": 186,
+    "label": "Kijkwijzer rating",
+    "percent": 0.01
+  },
+  {
+    "p": "P1999",
+    "count": 184,
+    "label": "UNESCO language status",
+    "percent": 0.01
+  },
+  {
+    "p": "P2234",
+    "count": 184,
+    "label": "volume as quantity",
+    "percent": 0.01
+  },
+  {
+    "p": "P920",
+    "count": 183,
+    "label": "LEM ID",
+    "percent": 0.01
+  },
+  {
+    "p": "P725",
+    "count": 183,
+    "label": "voice actor",
+    "percent": 0.01
+  },
+  {
+    "p": "P424",
+    "count": 181,
+    "label": "Wikimedia language code",
+    "percent": 0.01
+  },
+  {
+    "p": "P2573",
+    "count": 180,
+    "label": "number of out-of-school children",
+    "percent": 0.01
+  },
+  {
+    "p": "P3000",
+    "count": 179,
+    "label": "marriageable age",
+    "percent": 0.01
+  },
+  {
+    "p": "P664",
+    "count": 178,
+    "label": "organizer",
+    "percent": 0.01
+  },
+  {
+    "p": "P406",
+    "count": 177,
+    "label": "soundtrack release",
+    "percent": 0.01
+  },
+  {
+    "p": "P559",
+    "count": 176,
+    "label": "terminus",
+    "percent": 0.01
+  },
+  {
+    "p": "P2578",
+    "count": 175,
+    "label": "studies",
+    "percent": 0.01
+  },
+  {
+    "p": "P7725",
+    "count": 174,
+    "label": "litter size",
+    "percent": 0.01
+  },
+  {
+    "p": "P2629",
+    "count": 174,
+    "label": "BBFC rating",
+    "percent": 0.01
+  },
+  {
+    "p": "P1922",
+    "count": 174,
+    "label": "first line",
+    "percent": 0.01
+  },
+  {
+    "p": "P1786",
+    "count": 174,
+    "label": "posthumous name",
+    "percent": 0.01
+  },
+  {
+    "p": "P1661",
+    "count": 172,
+    "label": "Alexa rank",
+    "percent": 0.01
+  },
+  {
+    "p": "P306",
+    "count": 172,
+    "label": "operating system",
+    "percent": 0.01
+  },
+  {
+    "p": "P7047",
+    "count": 170,
+    "label": "enemy of",
+    "percent": 0.01
+  },
+  {
+    "p": "P469",
+    "count": 168,
+    "label": "lakes on river",
+    "percent": 0.01
+  },
+  {
+    "p": "P3362",
+    "count": 167,
+    "label": "operating income",
+    "percent": 0.01
+  },
+  {
+    "p": "P199",
+    "count": 167,
+    "label": "business division",
+    "percent": 0.01
+  },
+  {
+    "p": "P5816",
+    "count": 166,
+    "label": "state of conservation",
+    "percent": 0.01
+  },
+  {
+    "p": "P2910",
+    "count": 165,
+    "label": "icon",
+    "percent": 0.01
+  },
+  {
+    "p": "P2851",
+    "count": 164,
+    "label": "payment types accepted",
+    "percent": 0.01
+  },
+  {
+    "p": "P6543",
+    "count": 164,
+    "label": "total shots in career",
+    "percent": 0.01
+  },
+  {
+    "p": "P6547",
+    "count": 164,
+    "label": "career plus-minus rating",
+    "percent": 0.01
+  },
+  {
+    "p": "P1672",
+    "count": 164,
+    "label": "this taxon is source of",
+    "percent": 0.01
+  },
+  {
+    "p": "P16",
+    "count": 163,
+    "label": "highway system",
+    "percent": 0.01
+  },
+  {
+    "p": "P1304",
+    "count": 161,
+    "label": "central bank",
+    "percent": 0.01
+  },
+  {
+    "p": "P1635",
+    "count": 160,
+    "label": "religious name",
+    "percent": 0.01
+  },
+  {
+    "p": "P275",
+    "count": 160,
+    "label": "copyright license",
+    "percent": 0.01
+  },
+  {
+    "p": "P348",
+    "count": 160,
+    "label": "software version identifier",
+    "percent": 0.01
+  },
+  {
+    "p": "P14",
+    "count": 159,
+    "label": "traffic sign",
+    "percent": 0.01
+  },
+  {
+    "p": "P1944",
+    "count": 159,
+    "label": "relief location map",
+    "percent": 0.01
+  },
+  {
+    "p": "P1198",
+    "count": 159,
+    "label": "unemployment rate",
+    "percent": 0.01
+  },
+  {
+    "p": "P2855",
+    "count": 159,
+    "label": "VAT-rate",
+    "percent": 0.01
+  },
+  {
+    "p": "P2534",
+    "count": 158,
+    "label": "defining formula",
+    "percent": 0.01
+  },
+  {
+    "p": "P741",
+    "count": 158,
+    "label": "playing hand",
+    "percent": 0.01
+  },
+  {
+    "p": "P404",
+    "count": 157,
+    "label": "game mode",
+    "percent": 0.01
+  },
+  {
+    "p": "P2254",
+    "count": 156,
+    "label": "maximum operating altitude",
+    "percent": 0.01
+  },
+  {
+    "p": "P8768",
+    "count": 156,
+    "label": "online catalog",
+    "percent": 0.01
+  },
+  {
+    "p": "P6251",
+    "count": 155,
+    "label": "catchphrase",
+    "percent": 0.01
+  },
+  {
+    "p": "P2547",
+    "count": 154,
+    "label": "perimeter",
+    "percent": 0.01
+  },
+  {
+    "p": "P8214",
+    "count": 153,
+    "label": "curriculum vitae URL",
+    "percent": 0.01
+  },
+  {
+    "p": "P2179",
+    "count": 152,
+    "label": "ACM Classification Code (2012)",
+    "percent": 0.01
+  },
+  {
+    "p": "P822",
+    "count": 150,
+    "label": "mascot",
+    "percent": 0.01
+  },
+  {
+    "p": "P2102",
+    "count": 147,
+    "label": "boiling point",
+    "percent": 0.01
+  },
+  {
+    "p": "P2770",
+    "count": 146,
+    "label": "source of income",
+    "percent": 0.01
+  },
+  {
+    "p": "P4952",
+    "count": 146,
+    "label": "safety classification and labelling",
+    "percent": 0.01
+  },
+  {
+    "p": "P1132",
+    "count": 146,
+    "label": "number of participants",
+    "percent": 0.01
+  },
+  {
+    "p": "P746",
+    "count": 144,
+    "label": "date of disappearance",
+    "percent": 0.01
+  },
+  {
+    "p": "P2176",
+    "count": 144,
+    "label": "drug used for treatment",
+    "percent": 0.01
+  },
+  {
+    "p": "P8464",
+    "count": 143,
+    "label": "content partnership category",
+    "percent": 0.01
+  },
+  {
+    "p": "P2079",
+    "count": 143,
+    "label": "fabrication method",
+    "percent": 0.01
+  },
+  {
+    "p": "P177",
+    "count": 142,
+    "label": "crosses",
+    "percent": 0.01
+  },
+  {
+    "p": "P3032",
+    "count": 141,
+    "label": "adjacent building",
+    "percent": 0.01
+  },
+  {
+    "p": "P564",
+    "count": 141,
+    "label": "singles record",
+    "percent": 0.01
+  },
+  {
+    "p": "P1071",
+    "count": 140,
+    "label": "location of creation",
+    "percent": 0.01
+  },
+  {
+    "p": "P1846",
+    "count": 139,
+    "label": "distribution map",
+    "percent": 0.01
+  },
+  {
+    "p": "P4214",
+    "count": 138,
+    "label": "highest observed lifespan",
+    "percent": 0.01
+  },
+  {
+    "p": "P1546",
+    "count": 138,
+    "label": "motto",
+    "percent": 0.01
+  },
+  {
+    "p": "P2262",
+    "count": 137,
+    "label": "draft",
+    "percent": 0.01
+  },
+  {
+    "p": "P8477",
+    "count": 137,
+    "label": "BTI Status Index",
+    "percent": 0.01
+  },
+  {
+    "p": "P8476",
+    "count": 137,
+    "label": "BTI Governance Index",
+    "percent": 0.01
+  },
+  {
+    "p": "P3216",
+    "count": 137,
+    "label": "ClassInd rating",
+    "percent": 0.01
+  },
+  {
+    "p": "P2997",
+    "count": 137,
+    "label": "age of majority",
+    "percent": 0.01
+  },
+  {
+    "p": "P2261",
+    "count": 136,
+    "label": "beam",
+    "percent": 0.01
+  },
+  {
+    "p": "P4000",
+    "count": 135,
+    "label": "has fruit type",
+    "percent": 0.01
+  },
+  {
+    "p": "P555",
+    "count": 135,
+    "label": "doubles record",
+    "percent": 0.01
+  },
+  {
+    "p": "P2121",
+    "count": 135,
+    "label": "prize money",
+    "percent": 0.01
+  },
+  {
+    "p": "P2652",
+    "count": 133,
+    "label": "partnership with",
+    "percent": 0.01
+  },
+  {
+    "p": "P3132",
+    "count": 132,
+    "label": "last line",
+    "percent": 0.01
+  },
+  {
+    "p": "P1352",
+    "count": 131,
+    "label": "ranking",
+    "percent": 0.01
+  },
+  {
+    "p": "P1931",
+    "count": 131,
+    "label": "NIOSH Pocket Guide ID",
+    "percent": 0.01
+  },
+  {
+    "p": "P193",
+    "count": 131,
+    "label": "main building contractor",
+    "percent": 0.01
+  },
+  {
+    "p": "P6658",
+    "count": 131,
+    "label": "RCQ classification",
+    "percent": 0.01
+  },
+  {
+    "p": "P631",
+    "count": 130,
+    "label": "structural engineer",
+    "percent": 0.01
+  },
+  {
+    "p": "P2119",
+    "count": 129,
+    "label": "vapor pressure",
+    "percent": 0.01
+  },
+  {
+    "p": "P5389",
+    "count": 129,
+    "label": "permanent resident of",
+    "percent": 0.01
+  },
+  {
+    "p": "P209",
+    "count": 129,
+    "label": "highest judicial authority",
+    "percent": 0.01
+  },
+  {
+    "p": "P547",
+    "count": 128,
+    "label": "commemorates",
+    "percent": 0.01
+  },
+  {
+    "p": "P5056",
+    "count": 127,
+    "label": "patronym or matronym for this person",
+    "percent": 0.01
+  },
+  {
+    "p": "P1881",
+    "count": 127,
+    "label": "list of characters",
+    "percent": 0.01
+  },
+  {
+    "p": "P3403",
+    "count": 127,
+    "label": "coextensive with",
+    "percent": 0.01
+  },
+  {
+    "p": "P1339",
+    "count": 127,
+    "label": "number of injured",
+    "percent": 0.01
+  },
+  {
+    "p": "P1461",
+    "count": 126,
+    "label": "Patientplus ID",
+    "percent": 0.01
+  },
+  {
+    "p": "P5412",
+    "count": 126,
+    "label": "romanization of Belarusian (2007 system)",
+    "percent": 0.01
+  },
+  {
+    "p": "P1680",
+    "count": 125,
+    "label": "subtitle",
+    "percent": 0.01
+  },
+  {
+    "p": "P3067",
+    "count": 125,
+    "label": "GS1 country code",
+    "percent": 0.01
+  },
+  {
+    "p": "P3842",
+    "count": 123,
+    "label": "located in present-day administrative territorial entity",
+    "percent": 0.01
+  },
+  {
+    "p": "P1103",
+    "count": 121,
+    "label": "number of platform tracks",
+    "percent": 0.01
+  },
+  {
+    "p": "P1987",
+    "count": 121,
+    "label": "MCN code",
+    "percent": 0.01
+  },
+  {
+    "p": "P6855",
+    "count": 120,
+    "label": "emergency services",
+    "percent": 0.01
+  },
+  {
+    "p": "P4291",
+    "count": 120,
+    "label": "panoramic view",
+    "percent": 0.01
+  },
+  {
+    "p": "P3238",
+    "count": 119,
+    "label": "trunk prefix",
+    "percent": 0.01
+  },
+  {
+    "p": "P2404",
+    "count": 118,
+    "label": "time-weighted average exposure limit",
+    "percent": 0.01
+  },
+  {
+    "p": "P4573",
+    "count": 118,
+    "label": "Merchant Category Code",
+    "percent": 0.01
+  },
+  {
+    "p": "P479",
+    "count": 118,
+    "label": "input method",
+    "percent": 0.01
+  },
+  {
+    "p": "P393",
+    "count": 118,
+    "label": "edition number",
+    "percent": 0.01
+  },
+  {
+    "p": "P4792",
+    "count": 117,
+    "label": "dam",
+    "percent": 0.01
+  },
+  {
+    "p": "P3879",
+    "count": 117,
+    "label": "Cologne phonetics",
+    "percent": 0.01
+  },
+  {
+    "p": "P2137",
+    "count": 117,
+    "label": "total equity",
+    "percent": 0.01
+  },
+  {
+    "p": "P912",
+    "count": 116,
+    "label": "has facility",
+    "percent": 0.01
+  },
+  {
+    "p": "P3966",
+    "count": 116,
+    "label": "programming paradigm",
+    "percent": 0.01
+  },
+  {
+    "p": "P1427",
+    "count": 115,
+    "label": "start point",
+    "percent": 0.01
+  },
+  {
+    "p": "P277",
+    "count": 115,
+    "label": "programming language",
+    "percent": 0.01
+  },
+  {
+    "p": "P6186",
+    "count": 113,
+    "label": "category for eponymous categories",
+    "percent": 0.01
+  },
+  {
+    "p": "P963",
+    "count": 113,
+    "label": "streaming media URL",
+    "percent": 0.01
+  },
+  {
+    "p": "P1398",
+    "count": 113,
+    "label": "structure replaces",
+    "percent": 0.01
+  },
+  {
+    "p": "P2365",
+    "count": 112,
+    "label": "Roman cognomen",
+    "percent": 0.01
+  },
+  {
+    "p": "P1824",
+    "count": 112,
+    "label": "road number",
+    "percent": 0.01
+  },
+  {
+    "p": "P667",
+    "count": 111,
+    "label": "ICPC 2 ID",
+    "percent": 0.01
+  },
+  {
+    "p": "P1402",
+    "count": 111,
+    "label": "Foundational Model of Anatomy ID",
+    "percent": 0.01
+  },
+  {
+    "p": "P531",
+    "count": 111,
+    "label": "diplomatic mission sent",
+    "percent": 0.01
+  },
+  {
+    "p": "P566",
+    "count": 110,
+    "label": "basionym",
+    "percent": 0.01
+  },
+  {
+    "p": "P289",
+    "count": 107,
+    "label": "vessel class",
+    "percent": 0.01
+  },
+  {
+    "p": "P246",
+    "count": 107,
+    "label": "element symbol",
+    "percent": 0.01
+  },
+  {
+    "p": "P415",
+    "count": 107,
+    "label": "radio format",
+    "percent": 0.01
+  },
+  {
+    "p": "P1086",
+    "count": 106,
+    "label": "atomic number",
+    "percent": 0.01
+  },
+  {
+    "p": "P2978",
+    "count": 106,
+    "label": "wheel arrangement",
+    "percent": 0.01
+  },
+  {
+    "p": "P6591",
+    "count": 104,
+    "label": "maximum temperature record",
+    "percent": 0.01
+  },
+  {
+    "p": "P4213",
+    "count": 104,
+    "label": "Unicode hex codepoint",
+    "percent": 0.01
+  },
+  {
+    "p": "P2895",
+    "count": 104,
+    "label": "maximum sustained winds",
+    "percent": 0.01
+  },
+  {
+    "p": "P2238",
+    "count": 104,
+    "label": "official symbol",
+    "percent": 0.01
+  },
+  {
+    "p": "P1114",
+    "count": 104,
+    "label": "quantity",
+    "percent": 0.01
+  },
+  {
+    "p": "P2052",
+    "count": 103,
+    "label": "speed",
+    "percent": 0.01
+  },
+  {
+    "p": "P2257",
+    "count": 102,
+    "label": "event interval",
+    "percent": 0.01
+  },
+  {
+    "p": "P1268",
+    "count": 102,
+    "label": "represents",
+    "percent": 0.01
+  },
+  {
+    "p": "P2532",
+    "count": 102,
+    "label": "lowest atmospheric pressure",
+    "percent": 0.01
+  },
+  {
+    "p": "P427",
+    "count": 101,
+    "label": "taxonomic type",
+    "percent": 0.01
+  },
+  {
+    "p": "P3828",
+    "count": 100,
+    "label": "wears",
+    "percent": 0.01
+  },
+  {
+    "p": "P1240",
+    "count": 100,
+    "label": "Danish Bibliometric Research Indicator level",
+    "percent": 0.01
+  },
+  {
+    "p": "P3909",
+    "count": 99,
+    "label": "last words",
+    "percent": 0.01
+  },
+  {
+    "p": "P8138",
+    "count": 98,
+    "label": "located in the statistical territorial entity",
+    "percent": 0.01
+  },
+  {
+    "p": "P4100",
+    "count": 98,
+    "label": "parliamentary group",
+    "percent": 0.01
+  },
+  {
+    "p": "P7422",
+    "count": 97,
+    "label": "minimum temperature record",
+    "percent": 0.01
+  },
+  {
+    "p": "P852",
+    "count": 97,
+    "label": "ESRB rating",
+    "percent": 0.01
+  },
+  {
+    "p": "P2263",
+    "count": 97,
+    "label": "ISOCAT id",
+    "percent": 0.01
+  },
+  {
+    "p": "P2293",
+    "count": 97,
+    "label": "genetic association",
+    "percent": 0.01
+  },
+  {
+    "p": "P5252",
+    "count": 97,
+    "label": "winter view",
+    "percent": 0.01
+  },
+  {
+    "p": "P2925",
+    "count": 97,
+    "label": "domain of saint or deity",
+    "percent": 0.01
+  },
+  {
+    "p": "P4743",
+    "count": 96,
+    "label": "animal breed",
+    "percent": 0.01
+  },
+  {
+    "p": "P3858",
+    "count": 95,
+    "label": "route diagram",
+    "percent": 0.01
+  },
+  {
+    "p": "P3075",
+    "count": 95,
+    "label": "official religion",
+    "percent": 0.01
+  },
+  {
+    "p": "P3815",
+    "count": 95,
+    "label": "volcano observatory",
+    "percent": 0.01
+  },
+  {
+    "p": "P5096",
+    "count": 95,
+    "label": "member of the crew of",
+    "percent": 0.01
+  },
+  {
+    "p": "P5703",
+    "count": 94,
+    "label": "airline accounting code",
+    "percent": 0.01
+  },
+  {
+    "p": "P5800",
+    "count": 93,
+    "label": "narrative role",
+    "percent": 0.01
+  },
+  {
+    "p": "P2129",
+    "count": 93,
+    "label": "immediately dangerous to life or health",
+    "percent": 0.01
+  },
+  {
+    "p": "P1420",
+    "count": 93,
+    "label": "taxon synonym",
+    "percent": 0.01
+  },
+  {
+    "p": "P3063",
+    "count": 93,
+    "label": "gestation period",
+    "percent": 0.01
+  },
+  {
+    "p": "P4791",
+    "count": 93,
+    "label": "commanded by",
+    "percent": 0.01
+  },
+  {
+    "p": "P1108",
+    "count": 92,
+    "label": "electronegativity",
+    "percent": 0.01
+  },
+  {
+    "p": "P7779",
+    "count": 92,
+    "label": "member of military unit",
+    "percent": 0.01
+  },
+  {
+    "p": "P248",
+    "count": 91,
+    "label": "stated in",
+    "percent": 0.01
+  },
+  {
+    "p": "P263",
+    "count": 91,
+    "label": "official residence",
+    "percent": 0.01
+  },
+  {
+    "p": "P2386",
+    "count": 91,
+    "label": "diameter",
+    "percent": 0.01
+  },
+  {
+    "p": "P5658",
+    "count": 91,
+    "label": "railway traffic side",
+    "percent": 0.01
+  },
+  {
+    "p": "P1654",
+    "count": 90,
+    "label": "wing configuration",
+    "percent": 0.01
+  },
+  {
+    "p": "P952",
+    "count": 90,
+    "label": "ISCO-88 occupation code",
+    "percent": 0.01
+  },
+  {
+    "p": "P1346",
+    "count": 90,
+    "label": "winner",
+    "percent": 0.01
+  },
+  {
+    "p": "P296",
+    "count": 89,
+    "label": "station code",
+    "percent": 0.01
+  },
+  {
+    "p": "P2438",
+    "count": 88,
+    "label": "narrator",
+    "percent": 0.01
+  },
+  {
+    "p": "P5201",
+    "count": 88,
+    "label": "IMDA rating",
+    "percent": 0.01
+  },
+  {
+    "p": "P1990",
+    "count": 87,
+    "label": "species kept",
+    "percent": 0.01
+  },
+  {
+    "p": "P110",
+    "count": 87,
+    "label": "illustrator",
+    "percent": 0.01
+  },
+  {
+    "p": "P914",
+    "count": 87,
+    "label": "USK rating",
+    "percent": 0.01
+  },
+  {
+    "p": "P3912",
+    "count": 87,
+    "label": "newspaper format",
+    "percent": 0.01
+  },
+  {
+    "p": "P1762",
+    "count": 87,
+    "label": "Hornbostel-Sachs classification",
+    "percent": 0.01
+  },
+  {
+    "p": "P2659",
+    "count": 86,
+    "label": "topographic isolation",
+    "percent": 0.01
+  },
+  {
+    "p": "P2520",
+    "count": 85,
+    "label": "UNESCO Biosphere Reserve URL",
+    "percent": 0.01
+  },
+  {
+    "p": "P2896",
+    "count": 85,
+    "label": "publication interval",
+    "percent": 0.01
+  },
+  {
+    "p": "P2919",
+    "count": 85,
+    "label": "label in sign language",
+    "percent": 0.01
+  },
+  {
+    "p": "P502",
+    "count": 85,
+    "label": "HURDAT identifier",
+    "percent": 0.01
+  },
+  {
+    "p": "P2505",
+    "count": 85,
+    "label": "carries",
+    "percent": 0.01
+  },
+  {
+    "p": "P4437",
+    "count": 84,
+    "label": "FPB rating",
+    "percent": 0.01
+  },
+  {
+    "p": "P798",
+    "count": 83,
+    "label": "military designation",
+    "percent": 0.01
+  },
+  {
+    "p": "P542",
+    "count": 83,
+    "label": "officially opened by",
+    "percent": 0.01
+  },
+  {
+    "p": "P608",
+    "count": 83,
+    "label": "exhibition history",
+    "percent": 0.01
+  },
+  {
+    "p": "P996",
+    "count": 82,
+    "label": "document file on Wikimedia Commons",
+    "percent": 0.01
+  },
+  {
+    "p": "P5140",
+    "count": 82,
+    "label": "coordinates of geographic center",
+    "percent": 0.01
+  },
+  {
+    "p": "P4777",
+    "count": 81,
+    "label": "has boundary",
+    "percent": 0.01
+  },
+  {
+    "p": "P8224",
+    "count": 81,
+    "label": "molecular model or crystal lattice model",
+    "percent": 0.01
+  },
+  {
+    "p": "P2175",
+    "count": 80,
+    "label": "medical condition treated",
+    "percent": 0.01
+  },
+  {
+    "p": "P6902",
+    "count": 80,
+    "label": "era name",
+    "percent": 0.01
+  },
+  {
+    "p": "P418",
+    "count": 80,
+    "label": "seal description",
+    "percent": 0.01
+  },
+  {
+    "p": "P1195",
+    "count": 79,
+    "label": "file extension",
+    "percent": 0.01
+  },
+  {
+    "p": "P376",
+    "count": 79,
+    "label": "located on astronomical body",
+    "percent": 0.01
+  },
+  {
+    "p": "P4776",
+    "count": 79,
+    "label": "MAC Address Block Large ID",
+    "percent": 0.01
+  },
+  {
+    "p": "P4330",
+    "count": 79,
+    "label": "contains",
+    "percent": 0.01
+  },
+  {
+    "p": "P3039",
+    "count": 79,
+    "label": "wheelbase",
+    "percent": 0.01
+  },
+  {
+    "p": "P2545",
+    "count": 78,
+    "label": "bowling style",
+    "percent": 0.01
+  },
+  {
+    "p": "P189",
+    "count": 77,
+    "label": "location of discovery",
+    "percent": 0.01
+  },
+  {
+    "p": "P7573",
+    "count": 77,
+    "label": "IFCO rating",
+    "percent": 0.01
+  },
+  {
+    "p": "P837",
+    "count": 77,
+    "label": "day in year for periodic occurrence",
+    "percent": 0.01
+  },
+  {
+    "p": "P501",
+    "count": 77,
+    "label": "enclave within",
+    "percent": 0.01
+  },
+  {
+    "p": "P4442",
+    "count": 77,
+    "label": "mean age",
+    "percent": 0.01
+  },
+  {
+    "p": "P7937",
+    "count": 77,
+    "label": "form of creative work",
+    "percent": 0.01
+  },
+  {
+    "p": "P2756",
+    "count": 76,
+    "label": "EIRIN film rating",
+    "percent": 0.01
+  },
+  {
+    "p": "P183",
+    "count": 76,
+    "label": "endemic to",
+    "percent": 0.01
+  },
+  {
+    "p": "P1110",
+    "count": 76,
+    "label": "attendance",
+    "percent": 0.01
+  },
+  {
+    "p": "P1840",
+    "count": 75,
+    "label": "investigated by",
+    "percent": 0.01
+  },
+  {
+    "p": "P561",
+    "count": 75,
+    "label": "NATO reporting name",
+    "percent": 0.01
+  },
+  {
+    "p": "P4856",
+    "count": 74,
+    "label": "conscription number",
+    "percent": 0.01
+  },
+  {
+    "p": "P2260",
+    "count": 73,
+    "label": "ionization energy",
+    "percent": 0.01
+  },
+  {
+    "p": "P703",
+    "count": 73,
+    "label": "found in taxon",
+    "percent": 0.01
+  },
+  {
+    "p": "P470",
+    "count": 72,
+    "label": "Eight Banner register",
+    "percent": 0.01
+  },
+  {
+    "p": "P1410",
+    "count": 72,
+    "label": "number of representatives in an organization\/legislature or won in elections",
+    "percent": 0.01
+  },
+  {
+    "p": "P609",
+    "count": 72,
+    "label": "terminus location",
+    "percent": 0.01
+  },
+  {
+    "p": "P2226",
+    "count": 72,
+    "label": "market capitalization",
+    "percent": 0.01
+  },
+  {
+    "p": "P1324",
+    "count": 72,
+    "label": "source code repository",
+    "percent": 0.01
+  },
+  {
+    "p": "P8786",
+    "count": 71,
+    "label": "dedicated heritage entity",
+    "percent": 0.01
+  },
+  {
+    "p": "P780",
+    "count": 71,
+    "label": "symptoms",
+    "percent": 0.01
+  },
+  {
+    "p": "P5460",
+    "count": 71,
+    "label": "grants",
+    "percent": 0.01
+  },
+  {
+    "p": "P1557",
+    "count": 71,
+    "label": "manifestation of",
+    "percent": 0.01
+  },
+  {
+    "p": "P4379",
+    "count": 70,
+    "label": "youth wing",
+    "percent": 0.01
+  },
+  {
+    "p": "P5282",
+    "count": 70,
+    "label": "ground level 360 degree view",
+    "percent": 0.01
+  },
+  {
+    "p": "P6897",
+    "count": 70,
+    "label": "literacy rate",
+    "percent": 0.01
+  },
+  {
+    "p": "P3020",
+    "count": 70,
+    "label": "residence time of water",
+    "percent": 0.01
+  },
+  {
+    "p": "P2563",
+    "count": 69,
+    "label": "superhuman feature or ability",
+    "percent": 0.01
+  },
+  {
+    "p": "P927",
+    "count": 69,
+    "label": "anatomical location",
+    "percent": 0.01
+  },
+  {
+    "p": "P6758",
+    "count": 69,
+    "label": "supported sports team",
+    "percent": 0.01
+  },
+  {
+    "p": "P3428",
+    "count": 69,
+    "label": "INCAA film rating",
+    "percent": 0.01
+  },
+  {
+    "p": "P3803",
+    "count": 68,
+    "label": "original film format",
+    "percent": 0.01
+  },
+  {
+    "p": "P617",
+    "count": 68,
+    "label": "yard number",
+    "percent": 0.01
+  },
+  {
+    "p": "P504",
+    "count": 67,
+    "label": "home port",
+    "percent": 0.01
+  },
+  {
+    "p": "P880",
+    "count": 67,
+    "label": "CPU",
+    "percent": 0.01
+  },
+  {
+    "p": "P2177",
+    "count": 66,
+    "label": "solubility",
+    "percent": 0.01
+  },
+  {
+    "p": "P2351",
+    "count": 66,
+    "label": "number of graves",
+    "percent": 0.01
+  },
+  {
+    "p": "P1588",
+    "count": 66,
+    "label": "village code of Indonesia",
+    "percent": 0.01
+  },
+  {
+    "p": "P1018",
+    "count": 66,
+    "label": "language regulatory body",
+    "percent": 0.01
+  },
+  {
+    "p": "P3174",
+    "count": 66,
+    "label": "art director",
+    "percent": 0.01
+  },
+  {
+    "p": "P1096",
+    "count": 66,
+    "label": "orbital eccentricity",
+    "percent": 0.01
+  },
+  {
+    "p": "P2317",
+    "count": 66,
+    "label": "call sign",
+    "percent": 0.01
+  },
+  {
+    "p": "P1192",
+    "count": 65,
+    "label": "connecting service",
+    "percent": 0.01
+  },
+  {
+    "p": "P3864",
+    "count": 65,
+    "label": "suicide rate",
+    "percent": 0.01
+  },
+  {
+    "p": "P4238",
+    "count": 65,
+    "label": "webcam page URL",
+    "percent": 0.01
+  },
+  {
+    "p": "P2802",
+    "count": 65,
+    "label": "fleet or registration number",
+    "percent": 0.01
+  },
+  {
+    "p": "P167",
+    "count": 65,
+    "label": "structure replaced by",
+    "percent": 0.01
+  },
+  {
+    "p": "P908",
+    "count": 64,
+    "label": "PEGI rating",
+    "percent": 0.01
+  },
+  {
+    "p": "P2517",
+    "count": 64,
+    "label": "category for recipients of this award",
+    "percent": 0.01
+  },
+  {
+    "p": "P944",
+    "count": 64,
+    "label": "Code of nomenclature",
+    "percent": 0.01
+  },
+  {
+    "p": "P1640",
+    "count": 64,
+    "label": "curator",
+    "percent": 0.01
+  },
+  {
+    "p": "P2848",
+    "count": 63,
+    "label": "Wi-Fi access",
+    "percent": 0.01
+  },
+  {
+    "p": "P3712",
+    "count": 63,
+    "label": "objective of project or action",
+    "percent": 0.01
+  },
+  {
+    "p": "P1336",
+    "count": 63,
+    "label": "territory claimed by",
+    "percent": 0.01
+  },
+  {
+    "p": "P5869",
+    "count": 62,
+    "label": "model item",
+    "percent": 0.0
+  },
+  {
+    "p": "P3025",
+    "count": 62,
+    "label": "open days",
+    "percent": 0.0
+  },
+  {
+    "p": "P444",
+    "count": 61,
+    "label": "review score",
+    "percent": 0.0
+  },
+  {
+    "p": "P7770",
+    "count": 61,
+    "label": "egg incubation period",
+    "percent": 0.0
+  },
+  {
+    "p": "P767",
+    "count": 61,
+    "label": "contributor to the creative work or subject",
+    "percent": 0.0
+  },
+  {
+    "p": "P1595",
+    "count": 60,
+    "label": "charge",
+    "percent": 0.0
+  },
+  {
+    "p": "P2045",
+    "count": 60,
+    "label": "orbital inclination",
+    "percent": 0.0
+  },
+  {
+    "p": "P2233",
+    "count": 60,
+    "label": "semi-major axis of an orbit",
+    "percent": 0.0
+  },
+  {
+    "p": "P397",
+    "count": 60,
+    "label": "parent astronomical body",
+    "percent": 0.0
+  },
+  {
+    "p": "P1100",
+    "count": 60,
+    "label": "number of cylinders",
+    "percent": 0.0
+  },
+  {
+    "p": "P1301",
+    "count": 59,
+    "label": "number of elevators",
+    "percent": 0.0
+  },
+  {
+    "p": "P2146",
+    "count": 59,
+    "label": "orbital period",
+    "percent": 0.0
+  },
+  {
+    "p": "P129",
+    "count": 59,
+    "label": "physically interacts with",
+    "percent": 0.0
+  },
+  {
+    "p": "P3438",
+    "count": 59,
+    "label": "vehicle normally used",
+    "percent": 0.0
+  },
+  {
+    "p": "P5841",
+    "count": 59,
+    "label": "Status in the Red List of Threatened Species in the Czech Republic",
+    "percent": 0.0
+  },
+  {
+    "p": "P790",
+    "count": 58,
+    "label": "approved by",
+    "percent": 0.0
+  },
+  {
+    "p": "P930",
+    "count": 58,
+    "label": "type of electrification",
+    "percent": 0.0
+  },
+  {
+    "p": "P1444",
+    "count": 58,
+    "label": "destination point",
+    "percent": 0.0
+  },
+  {
+    "p": "P2555",
+    "count": 58,
+    "label": "fee",
+    "percent": 0.0
+  },
+  {
+    "p": "P4584",
+    "count": 58,
+    "label": "first appearance",
+    "percent": 0.0
+  },
+  {
+    "p": "P2128",
+    "count": 57,
+    "label": "flash point",
+    "percent": 0.0
+  },
+  {
+    "p": "P2244",
+    "count": 57,
+    "label": "periapsis",
+    "percent": 0.0
+  },
+  {
+    "p": "P3295",
+    "count": 57,
+    "label": "code",
+    "percent": 0.0
+  },
+  {
+    "p": "P114",
+    "count": 57,
+    "label": "airline alliance",
+    "percent": 0.0
+  },
+  {
+    "p": "P2275",
+    "count": 57,
+    "label": "World Health Organisation International Nonproprietary Name",
+    "percent": 0.0
+  },
+  {
+    "p": "P2017",
+    "count": 56,
+    "label": "isomeric SMILES",
+    "percent": 0.0
+  },
+  {
+    "p": "P6589",
+    "count": 56,
+    "label": "endowment",
+    "percent": 0.0
+  },
+  {
+    "p": "P3092",
+    "count": 56,
+    "label": "film crew member",
+    "percent": 0.0
+  },
+  {
+    "p": "P2243",
+    "count": 56,
+    "label": "apoapsis",
+    "percent": 0.0
+  },
+  {
+    "p": "P655",
+    "count": 55,
+    "label": "translator",
+    "percent": 0.0
+  },
+  {
+    "p": "P3137",
+    "count": 55,
+    "label": "parent peak",
+    "percent": 0.0
+  },
+  {
+    "p": "P408",
+    "count": 54,
+    "label": "software engine",
+    "percent": 0.0
+  },
+  {
+    "p": "P2846",
+    "count": 54,
+    "label": "wheelchair accessibility",
+    "percent": 0.0
+  },
+  {
+    "p": "P1163",
+    "count": 54,
+    "label": "media type",
+    "percent": 0.0
+  },
+  {
+    "p": "P2669",
+    "count": 54,
+    "label": "discontinued date",
+    "percent": 0.0
+  },
+  {
+    "p": "P2595",
+    "count": 53,
+    "label": "maximum gradient",
+    "percent": 0.0
+  },
+  {
+    "p": "P2109",
+    "count": 53,
+    "label": "installed capacity",
+    "percent": 0.0
+  },
+  {
+    "p": "P5150",
+    "count": 53,
+    "label": "IGAC rating",
+    "percent": 0.0
+  },
+  {
+    "p": "P619",
+    "count": 53,
+    "label": "UTC date of spacecraft launch",
+    "percent": 0.0
+  },
+  {
+    "p": "P1104",
+    "count": 52,
+    "label": "number of pages",
+    "percent": 0.0
+  },
+  {
+    "p": "P942",
+    "count": 52,
+    "label": "theme music",
+    "percent": 0.0
+  },
+  {
+    "p": "P4661",
+    "count": 52,
+    "label": "reservoir created",
+    "percent": 0.0
+  },
+  {
+    "p": "P2389",
+    "count": 52,
+    "label": "organization directed by the office or person",
+    "percent": 0.0
+  },
+  {
+    "p": "P1582",
+    "count": 52,
+    "label": "natural product of taxon",
+    "percent": 0.0
+  },
+  {
+    "p": "P1029",
+    "count": 52,
+    "label": "crew member",
+    "percent": 0.0
+  },
+  {
+    "p": "P629",
+    "count": 51,
+    "label": "edition or translation of",
+    "percent": 0.0
+  },
+  {
+    "p": "P3091",
+    "count": 51,
+    "label": "mount",
+    "percent": 0.0
+  },
+  {
+    "p": "P2202",
+    "count": 50,
+    "label": "lower flammable limit",
+    "percent": 0.0
+  },
+  {
+    "p": "P4896",
+    "count": 50,
+    "label": "3D model",
+    "percent": 0.0
+  },
+  {
+    "p": "P1419",
+    "count": 50,
+    "label": "shape",
+    "percent": 0.0
+  },
+  {
+    "p": "P1027",
+    "count": 50,
+    "label": "conferred by",
+    "percent": 0.0
+  },
+  {
+    "p": "P4151",
+    "count": 50,
+    "label": "game mechanics",
+    "percent": 0.0
+  },
+  {
+    "p": "P2663",
+    "count": 49,
+    "label": "common equity tier 1 capital ratio (CETI)",
+    "percent": 0.0
+  },
+  {
+    "p": "P5996",
+    "count": 49,
+    "label": "category for films in this language",
+    "percent": 0.0
+  },
+  {
+    "p": "P6125",
+    "count": 49,
+    "label": "number of volunteers",
+    "percent": 0.0
+  },
+  {
+    "p": "P4312",
+    "count": 49,
+    "label": "camera setup",
+    "percent": 0.0
+  },
+  {
+    "p": "P4020",
+    "count": 48,
+    "label": "ISQ dimension",
+    "percent": 0.0
+  },
+  {
+    "p": "P853",
+    "count": 48,
+    "label": "CERO rating",
+    "percent": 0.0
+  },
+  {
+    "p": "P1264",
+    "count": 48,
+    "label": "valid in period",
+    "percent": 0.0
+  },
+  {
+    "p": "P375",
+    "count": 48,
+    "label": "space launch vehicle",
+    "percent": 0.0
+  },
+  {
+    "p": "P2012",
+    "count": 48,
+    "label": "cuisine",
+    "percent": 0.0
+  },
+  {
+    "p": "P8195",
+    "count": 48,
+    "label": "ex-libris",
+    "percent": 0.0
+  },
+  {
+    "p": "P1478",
+    "count": 47,
+    "label": "has immediate cause",
+    "percent": 0.0
+  },
+  {
+    "p": "P2512",
+    "count": 47,
+    "label": "series spin-off",
+    "percent": 0.0
+  },
+  {
+    "p": "P3450",
+    "count": 47,
+    "label": "sports season of league or competition",
+    "percent": 0.0
+  },
+  {
+    "p": "P1308",
+    "count": 47,
+    "label": "officeholder",
+    "percent": 0.0
+  },
+  {
+    "p": "P3270",
+    "count": 47,
+    "label": "compulsory education (minimum age)",
+    "percent": 0.0
+  },
+  {
+    "p": "P2203",
+    "count": 46,
+    "label": "upper flammable limit",
+    "percent": 0.0
+  },
+  {
+    "p": "P6541",
+    "count": 46,
+    "label": "Stack Exchange site",
+    "percent": 0.0
+  },
+  {
+    "p": "P1215",
+    "count": 46,
+    "label": "apparent magnitude",
+    "percent": 0.0
+  },
+  {
+    "p": "P618",
+    "count": 46,
+    "label": "source of energy",
+    "percent": 0.0
+  },
+  {
+    "p": "P2787",
+    "count": 46,
+    "label": "longest span",
+    "percent": 0.0
+  },
+  {
+    "p": "P3721",
+    "count": 46,
+    "label": "public key fingerprint",
+    "percent": 0.0
+  },
+  {
+    "p": "P1462",
+    "count": 46,
+    "label": "standards body",
+    "percent": 0.0
+  },
+  {
+    "p": "P543",
+    "count": 46,
+    "label": "oath made by",
+    "percent": 0.0
+  },
+  {
+    "p": "P833",
+    "count": 45,
+    "label": "interchange station",
+    "percent": 0.0
+  },
+  {
+    "p": "P3461",
+    "count": 45,
+    "label": "designated as terrorist by",
+    "percent": 0.0
+  },
+  {
+    "p": "P7888",
+    "count": 45,
+    "label": "merged into",
+    "percent": 0.0
+  },
+  {
+    "p": "P3271",
+    "count": 45,
+    "label": "compulsory education (maximum age)",
+    "percent": 0.0
+  },
+  {
+    "p": "P4253",
+    "count": 45,
+    "label": "number of constituencies",
+    "percent": 0.0
+  },
+  {
+    "p": "P556",
+    "count": 45,
+    "label": "crystal system",
+    "percent": 0.0
+  },
+  {
+    "p": "P3086",
+    "count": 44,
+    "label": "speed limit",
+    "percent": 0.0
+  },
+  {
+    "p": "P854",
+    "count": 44,
+    "label": "reference URL",
+    "percent": 0.0
+  },
+  {
+    "p": "P3001",
+    "count": 44,
+    "label": "retirement age",
+    "percent": 0.0
+  },
+  {
+    "p": "P3780",
+    "count": 44,
+    "label": "active ingredient in",
+    "percent": 0.0
+  },
+  {
+    "p": "P533",
+    "count": 44,
+    "label": "target",
+    "percent": 0.0
+  },
+  {
+    "p": "P1429",
+    "count": 43,
+    "label": "has pet",
+    "percent": 0.0
+  },
+  {
+    "p": "P4185",
+    "count": 43,
+    "label": "iconographic symbol",
+    "percent": 0.0
+  },
+  {
+    "p": "P3441",
+    "count": 42,
+    "label": "FIFA country code",
+    "percent": 0.0
+  },
+  {
+    "p": "P2425",
+    "count": 42,
+    "label": "service ribbon image",
+    "percent": 0.0
+  },
+  {
+    "p": "P1030",
+    "count": 42,
+    "label": "light characteristic of lighthouse",
+    "percent": 0.0
+  },
+  {
+    "p": "P1479",
+    "count": 42,
+    "label": "has contributing factor",
+    "percent": 0.0
+  },
+  {
+    "p": "P1403",
+    "count": 41,
+    "label": "original combination",
+    "percent": 0.0
+  },
+  {
+    "p": "P2073",
+    "count": 41,
+    "label": "vehicle range",
+    "percent": 0.0
+  },
+  {
+    "p": "P689",
+    "count": 41,
+    "label": "afflicts",
+    "percent": 0.0
+  },
+  {
+    "p": "P2838",
+    "count": 41,
+    "label": "professional name (Japan)",
+    "percent": 0.0
+  },
+  {
+    "p": "P4354",
+    "count": 40,
+    "label": "search formatter URL",
+    "percent": 0.0
+  },
+  {
+    "p": "P5052",
+    "count": 40,
+    "label": "supervisory board member",
+    "percent": 0.0
+  },
+  {
+    "p": "P924",
+    "count": 40,
+    "label": "possible treatment",
+    "percent": 0.0
+  },
+  {
+    "p": "P1121",
+    "count": 40,
+    "label": "oxidation state",
+    "percent": 0.0
+  },
+  {
+    "p": "P811",
+    "count": 40,
+    "label": "academic minor",
+    "percent": 0.0
+  },
+  {
+    "p": "P8359",
+    "count": 39,
+    "label": "Dewey Decimal Classification (works and editions)",
+    "percent": 0.0
+  },
+  {
+    "p": "P2923",
+    "count": 39,
+    "label": "focal height",
+    "percent": 0.0
+  },
+  {
+    "p": "P4501",
+    "count": 39,
+    "label": "albedo",
+    "percent": 0.0
+  },
+  {
+    "p": "P4239",
+    "count": 39,
+    "label": "vocalized name",
+    "percent": 0.0
+  },
+  {
+    "p": "P3259",
+    "count": 39,
+    "label": "intangible cultural heritage status",
+    "percent": 0.0
+  },
+  {
+    "p": "P5323",
+    "count": 39,
+    "label": "attested in",
+    "percent": 0.0
+  },
+  {
+    "p": "P3489",
+    "count": 39,
+    "label": "pregnancy category",
+    "percent": 0.0
+  },
+  {
+    "p": "P2754",
+    "count": 38,
+    "label": "production date",
+    "percent": 0.0
+  },
+  {
+    "p": "P3530",
+    "count": 38,
+    "label": "par",
+    "percent": 0.0
+  },
+  {
+    "p": "P2284",
+    "count": 38,
+    "label": "price",
+    "percent": 0.0
+  },
+  {
+    "p": "P2213",
+    "count": 38,
+    "label": "longitude of ascending node",
+    "percent": 0.0
+  },
+  {
+    "p": "P7078",
+    "count": 38,
+    "label": "typing discipline",
+    "percent": 0.0
+  },
+  {
+    "p": "P3071",
+    "count": 38,
+    "label": "standard molar entropy",
+    "percent": 0.0
+  },
+  {
+    "p": "P958",
+    "count": 38,
+    "label": "section, verse, paragraph, or clause",
+    "percent": 0.0
+  },
+  {
+    "p": "P2248",
+    "count": 37,
+    "label": "argument of periapsis",
+    "percent": 0.0
+  },
+  {
+    "p": "P1345",
+    "count": 37,
+    "label": "number of victims of killer",
+    "percent": 0.0
+  },
+  {
+    "p": "P1072",
+    "count": 37,
+    "label": "readable file format",
+    "percent": 0.0
+  },
+  {
+    "p": "P545",
+    "count": 37,
+    "label": "torch lit by",
+    "percent": 0.0
+  },
+  {
+    "p": "P65",
+    "count": 36,
+    "label": "site of astronomical discovery",
+    "percent": 0.0
+  },
+  {
+    "p": "P1457",
+    "count": 36,
+    "label": "absolute magnitude",
+    "percent": 0.0
+  },
+  {
+    "p": "P1109",
+    "count": 36,
+    "label": "refractive index",
+    "percent": 0.0
+  },
+  {
+    "p": "P2929",
+    "count": 36,
+    "label": "lighthouse range",
+    "percent": 0.0
+  },
+  {
+    "p": "P1561",
+    "count": 36,
+    "label": "number of survivors",
+    "percent": 0.0
+  },
+  {
+    "p": "P4345",
+    "count": 36,
+    "label": "director of archaeological fieldwork",
+    "percent": 0.0
+  },
+  {
+    "p": "P2989",
+    "count": 36,
+    "label": "has grammatical case",
+    "percent": 0.0
+  },
+  {
+    "p": "P541",
+    "count": 36,
+    "label": "office contested",
+    "percent": 0.0
+  },
+  {
+    "p": "P2405",
+    "count": 35,
+    "label": "ceiling exposure limit",
+    "percent": 0.0
+  },
+  {
+    "p": "P1809",
+    "count": 35,
+    "label": "choreographer",
+    "percent": 0.0
+  },
+  {
+    "p": "P1117",
+    "count": 35,
+    "label": "pKa",
+    "percent": 0.0
+  },
+  {
+    "p": "P3529",
+    "count": 35,
+    "label": "median income",
+    "percent": 0.0
+  },
+  {
+    "p": "P1314",
+    "count": 35,
+    "label": "number of spans",
+    "percent": 0.0
+  },
+  {
+    "p": "P8093",
+    "count": 35,
+    "label": "donations",
+    "percent": 0.0
+  },
+  {
+    "p": "P7973",
+    "count": 34,
+    "label": "quantity symbol (LaTeX)",
+    "percent": 0.0
+  },
+  {
+    "p": "P2922",
+    "count": 34,
+    "label": "month of the year",
+    "percent": 0.0
+  },
+  {
+    "p": "P371",
+    "count": 34,
+    "label": "presenter",
+    "percent": 0.0
+  },
+  {
+    "p": "P805",
+    "count": 34,
+    "label": "statement is subject of",
+    "percent": 0.0
+  },
+  {
+    "p": "P4913",
+    "count": 34,
+    "label": "dialect of",
+    "percent": 0.0
+  },
+  {
+    "p": "P4446",
+    "count": 34,
+    "label": "reward program",
+    "percent": 0.0
+  },
+  {
+    "p": "P2324",
+    "count": 34,
+    "label": "quantity buried",
+    "percent": 0.0
+  },
+  {
+    "p": "P5901",
+    "count": 34,
+    "label": "official number of town quarter",
+    "percent": 0.0
+  },
+  {
+    "p": "P923",
+    "count": 33,
+    "label": "medical examinations",
+    "percent": 0.0
+  },
+  {
+    "p": "P1028",
+    "count": 33,
+    "label": "donated by",
+    "percent": 0.0
+  },
+  {
+    "p": "P991",
+    "count": 33,
+    "label": "successful candidate",
+    "percent": 0.0
+  },
+  {
+    "p": "P5461",
+    "count": 33,
+    "label": "model year code",
+    "percent": 0.0
+  },
+  {
+    "p": "P3818",
+    "count": 33,
+    "label": "KMRB film rating",
+    "percent": 0.0
+  },
+  {
+    "p": "P2407",
+    "count": 33,
+    "label": "short-term exposure limit",
+    "percent": 0.0
+  },
+  {
+    "p": "P1000",
+    "count": 33,
+    "label": "record held",
+    "percent": 0.0
+  },
+  {
+    "p": "P4004",
+    "count": 33,
+    "label": "escutcheon image",
+    "percent": 0.0
+  },
+  {
+    "p": "P522",
+    "count": 33,
+    "label": "type of orbit",
+    "percent": 0.0
+  },
+  {
+    "p": "P2120",
+    "count": 33,
+    "label": "radius",
+    "percent": 0.0
+  },
+  {
+    "p": "P3078",
+    "count": 32,
+    "label": "standard enthalpy of formation",
+    "percent": 0.0
+  },
+  {
+    "p": "P3967",
+    "count": 32,
+    "label": "final event",
+    "percent": 0.0
+  },
+  {
+    "p": "P2462",
+    "count": 32,
+    "label": "member of the deme",
+    "percent": 0.0
+  },
+  {
+    "p": "P2402",
+    "count": 32,
+    "label": "total expenditure",
+    "percent": 0.0
+  },
+  {
+    "p": "P3729",
+    "count": 32,
+    "label": "next lower rank",
+    "percent": 0.0
+  },
+  {
+    "p": "P8512",
+    "count": 32,
+    "label": "size comparison diagram",
+    "percent": 0.0
+  },
+  {
+    "p": "P1638",
+    "count": 32,
+    "label": "codename",
+    "percent": 0.0
+  },
+  {
+    "p": "P8592",
+    "count": 31,
+    "label": "aerial view",
+    "percent": 0.0
+  },
+  {
+    "p": "P879",
+    "count": 31,
+    "label": "pennant number",
+    "percent": 0.0
+  },
+  {
+    "p": "P1923",
+    "count": 31,
+    "label": "participating team",
+    "percent": 0.0
+  },
+  {
+    "p": "P5769",
+    "count": 31,
+    "label": "editor-in-chief",
+    "percent": 0.0
+  },
+  {
+    "p": "P736",
+    "count": 31,
+    "label": "cover art by",
+    "percent": 0.0
+  },
+  {
+    "p": "P2488",
+    "count": 31,
+    "label": "page at Belarus Globe website",
+    "percent": 0.0
+  },
+  {
+    "p": "P1876",
+    "count": 31,
+    "label": "vehicle",
+    "percent": 0.0
+  },
+  {
+    "p": "P2610",
+    "count": 30,
+    "label": "thickness",
+    "percent": 0.0
+  },
+  {
+    "p": "P2107",
+    "count": 30,
+    "label": "decomposition point",
+    "percent": 0.0
+  },
+  {
+    "p": "P6942",
+    "count": 30,
+    "label": "animator",
+    "percent": 0.0
+  },
+  {
+    "p": "P726",
+    "count": 30,
+    "label": "candidate",
+    "percent": 0.0
+  },
+  {
+    "p": "P210",
+    "count": 29,
+    "label": "party chief representative",
+    "percent": 0.0
+  },
+  {
+    "p": "P2325",
+    "count": 29,
+    "label": "mean anomaly",
+    "percent": 0.0
+  },
+  {
+    "p": "P1093",
+    "count": 29,
+    "label": "gross tonnage",
+    "percent": 0.0
+  },
+  {
+    "p": "P4970",
+    "count": 29,
+    "label": "alternate names",
+    "percent": 0.0
+  },
+  {
+    "p": "P5023",
+    "count": 29,
+    "label": "activity policy in this place",
+    "percent": 0.0
+  },
+  {
+    "p": "P770",
+    "count": 29,
+    "label": "cause of destruction",
+    "percent": 0.0
+  },
+  {
+    "p": "P2583",
+    "count": 29,
+    "label": "distance from Earth",
+    "percent": 0.0
+  },
+  {
+    "p": "P5514",
+    "count": 29,
+    "label": "accredited by",
+    "percent": 0.0
+  },
+  {
+    "p": "P1785",
+    "count": 29,
+    "label": "temple name",
+    "percent": 0.0
+  },
+  {
+    "p": "P468",
+    "count": 28,
+    "label": "dan\/kyu rank",
+    "percent": 0.0
+  },
+  {
+    "p": "P3610",
+    "count": 28,
+    "label": "fare zone",
+    "percent": 0.0
+  },
+  {
+    "p": "P3205",
+    "count": 28,
+    "label": "patient of",
+    "percent": 0.0
+  },
+  {
+    "p": "P8111",
+    "count": 27,
+    "label": "recommended unit of measurement",
+    "percent": 0.0
+  },
+  {
+    "p": "P5286",
+    "count": 27,
+    "label": "Portable Game Notation",
+    "percent": 0.0
+  },
+  {
+    "p": "P1139",
+    "count": 27,
+    "label": "floors below ground",
+    "percent": 0.0
+  },
+  {
+    "p": "P1373",
+    "count": 27,
+    "label": "daily patronage",
+    "percent": 0.0
+  },
+  {
+    "p": "P2637",
+    "count": 27,
+    "label": "RARS rating",
+    "percent": 0.0
+  },
+  {
+    "p": "P1257",
+    "count": 27,
+    "label": "depicts Iconclass notation",
+    "percent": 0.0
+  },
+  {
+    "p": "P2738",
+    "count": 27,
+    "label": "disjoint union of",
+    "percent": 0.0
+  },
+  {
+    "p": "P688",
+    "count": 26,
+    "label": "encodes",
+    "percent": 0.0
+  },
+  {
+    "p": "P2540",
+    "count": 26,
+    "label": "Aarne\u2013Thompson\u2013Uther Tale Type Index",
+    "percent": 0.0
+  },
+  {
+    "p": "P3179",
+    "count": 26,
+    "label": "territory overlaps",
+    "percent": 0.0
+  },
+  {
+    "p": "P739",
+    "count": 26,
+    "label": "ammunition",
+    "percent": 0.0
+  },
+  {
+    "p": "P4595",
+    "count": 26,
+    "label": "post town",
+    "percent": 0.0
+  },
+  {
+    "p": "P4794",
+    "count": 26,
+    "label": "season starts",
+    "percent": 0.0
+  },
+  {
+    "p": "P2364",
+    "count": 26,
+    "label": "production code",
+    "percent": 0.0
+  },
+  {
+    "p": "P5642",
+    "count": 26,
+    "label": "risk factor",
+    "percent": 0.0
+  },
+  {
+    "p": "P1593",
+    "count": 25,
+    "label": "defender",
+    "percent": 0.0
+  },
+  {
+    "p": "P3840",
+    "count": 25,
+    "label": "slope rating",
+    "percent": 0.0
+  },
+  {
+    "p": "P5995",
+    "count": 25,
+    "label": "kit supplier",
+    "percent": 0.0
+  },
+  {
+    "p": "P196",
+    "count": 25,
+    "label": "minor planet group",
+    "percent": 0.0
+  },
+  {
+    "p": "P59",
+    "count": 25,
+    "label": "constellation",
+    "percent": 0.0
+  },
+  {
+    "p": "P1181",
+    "count": 25,
+    "label": "numeric value",
+    "percent": 0.0
+  },
+  {
+    "p": "P3730",
+    "count": 25,
+    "label": "next higher rank",
+    "percent": 0.0
+  },
+  {
+    "p": "P1065",
+    "count": 25,
+    "label": "archive URL",
+    "percent": 0.0
+  },
+  {
+    "p": "P2559",
+    "count": 25,
+    "label": "Wikidata usage instructions",
+    "percent": 0.0
+  },
+  {
+    "p": "P2259",
+    "count": 25,
+    "label": "mobile network code",
+    "percent": 0.0
+  },
+  {
+    "p": "P8030",
+    "count": 25,
+    "label": "size designation",
+    "percent": 0.0
+  },
+  {
+    "p": "P6978",
+    "count": 25,
+    "label": "Scandinavian middle family name",
+    "percent": 0.0
+  },
+  {
+    "p": "P5595",
+    "count": 25,
+    "label": "number of platform faces",
+    "percent": 0.0
+  },
+  {
+    "p": "P5105",
+    "count": 24,
+    "label": "Deutsche Bahn station category",
+    "percent": 0.0
+  },
+  {
+    "p": "P534",
+    "count": 24,
+    "label": "streak color",
+    "percent": 0.0
+  },
+  {
+    "p": "P2360",
+    "count": 24,
+    "label": "intended public",
+    "percent": 0.0
+  },
+  {
+    "p": "P593",
+    "count": 24,
+    "label": "HomoloGene ID",
+    "percent": 0.0
+  },
+  {
+    "p": "P680",
+    "count": 24,
+    "label": "molecular function",
+    "percent": 0.0
+  },
+  {
+    "p": "P5109",
+    "count": 24,
+    "label": "has grammatical gender",
+    "percent": 0.0
+  },
+  {
+    "p": "P2918",
+    "count": 24,
+    "label": "PO Box",
+    "percent": 0.0
+  },
+  {
+    "p": "P3931",
+    "count": 24,
+    "label": "copyright holder",
+    "percent": 0.0
+  },
+  {
+    "p": "P1034",
+    "count": 24,
+    "label": "main food source",
+    "percent": 0.0
+  },
+  {
+    "p": "P2598",
+    "count": 24,
+    "label": "serial number",
+    "percent": 0.0
+  },
+  {
+    "p": "P2860",
+    "count": 24,
+    "label": "cites work",
+    "percent": 0.0
+  },
+  {
+    "p": "P6259",
+    "count": 24,
+    "label": "epoch",
+    "percent": 0.0
+  },
+  {
+    "p": "P579",
+    "count": 24,
+    "label": "IMA status and\/or rank",
+    "percent": 0.0
+  },
+  {
+    "p": "P7383",
+    "count": 24,
+    "label": "name in hiero markup",
+    "percent": 0.0
+  },
+  {
+    "p": "P1810",
+    "count": 23,
+    "label": "named as",
+    "percent": 0.0
+  },
+  {
+    "p": "P1057",
+    "count": 23,
+    "label": "chromosome",
+    "percent": 0.0
+  },
+  {
+    "p": "P2548",
+    "count": 23,
+    "label": "strand orientation",
+    "percent": 0.0
+  },
+  {
+    "p": "P644",
+    "count": 23,
+    "label": "genomic start",
+    "percent": 0.0
+  },
+  {
+    "p": "P645",
+    "count": 23,
+    "label": "genomic end",
+    "percent": 0.0
+  },
+  {
+    "p": "P4196",
+    "count": 23,
+    "label": "cytogenetic location",
+    "percent": 0.0
+  },
+  {
+    "p": "P1073",
+    "count": 23,
+    "label": "writable file format",
+    "percent": 0.0
+  },
+  {
+    "p": "P4733",
+    "count": 23,
+    "label": "produced sound",
+    "percent": 0.0
+  },
+  {
+    "p": "P748",
+    "count": 23,
+    "label": "appointed by",
+    "percent": 0.0
+  },
+  {
+    "p": "P3679",
+    "count": 23,
+    "label": "stock market index",
+    "percent": 0.0
+  },
+  {
+    "p": "P3275",
+    "count": 23,
+    "label": "storyboard artist",
+    "percent": 0.0
+  },
+  {
+    "p": "P1319",
+    "count": 23,
+    "label": "earliest date",
+    "percent": 0.0
+  },
+  {
+    "p": "P2075",
+    "count": 23,
+    "label": "speed of sound",
+    "percent": 0.0
+  },
+  {
+    "p": "P711",
+    "count": 23,
+    "label": "Strunz 8th edition (series ID, updated)",
+    "percent": 0.0
+  },
+  {
+    "p": "P712",
+    "count": 23,
+    "label": "Nickel-Strunz 9th edition (updated 2009)",
+    "percent": 0.0
+  },
+  {
+    "p": "P713",
+    "count": 23,
+    "label": "Nickel-Strunz '10th ed', review of (9th ed\/ 2009 update)",
+    "percent": 0.0
+  },
+  {
+    "p": "P2357",
+    "count": 22,
+    "label": "Classification of Instructional Programs code",
+    "percent": 0.0
+  },
+  {
+    "p": "P478",
+    "count": 22,
+    "label": "volume",
+    "percent": 0.0
+  },
+  {
+    "p": "P490",
+    "count": 22,
+    "label": "provisional designation",
+    "percent": 0.0
+  },
+  {
+    "p": "P684",
+    "count": 22,
+    "label": "ortholog",
+    "percent": 0.0
+  },
+  {
+    "p": "P1536",
+    "count": 22,
+    "label": "immediate cause of",
+    "percent": 0.0
+  },
+  {
+    "p": "P692",
+    "count": 22,
+    "label": "Gene Atlas Image",
+    "percent": 0.0
+  },
+  {
+    "p": "P913",
+    "count": 22,
+    "label": "notation",
+    "percent": 0.0
+  },
+  {
+    "p": "P4675",
+    "count": 22,
+    "label": "appears in the form of",
+    "percent": 0.0
+  },
+  {
+    "p": "P4688",
+    "count": 22,
+    "label": "geomorphological unit",
+    "percent": 0.0
+  },
+  {
+    "p": "P6257",
+    "count": 22,
+    "label": "right ascension",
+    "percent": 0.0
+  },
+  {
+    "p": "P6258",
+    "count": 22,
+    "label": "declination",
+    "percent": 0.0
+  },
+  {
+    "p": "P1060",
+    "count": 22,
+    "label": "pathogen transmission process",
+    "percent": 0.0
+  },
+  {
+    "p": "P1165",
+    "count": 22,
+    "label": "home world",
+    "percent": 0.0
+  },
+  {
+    "p": "P301",
+    "count": 21,
+    "label": "category's main topic",
+    "percent": 0.0
+  },
+  {
+    "p": "P304",
+    "count": 21,
+    "label": "page(s)",
+    "percent": 0.0
+  },
+  {
+    "p": "P5236",
+    "count": 21,
+    "label": "prime factor",
+    "percent": 0.0
+  },
+  {
+    "p": "P7316",
+    "count": 21,
+    "label": "number of decimal digits",
+    "percent": 0.0
+  },
+  {
+    "p": "P1351",
+    "count": 21,
+    "label": "number of points\/goals\/set scored",
+    "percent": 0.0
+  },
+  {
+    "p": "P3279",
+    "count": 21,
+    "label": "statistical leader",
+    "percent": 0.0
+  },
+  {
+    "p": "P5012",
+    "count": 21,
+    "label": "special rank",
+    "percent": 0.0
+  },
+  {
+    "p": "P6733",
+    "count": 21,
+    "label": "National Taxonomy of Exempt Entities code",
+    "percent": 0.0
+  },
+  {
+    "p": "P1637",
+    "count": 21,
+    "label": "undercarriage",
+    "percent": 0.0
+  },
+  {
+    "p": "P5817",
+    "count": 21,
+    "label": "state of use",
+    "percent": 0.0
+  },
+  {
+    "p": "P1401",
+    "count": 21,
+    "label": "bug tracking system",
+    "percent": 0.0
+  },
+  {
+    "p": "P2144",
+    "count": 21,
+    "label": "frequency",
+    "percent": 0.0
+  },
+  {
+    "p": "P8625",
+    "count": 20,
+    "label": "bibliography",
+    "percent": 0.0
+  },
+  {
+    "p": "P2125",
+    "count": 20,
+    "label": "Revised Hepburn romanization",
+    "percent": 0.0
+  },
+  {
+    "p": "P1537",
+    "count": 20,
+    "label": "contributing factor of",
+    "percent": 0.0
+  },
+  {
+    "p": "P1684",
+    "count": 20,
+    "label": "inscription",
+    "percent": 0.0
+  },
+  {
+    "p": "P505",
+    "count": 20,
+    "label": "general manager",
+    "percent": 0.0
+  },
+  {
+    "p": "P1671",
+    "count": 20,
+    "label": "route number",
+    "percent": 0.0
+  },
+  {
+    "p": "P1613",
+    "count": 20,
+    "label": "IRC channel",
+    "percent": 0.0
+  },
+  {
+    "p": "P4290",
+    "count": 20,
+    "label": "official app",
+    "percent": 0.0
+  },
+  {
+    "p": "P8411",
+    "count": 20,
+    "label": "set in environment",
+    "percent": 0.0
+  },
+  {
+    "p": "P8360",
+    "count": 19,
+    "label": "Library of Congress Classification (works and editions)",
+    "percent": 0.0
+  },
+  {
+    "p": "P2097",
+    "count": 19,
+    "label": "term length of office",
+    "percent": 0.0
+  },
+  {
+    "p": "P433",
+    "count": 19,
+    "label": "issue",
+    "percent": 0.0
+  },
+  {
+    "p": "P6378",
+    "count": 19,
+    "label": "charter URL",
+    "percent": 0.0
+  },
+  {
+    "p": "P568",
+    "count": 19,
+    "label": "overlies",
+    "percent": 0.0
+  },
+  {
+    "p": "P5061",
+    "count": 19,
+    "label": "unit symbol",
+    "percent": 0.0
+  },
+  {
+    "p": "P2112",
+    "count": 19,
+    "label": "wing area",
+    "percent": 0.0
+  },
+  {
+    "p": "P2974",
+    "count": 19,
+    "label": "habitat",
+    "percent": 0.0
+  },
+  {
+    "p": "P398",
+    "count": 19,
+    "label": "child astronomical body",
+    "percent": 0.0
+  },
+  {
+    "p": "P8000",
+    "count": 19,
+    "label": "electron configuration",
+    "percent": 0.0
+  },
+  {
+    "p": "P5305",
+    "count": 19,
+    "label": "SPARQL endpoint",
+    "percent": 0.0
+  },
+  {
+    "p": "P426",
+    "count": 19,
+    "label": "aircraft registration",
+    "percent": 0.0
+  },
+  {
+    "p": "P4250",
+    "count": 19,
+    "label": "defined daily dose",
+    "percent": 0.0
+  },
+  {
+    "p": "P7295",
+    "count": 19,
+    "label": "Gregorian calendar start date",
+    "percent": 0.0
+  },
+  {
+    "p": "P4496",
+    "count": 19,
+    "label": "NACE code",
+    "percent": 0.0
+  },
+  {
+    "p": "P2286",
+    "count": 19,
+    "label": "arterial supply",
+    "percent": 0.0
+  },
+  {
+    "p": "P500",
+    "count": 19,
+    "label": "exclave of",
+    "percent": 0.0
+  },
+  {
+    "p": "P7101",
+    "count": 19,
+    "label": "privacy policy URL",
+    "percent": 0.0
+  },
+  {
+    "p": "P4843",
+    "count": 19,
+    "label": "development of anatomical structure",
+    "percent": 0.0
+  },
+  {
+    "p": "P4934",
+    "count": 18,
+    "label": "calculated from",
+    "percent": 0.0
+  },
+  {
+    "p": "P5940",
+    "count": 18,
+    "label": "plot expanded in",
+    "percent": 0.0
+  },
+  {
+    "p": "P1348",
+    "count": 18,
+    "label": "AlgaeBase URL",
+    "percent": 0.0
+  },
+  {
+    "p": "P4426",
+    "count": 18,
+    "label": "Y-DNA Haplogroup",
+    "percent": 0.0
+  },
+  {
+    "p": "P2240",
+    "count": 18,
+    "label": "median lethal dose (LD50)",
+    "percent": 0.0
+  },
+  {
+    "p": "P4149",
+    "count": 18,
+    "label": "conjugate base",
+    "percent": 0.0
+  },
+  {
+    "p": "P2999",
+    "count": 18,
+    "label": "age of consent",
+    "percent": 0.0
+  },
+  {
+    "p": "P3833",
+    "count": 18,
+    "label": "diaspora",
+    "percent": 0.0
+  },
+  {
+    "p": "P7936",
+    "count": 18,
+    "label": "business model",
+    "percent": 0.0
+  },
+  {
+    "p": "P5991",
+    "count": 18,
+    "label": "carbon footprint",
+    "percent": 0.0
+  },
+  {
+    "p": "P3156",
+    "count": 18,
+    "label": "Australian Classification",
+    "percent": 0.0
+  },
+  {
+    "p": "P567",
+    "count": 18,
+    "label": "underlies",
+    "percent": 0.0
+  },
+  {
+    "p": "P2793",
+    "count": 18,
+    "label": "clearance",
+    "percent": 0.0
+  },
+  {
+    "p": "P3893",
+    "count": 18,
+    "label": "public domain date",
+    "percent": 0.0
+  },
+  {
+    "p": "P8852",
+    "count": 18,
+    "label": "facial hair",
+    "percent": 0.0
+  },
+  {
+    "p": "P3090",
+    "count": 18,
+    "label": "flight number",
+    "percent": 0.0
+  },
+  {
+    "p": "P1796",
+    "count": 18,
+    "label": "International Standard Industrial Classification code Rev.4",
+    "percent": 0.0
+  },
+  {
+    "p": "P1533",
+    "count": 18,
+    "label": "family name identical to this given name",
+    "percent": 0.0
+  },
+  {
+    "p": "P3161",
+    "count": 18,
+    "label": "has grammatical mood",
+    "percent": 0.0
+  },
+  {
+    "p": "P868",
+    "count": 18,
+    "label": "foods traditionally associated",
+    "percent": 0.0
+  },
+  {
+    "p": "P1389",
+    "count": 18,
+    "label": "product certification",
+    "percent": 0.0
+  },
+  {
+    "p": "P8667",
+    "count": 18,
+    "label": "twin town sign",
+    "percent": 0.0
+  },
+  {
+    "p": "P1125",
+    "count": 18,
+    "label": "Gini coefficient",
+    "percent": 0.0
+  },
+  {
+    "p": "P1547",
+    "count": 18,
+    "label": "depends on software",
+    "percent": 0.0
+  },
+  {
+    "p": "P1641",
+    "count": 18,
+    "label": "port",
+    "percent": 0.0
+  },
+  {
+    "p": "P7235",
+    "count": 17,
+    "label": "in defining formula",
+    "percent": 0.0
+  },
+  {
+    "p": "P2134",
+    "count": 17,
+    "label": "total reserves",
+    "percent": 0.0
+  },
+  {
+    "p": "P634",
+    "count": 17,
+    "label": "captain",
+    "percent": 0.0
+  },
+  {
+    "p": "P620",
+    "count": 17,
+    "label": "time of spacecraft landing",
+    "percent": 0.0
+  },
+  {
+    "p": "P3070",
+    "count": 17,
+    "label": "dynamic viscosity",
+    "percent": 0.0
+  },
+  {
+    "p": "P3719",
+    "count": 17,
+    "label": "regulated by",
+    "percent": 0.0
+  },
+  {
+    "p": "P2440",
+    "count": 17,
+    "label": "transliteration",
+    "percent": 0.0
+  },
+  {
+    "p": "P831",
+    "count": 17,
+    "label": "parent club",
+    "percent": 0.0
+  },
+  {
+    "p": "P6507",
+    "count": 17,
+    "label": "taxon author citation",
+    "percent": 0.0
+  },
+  {
+    "p": "P4101",
+    "count": 17,
+    "label": "dissertation submitted to",
+    "percent": 0.0
+  },
+  {
+    "p": "P1574",
+    "count": 17,
+    "label": "exemplar of",
+    "percent": 0.0
+  },
+  {
+    "p": "P1590",
+    "count": 17,
+    "label": "number of casualties",
+    "percent": 0.0
+  },
+  {
+    "p": "P2216",
+    "count": 17,
+    "label": "radial velocity",
+    "percent": 0.0
+  },
+  {
+    "p": "P453",
+    "count": 17,
+    "label": "character role",
+    "percent": 0.0
+  },
+  {
+    "p": "P2975",
+    "count": 17,
+    "label": "host",
+    "percent": 0.0
+  },
+  {
+    "p": "P1625",
+    "count": 16,
+    "label": "has melody",
+    "percent": 0.0
+  },
+  {
+    "p": "P834",
+    "count": 16,
+    "label": "train depot",
+    "percent": 0.0
+  },
+  {
+    "p": "P3921",
+    "count": 16,
+    "label": "Wikidata SPARQL query equivalent",
+    "percent": 0.0
+  },
+  {
+    "p": "P5167",
+    "count": 16,
+    "label": "vehicles per thousand people",
+    "percent": 0.0
+  },
+  {
+    "p": "P624",
+    "count": 16,
+    "label": "guidance system",
+    "percent": 0.0
+  },
+  {
+    "p": "P5894",
+    "count": 16,
+    "label": "tuition fee",
+    "percent": 0.0
+  },
+  {
+    "p": "P2415",
+    "count": 16,
+    "label": "personal best",
+    "percent": 0.0
+  },
+  {
+    "p": "P2138",
+    "count": 16,
+    "label": "total liabilities",
+    "percent": 0.0
+  },
+  {
+    "p": "P8371",
+    "count": 16,
+    "label": "references work, tradition or theory",
+    "percent": 0.0
+  },
+  {
+    "p": "P8450",
+    "count": 16,
+    "label": "peak bagging classification",
+    "percent": 0.0
+  },
+  {
+    "p": "P6793",
+    "count": 16,
+    "label": "WMI code",
+    "percent": 0.0
+  },
+  {
+    "p": "P1031",
+    "count": 16,
+    "label": "legal citation of this text",
+    "percent": 0.0
+  },
+  {
+    "p": "P765",
+    "count": 16,
+    "label": "surface played on",
+    "percent": 0.0
+  },
+  {
+    "p": "P1872",
+    "count": 16,
+    "label": "minimum number of players",
+    "percent": 0.0
+  },
+  {
+    "p": "P2597",
+    "count": 16,
+    "label": "Gram staining",
+    "percent": 0.0
+  },
+  {
+    "p": "P3744",
+    "count": 16,
+    "label": "number of subscribers",
+    "percent": 0.0
+  },
+  {
+    "p": "P2567",
+    "count": 16,
+    "label": "amended by",
+    "percent": 0.0
+  },
+  {
+    "p": "P2713",
+    "count": 16,
+    "label": "sectional view",
+    "percent": 0.0
+  },
+  {
+    "p": "P2849",
+    "count": 16,
+    "label": "produced by",
+    "percent": 0.0
+  },
+  {
+    "p": "P2664",
+    "count": 16,
+    "label": "units sold",
+    "percent": 0.0
+  },
+  {
+    "p": "P8670",
+    "count": 16,
+    "label": "character designer",
+    "percent": 0.0
+  },
+  {
+    "p": "P1088",
+    "count": 16,
+    "label": "Mohs' hardness",
+    "percent": 0.0
+  },
+  {
+    "p": "P3938",
+    "count": 16,
+    "label": "named by",
+    "percent": 0.0
+  },
+  {
+    "p": "P8289",
+    "count": 16,
+    "label": "parish church",
+    "percent": 0.0
+  },
+  {
+    "p": "P1158",
+    "count": 15,
+    "label": "location of landing",
+    "percent": 0.0
+  },
+  {
+    "p": "P2199",
+    "count": 15,
+    "label": "autoignition temperature",
+    "percent": 0.0
+  },
+  {
+    "p": "P3902",
+    "count": 15,
+    "label": "had as last meal",
+    "percent": 0.0
+  },
+  {
+    "p": "P2546",
+    "count": 15,
+    "label": "sidekick of",
+    "percent": 0.0
+  },
+  {
+    "p": "P1414",
+    "count": 15,
+    "label": "GUI toolkit or framework",
+    "percent": 0.0
+  },
+  {
+    "p": "P2893",
+    "count": 15,
+    "label": "Skype username",
+    "percent": 0.0
+  },
+  {
+    "p": "P3173",
+    "count": 15,
+    "label": "offers view on",
+    "percent": 0.0
+  },
+  {
+    "p": "P4428",
+    "count": 15,
+    "label": "implementation of",
+    "percent": 0.0
+  },
+  {
+    "p": "P2737",
+    "count": 15,
+    "label": "union of",
+    "percent": 0.0
+  },
+  {
+    "p": "P3349",
+    "count": 15,
+    "label": "designed to carry",
+    "percent": 0.0
+  },
+  {
+    "p": "P5588",
+    "count": 15,
+    "label": "invasive to",
+    "percent": 0.0
+  },
+  {
+    "p": "P4912",
+    "count": 15,
+    "label": "century breaks",
+    "percent": 0.0
+  },
+  {
+    "p": "P3485",
+    "count": 15,
+    "label": "bite force quotient",
+    "percent": 0.0
+  },
+  {
+    "p": "P3512",
+    "count": 15,
+    "label": "means of locomotion",
+    "percent": 0.0
+  },
+  {
+    "p": "P367",
+    "count": 15,
+    "label": "astronomic symbol image",
+    "percent": 0.0
+  },
+  {
+    "p": "P3618",
+    "count": 15,
+    "label": "base salary",
+    "percent": 0.0
+  },
+  {
+    "p": "P1873",
+    "count": 15,
+    "label": "maximum number of players",
+    "percent": 0.0
+  },
+  {
+    "p": "P483",
+    "count": 14,
+    "label": "recorded at studio or venue",
+    "percent": 0.0
+  },
+  {
+    "p": "P5152",
+    "count": 14,
+    "label": "KAVI rating",
+    "percent": 0.0
+  },
+  {
+    "p": "P7415",
+    "count": 14,
+    "label": "code (image)",
+    "percent": 0.0
+  },
+  {
+    "p": "P2899",
+    "count": 14,
+    "label": "minimum age",
+    "percent": 0.0
+  },
+  {
+    "p": "P111",
+    "count": 14,
+    "label": "measured physical quantity",
+    "percent": 0.0
+  },
+  {
+    "p": "P2673",
+    "count": 14,
+    "label": "next crossing upstream",
+    "percent": 0.0
+  },
+  {
+    "p": "P2068",
+    "count": 14,
+    "label": "thermal conductivity",
+    "percent": 0.0
+  },
+  {
+    "p": "P2630",
+    "count": 14,
+    "label": "cost of damage",
+    "percent": 0.0
+  },
+  {
+    "p": "P6569",
+    "count": 14,
+    "label": "taxa especially protected in area",
+    "percent": 0.0
+  },
+  {
+    "p": "P3113",
+    "count": 14,
+    "label": "does not have part",
+    "percent": 0.0
+  },
+  {
+    "p": "P1605",
+    "count": 14,
+    "label": "has natural reservoir",
+    "percent": 0.0
+  },
+  {
+    "p": "P2527",
+    "count": 14,
+    "label": "earthquake magnitude on the moment magnitude scale",
+    "percent": 0.0
+  },
+  {
+    "p": "P3103",
+    "count": 14,
+    "label": "has tense",
+    "percent": 0.0
+  },
+  {
+    "p": "P2289",
+    "count": 14,
+    "label": "venous drainage",
+    "percent": 0.0
+  },
+  {
+    "p": "P8324",
+    "count": 14,
+    "label": "funder",
+    "percent": 0.0
+  },
+  {
+    "p": "P7014",
+    "count": 14,
+    "label": "terms of service URL",
+    "percent": 0.0
+  },
+  {
+    "p": "P8031",
+    "count": 14,
+    "label": "perpetrator",
+    "percent": 0.0
+  },
+  {
+    "p": "P8112",
+    "count": 14,
+    "label": "CSS color keyword",
+    "percent": 0.0
+  },
+  {
+    "p": "P4599",
+    "count": 13,
+    "label": "monomer of",
+    "percent": 0.0
+  },
+  {
+    "p": "P2058",
+    "count": 13,
+    "label": "depositor",
+    "percent": 0.0
+  },
+  {
+    "p": "P3871",
+    "count": 13,
+    "label": "tributary orientation",
+    "percent": 0.0
+  },
+  {
+    "p": "P2370",
+    "count": 13,
+    "label": "conversion to SI unit",
+    "percent": 0.0
+  },
+  {
+    "p": "P2442",
+    "count": 13,
+    "label": "conversion to standard unit",
+    "percent": 0.0
+  },
+  {
+    "p": "P7309",
+    "count": 13,
+    "label": "climbing route",
+    "percent": 0.0
+  },
+  {
+    "p": "P550",
+    "count": 13,
+    "label": "chivalric order",
+    "percent": 0.0
+  },
+  {
+    "p": "P5606",
+    "count": 13,
+    "label": "station class",
+    "percent": 0.0
+  },
+  {
+    "p": "P7327",
+    "count": 13,
+    "label": "OFLC classification",
+    "percent": 0.0
+  },
+  {
+    "p": "P6962",
+    "count": 13,
+    "label": "narrative motif",
+    "percent": 0.0
+  },
+  {
+    "p": "P5822",
+    "count": 13,
+    "label": "admission rate",
+    "percent": 0.0
+  },
+  {
+    "p": "P1880",
+    "count": 13,
+    "label": "measurement scale",
+    "percent": 0.0
+  },
+  {
+    "p": "P2992",
+    "count": 13,
+    "label": "software quality assurance",
+    "percent": 0.0
+  },
+  {
+    "p": "P3488",
+    "count": 13,
+    "label": "minimal incubation period in humans",
+    "percent": 0.0
+  },
+  {
+    "p": "P3487",
+    "count": 13,
+    "label": "maximal incubation period in humans",
+    "percent": 0.0
+  },
+  {
+    "p": "P1991",
+    "count": 13,
+    "label": "LPSN URL",
+    "percent": 0.0
+  },
+  {
+    "p": "P1418",
+    "count": 13,
+    "label": "orbits completed",
+    "percent": 0.0
+  },
+  {
+    "p": "P6346",
+    "count": 13,
+    "label": "statutory purpose",
+    "percent": 0.0
+  },
+  {
+    "p": "P7501",
+    "count": 13,
+    "label": "audio system",
+    "percent": 0.0
+  },
+  {
+    "p": "P4805",
+    "count": 13,
+    "label": "make-up artist",
+    "percent": 0.0
+  },
+  {
+    "p": "P3301",
+    "count": 13,
+    "label": "broadcast by",
+    "percent": 0.0
+  },
+  {
+    "p": "P2300",
+    "count": 13,
+    "label": "minimal lethal dose",
+    "percent": 0.0
+  },
+  {
+    "p": "P215",
+    "count": 12,
+    "label": "spectral class",
+    "percent": 0.0
+  },
+  {
+    "p": "P1039",
+    "count": 12,
+    "label": "type of kinship",
+    "percent": 0.0
+  },
+  {
+    "p": "P1068",
+    "count": 12,
+    "label": "instruction set",
+    "percent": 0.0
+  },
+  {
+    "p": "P7782",
+    "count": 12,
+    "label": "category for ship name",
+    "percent": 0.0
+  },
+  {
+    "p": "P4608",
+    "count": 12,
+    "label": "scenographer",
+    "percent": 0.0
+  },
+  {
+    "p": "P4350",
+    "count": 12,
+    "label": "salinity",
+    "percent": 0.0
+  },
+  {
+    "p": "P2078",
+    "count": 12,
+    "label": "user manual URL",
+    "percent": 0.0
+  },
+  {
+    "p": "P1957",
+    "count": 12,
+    "label": "Wikisource index page",
+    "percent": 0.0
+  },
+  {
+    "p": "P3093",
+    "count": 12,
+    "label": "recovered by",
+    "percent": 0.0
+  },
+  {
+    "p": "P2720",
+    "count": 12,
+    "label": "embed URL template",
+    "percent": 0.0
+  },
+  {
+    "p": "P6107",
+    "count": 12,
+    "label": "winterthur-glossar URL",
+    "percent": 0.0
+  },
+  {
+    "p": "P636",
+    "count": 12,
+    "label": "route of administration",
+    "percent": 0.0
+  },
+  {
+    "p": "P5480",
+    "count": 12,
+    "label": "tensile modulus of elasticity",
+    "percent": 0.0
+  },
+  {
+    "p": "P1359",
+    "count": 12,
+    "label": "number of points\/goals conceded",
+    "percent": 0.0
+  },
+  {
+    "p": "P1406",
+    "count": 11,
+    "label": "script directionality",
+    "percent": 0.0
+  },
+  {
+    "p": "P6439",
+    "count": 11,
+    "label": "has lyrics",
+    "percent": 0.0
+  },
+  {
+    "p": "P2201",
+    "count": 11,
+    "label": "electric dipole moment",
+    "percent": 0.0
+  },
+  {
+    "p": "P8194",
+    "count": 11,
+    "label": "hardiness zone",
+    "percent": 0.0
+  },
+  {
+    "p": "P1074",
+    "count": 11,
+    "label": "fictional analog of",
+    "percent": 0.0
+  },
+  {
+    "p": "P4765",
+    "count": 11,
+    "label": "Commons compatible image available at URL",
+    "percent": 0.0
+  },
+  {
+    "p": "P2551",
+    "count": 11,
+    "label": "used metre",
+    "percent": 0.0
+  },
+  {
+    "p": "P2674",
+    "count": 11,
+    "label": "next crossing downstream",
+    "percent": 0.0
+  },
+  {
+    "p": "P4316",
+    "count": 11,
+    "label": "kinship equivalent in SPARQL at Wikidata",
+    "percent": 0.0
+  },
+  {
+    "p": "P3970",
+    "count": 11,
+    "label": "channel number",
+    "percent": 0.0
+  },
+  {
+    "p": "P658",
+    "count": 11,
+    "label": "tracklist",
+    "percent": 0.0
+  },
+  {
+    "p": "P2215",
+    "count": 11,
+    "label": "proper motion",
+    "percent": 0.0
+  },
+  {
+    "p": "P6440",
+    "count": 11,
+    "label": "maintenance method",
+    "percent": 0.0
+  },
+  {
+    "p": "P5009",
+    "count": 11,
+    "label": "complies with",
+    "percent": 0.0
+  },
+  {
+    "p": "P690",
+    "count": 11,
+    "label": "space group",
+    "percent": 0.0
+  },
+  {
+    "p": "P1102",
+    "count": 11,
+    "label": "flattening",
+    "percent": 0.0
+  },
+  {
+    "p": "P1193",
+    "count": 11,
+    "label": "prevalence",
+    "percent": 0.0
+  },
+  {
+    "p": "P591",
+    "count": 11,
+    "label": "EC enzyme number",
+    "percent": 0.0
+  },
+  {
+    "p": "P2828",
+    "count": 11,
+    "label": "corporate officer",
+    "percent": 0.0
+  },
+  {
+    "p": "P7514",
+    "count": 11,
+    "label": "landscape architect",
+    "percent": 0.0
+  },
+  {
+    "p": "P1998",
+    "count": 11,
+    "label": "UCI code",
+    "percent": 0.0
+  },
+  {
+    "p": "P5630",
+    "count": 11,
+    "label": "prisoner count",
+    "percent": 0.0
+  },
+  {
+    "p": "P3026",
+    "count": 11,
+    "label": "closed on",
+    "percent": 0.0
+  },
+  {
+    "p": "P6477",
+    "count": 10,
+    "label": "does not have quality",
+    "percent": 0.0
+  },
+  {
+    "p": "P943",
+    "count": 10,
+    "label": "programmer",
+    "percent": 0.0
+  },
+  {
+    "p": "P1558",
+    "count": 10,
+    "label": "tempo marking",
+    "percent": 0.0
+  },
+  {
+    "p": "P7213",
+    "count": 10,
+    "label": "newspaper archive URL",
+    "percent": 0.0
+  },
+  {
+    "p": "P6427",
+    "count": 10,
+    "label": "trading name",
+    "percent": 0.0
+  },
+  {
+    "p": "P6949",
+    "count": 10,
+    "label": "announcement date",
+    "percent": 0.0
+  },
+  {
+    "p": "P2743",
+    "count": 10,
+    "label": "this zoological name is coordinate with",
+    "percent": 0.0
+  },
+  {
+    "p": "P523",
+    "count": 10,
+    "label": "temporal range start",
+    "percent": 0.0
+  },
+  {
+    "p": "P2575",
+    "count": 10,
+    "label": "measures",
+    "percent": 0.0
+  },
+  {
+    "p": "P3701",
+    "count": 10,
+    "label": "incarnation of",
+    "percent": 0.0
+  },
+  {
+    "p": "P1951",
+    "count": 10,
+    "label": "investor",
+    "percent": 0.0
+  },
+  {
+    "p": "P5471",
+    "count": 10,
+    "label": "Harmonized System Code",
+    "percent": 0.0
+  },
+  {
+    "p": "P5949",
+    "count": 10,
+    "label": "Unicode range",
+    "percent": 0.0
+  },
+  {
+    "p": "P2528",
+    "count": 10,
+    "label": "earthquake magnitude on the Richter magnitude scale",
+    "percent": 0.0
+  },
+  {
+    "p": "P2784",
+    "count": 10,
+    "label": "Mercalli intensity scale",
+    "percent": 0.0
+  },
+  {
+    "p": "P8693",
+    "count": 10,
+    "label": "fandom",
+    "percent": 0.0
+  },
+  {
+    "p": "P1302",
+    "count": 10,
+    "label": "primary destinations",
+    "percent": 0.0
+  },
+  {
+    "p": "P8032",
+    "count": 10,
+    "label": "victim",
+    "percent": 0.0
+  },
+  {
+    "p": "P7510",
+    "count": 10,
+    "label": "XML namespace",
+    "percent": 0.0
+  },
+  {
+    "p": "P720",
+    "count": 10,
+    "label": "asteroid spectral type",
+    "percent": 0.0
+  },
+  {
+    "p": "P1750",
+    "count": 10,
+    "label": "name day",
+    "percent": 0.0
+  },
+  {
+    "p": "P3157",
+    "count": 10,
+    "label": "event distance",
+    "percent": 0.0
+  },
+  {
+    "p": "P2441",
+    "count": 9,
+    "label": "literal translation",
+    "percent": 0.0
+  },
+  {
+    "p": "P2343",
+    "count": 9,
+    "label": "playing range image",
+    "percent": 0.0
+  },
+  {
+    "p": "P1896",
+    "count": 9,
+    "label": "source website for the property",
+    "percent": 0.0
+  },
+  {
+    "p": "P2033",
+    "count": 9,
+    "label": "category for pictures taken with camera",
+    "percent": 0.0
+  },
+  {
+    "p": "P521",
+    "count": 9,
+    "label": "scheduled service destination",
+    "percent": 0.0
+  },
+  {
+    "p": "P4895",
+    "count": 9,
+    "label": "time index",
+    "percent": 0.0
+  },
+  {
+    "p": "P6166",
+    "count": 9,
+    "label": "quotes work",
+    "percent": 0.0
+  },
+  {
+    "p": "P2661",
+    "count": 9,
+    "label": "target interest rate",
+    "percent": 0.0
+  },
+  {
+    "p": "P6108",
+    "count": 9,
+    "label": "IIIF manifest",
+    "percent": 0.0
+  },
+  {
+    "p": "P8340",
+    "count": 9,
+    "label": "estimated value",
+    "percent": 0.0
+  },
+  {
+    "p": "P3030",
+    "count": 9,
+    "label": "sheet music",
+    "percent": 0.0
+  },
+  {
+    "p": "P3364",
+    "count": 9,
+    "label": "stereoisomer of",
+    "percent": 0.0
+  },
+  {
+    "p": "P3395",
+    "count": 9,
+    "label": "heart rate",
+    "percent": 0.0
+  },
+  {
+    "p": "P6000",
+    "count": 9,
+    "label": "water footprint",
+    "percent": 0.0
+  },
+  {
+    "p": "P878",
+    "count": 9,
+    "label": "avionics",
+    "percent": 0.0
+  },
+  {
+    "p": "P2116",
+    "count": 9,
+    "label": "enthalpy of vaporization",
+    "percent": 0.0
+  },
+  {
+    "p": "P5805",
+    "count": 9,
+    "label": "OSI Model layer location",
+    "percent": 0.0
+  },
+  {
+    "p": "P2069",
+    "count": 9,
+    "label": "magnetic moment",
+    "percent": 0.0
+  },
+  {
+    "p": "P2928",
+    "count": 9,
+    "label": "memory capacity",
+    "percent": 0.0
+  },
+  {
+    "p": "P5994",
+    "count": 9,
+    "label": "recycling code",
+    "percent": 0.0
+  },
+  {
+    "p": "P7015",
+    "count": 9,
+    "label": "surface gravity",
+    "percent": 0.0
+  },
+  {
+    "p": "P2869",
+    "count": 9,
+    "label": "record or record progression",
+    "percent": 0.0
+  },
+  {
+    "p": "P3387",
+    "count": 9,
+    "label": "minimum frequency of audible sound",
+    "percent": 0.0
+  },
+  {
+    "p": "P3465",
+    "count": 9,
+    "label": "maximum frequency of audible sound",
+    "percent": 0.0
+  },
+  {
+    "p": "P2098",
+    "count": 8,
+    "label": "substitute\/deputy\/replacement of office\/officeholder",
+    "percent": 0.0
+  },
+  {
+    "p": "P1183",
+    "count": 8,
+    "label": "Gew\u00e4sserkennzahl",
+    "percent": 0.0
+  },
+  {
+    "p": "P872",
+    "count": 8,
+    "label": "printed by",
+    "percent": 0.0
+  },
+  {
+    "p": "P2055",
+    "count": 8,
+    "label": "electrical conductivity",
+    "percent": 0.0
+  },
+  {
+    "p": "P2827",
+    "count": 8,
+    "label": "flower color",
+    "percent": 0.0
+  },
+  {
+    "p": "P5004",
+    "count": 8,
+    "label": "in opposition to",
+    "percent": 0.0
+  },
+  {
+    "p": "P2500",
+    "count": 8,
+    "label": "league level below",
+    "percent": 0.0
+  },
+  {
+    "p": "P2217",
+    "count": 8,
+    "label": "cruise speed",
+    "percent": 0.0
+  },
+  {
+    "p": "P7137",
+    "count": 8,
+    "label": "acknowledged",
+    "percent": 0.0
+  },
+  {
+    "p": "P2998",
+    "count": 8,
+    "label": "age of candidacy",
+    "percent": 0.0
+  },
+  {
+    "p": "P1993",
+    "count": 8,
+    "label": "TeX string",
+    "percent": 0.0
+  },
+  {
+    "p": "P702",
+    "count": 8,
+    "label": "encoded by",
+    "percent": 0.0
+  },
+  {
+    "p": "P823",
+    "count": 8,
+    "label": "speaker",
+    "percent": 0.0
+  },
+  {
+    "p": "P2214",
+    "count": 8,
+    "label": "parallax",
+    "percent": 0.0
+  },
+  {
+    "p": "P2746",
+    "count": 8,
+    "label": "production statistics",
+    "percent": 0.0
+  },
+  {
+    "p": "P5141",
+    "count": 8,
+    "label": "coastline",
+    "percent": 0.0
+  },
+  {
+    "p": "P2147",
+    "count": 8,
+    "label": "rotation period",
+    "percent": 0.0
+  },
+  {
+    "p": "P4341",
+    "count": 8,
+    "label": "synodic period",
+    "percent": 0.0
+  },
+  {
+    "p": "P2695",
+    "count": 8,
+    "label": "type locality (geology)",
+    "percent": 0.0
+  },
+  {
+    "p": "P8571",
+    "count": 8,
+    "label": "external auditor",
+    "percent": 0.0
+  },
+  {
+    "p": "P2066",
+    "count": 8,
+    "label": "fusion enthalpy",
+    "percent": 0.0
+  },
+  {
+    "p": "P621",
+    "count": 8,
+    "label": "time of spacecraft orbit decay",
+    "percent": 0.0
+  },
+  {
+    "p": "P8127",
+    "count": 8,
+    "label": "tournament format",
+    "percent": 0.0
+  },
+  {
+    "p": "P7163",
+    "count": 8,
+    "label": "typically sells",
+    "percent": 0.0
+  },
+  {
+    "p": "P5582",
+    "count": 8,
+    "label": "number of arrests",
+    "percent": 0.0
+  },
+  {
+    "p": "P532",
+    "count": 8,
+    "label": "port of registry",
+    "percent": 0.0
+  },
+  {
+    "p": "P5204",
+    "count": 7,
+    "label": "date of commercialization",
+    "percent": 0.0
+  },
+  {
+    "p": "P2913",
+    "count": 7,
+    "label": "date depicted",
+    "percent": 0.0
+  },
+  {
+    "p": "P5998",
+    "count": 7,
+    "label": "distributary",
+    "percent": 0.0
+  },
+  {
+    "p": "P3033",
+    "count": 7,
+    "label": "package management system",
+    "percent": 0.0
+  },
+  {
+    "p": "P8500",
+    "count": 7,
+    "label": "Vietnamese middle name",
+    "percent": 0.0
+  },
+  {
+    "p": "P6249",
+    "count": 7,
+    "label": "narrative age",
+    "percent": 0.0
+  },
+  {
+    "p": "P6500",
+    "count": 7,
+    "label": "non-free artwork image URL",
+    "percent": 0.0
+  },
+  {
+    "p": "P524",
+    "count": 7,
+    "label": "temporal range end",
+    "percent": 0.0
+  },
+  {
+    "p": "P5110",
+    "count": 7,
+    "label": "has grammatical person",
+    "percent": 0.0
+  },
+  {
+    "p": "P3816",
+    "count": 7,
+    "label": "film script",
+    "percent": 0.0
+  },
+  {
+    "p": "P3886",
+    "count": 7,
+    "label": "number of perpetrators",
+    "percent": 0.0
+  },
+  {
+    "p": "P1659",
+    "count": 7,
+    "label": "see also",
+    "percent": 0.0
+  },
+  {
+    "p": "P2151",
+    "count": 7,
+    "label": "focal length",
+    "percent": 0.0
+  },
+  {
+    "p": "P7243",
+    "count": 7,
+    "label": "pronunciation",
+    "percent": 0.0
+  },
+  {
+    "p": "P1789",
+    "count": 7,
+    "label": "chief operating officer",
+    "percent": 0.0
+  },
+  {
+    "p": "P2285",
+    "count": 7,
+    "label": "periapsis date",
+    "percent": 0.0
+  },
+  {
+    "p": "P2739",
+    "count": 7,
+    "label": "typeface\/font used",
+    "percent": 0.0
+  },
+  {
+    "p": "P2076",
+    "count": 7,
+    "label": "temperature",
+    "percent": 0.0
+  },
+  {
+    "p": "P249",
+    "count": 7,
+    "label": "ticker symbol",
+    "percent": 0.0
+  },
+  {
+    "p": "P2095",
+    "count": 7,
+    "label": "co-driver",
+    "percent": 0.0
+  },
+  {
+    "p": "P642",
+    "count": 7,
+    "label": "of",
+    "percent": 0.0
+  },
+  {
+    "p": "P847",
+    "count": 7,
+    "label": "United States Navy aircraft designation",
+    "percent": 0.0
+  },
+  {
+    "p": "P3934",
+    "count": 7,
+    "label": "face value",
+    "percent": 0.0
+  },
+  {
+    "p": "P4147",
+    "count": 7,
+    "label": "conjugate acid",
+    "percent": 0.0
+  },
+  {
+    "p": "P2568",
+    "count": 7,
+    "label": "repealed by",
+    "percent": 0.0
+  },
+  {
+    "p": "P1591",
+    "count": 7,
+    "label": "defendant",
+    "percent": 0.0
+  },
+  {
+    "p": "P2565",
+    "count": 7,
+    "label": "global warming potential",
+    "percent": 0.0
+  },
+  {
+    "p": "P7252",
+    "count": 7,
+    "label": "degree of difficulty",
+    "percent": 0.0
+  },
+  {
+    "p": "P6339",
+    "count": 7,
+    "label": "reports periodicity",
+    "percent": 0.0
+  },
+  {
+    "p": "P2056",
+    "count": 7,
+    "label": "heat capacity",
+    "percent": 0.0
+  },
+  {
+    "p": "P2453",
+    "count": 7,
+    "label": "nominee",
+    "percent": 0.0
+  },
+  {
+    "p": "P4131",
+    "count": 6,
+    "label": "annual energy output",
+    "percent": 0.0
+  },
+  {
+    "p": "P560",
+    "count": 6,
+    "label": "direction",
+    "percent": 0.0
+  },
+  {
+    "p": "P7781",
+    "count": 6,
+    "label": "exonerated of",
+    "percent": 0.0
+  },
+  {
+    "p": "P2894",
+    "count": 6,
+    "label": "day of week",
+    "percent": 0.0
+  },
+  {
+    "p": "P2825",
+    "count": 6,
+    "label": "via",
+    "percent": 0.0
+  },
+  {
+    "p": "P6794",
+    "count": 6,
+    "label": "minimum wage",
+    "percent": 0.0
+  },
+  {
+    "p": "P3082",
+    "count": 6,
+    "label": "destroyed",
+    "percent": 0.0
+  },
+  {
+    "p": "P5131",
+    "count": 6,
+    "label": "possible medical findings",
+    "percent": 0.0
+  },
+  {
+    "p": "P2371",
+    "count": 6,
+    "label": "FAO risk status",
+    "percent": 0.0
+  },
+  {
+    "p": "P7150",
+    "count": 6,
+    "label": "epigraph (literature)",
+    "percent": 0.0
+  },
+  {
+    "p": "P1145",
+    "count": 6,
+    "label": "Lagrangian point",
+    "percent": 0.0
+  },
+  {
+    "p": "P6532",
+    "count": 6,
+    "label": "has phenotype",
+    "percent": 0.0
+  },
+  {
+    "p": "P2976",
+    "count": 6,
+    "label": "patronym or matronym for this name",
+    "percent": 0.0
+  },
+  {
+    "p": "P2786",
+    "count": 6,
+    "label": "aerodrome reference point",
+    "percent": 0.0
+  },
+  {
+    "p": "P2935",
+    "count": 6,
+    "label": "connector",
+    "percent": 0.0
+  },
+  {
+    "p": "P4103",
+    "count": 6,
+    "label": "assets under management",
+    "percent": 0.0
+  },
+  {
+    "p": "P5962",
+    "count": 6,
+    "label": "sail emblem",
+    "percent": 0.0
+  },
+  {
+    "p": "P2288",
+    "count": 6,
+    "label": "lymphatic drainage",
+    "percent": 0.0
+  },
+  {
+    "p": "P8368",
+    "count": 6,
+    "label": "number of branches",
+    "percent": 0.0
+  },
+  {
+    "p": "P2854",
+    "count": 6,
+    "label": "disease burden",
+    "percent": 0.0
+  },
+  {
+    "p": "P6686",
+    "count": 6,
+    "label": "musical motif",
+    "percent": 0.0
+  },
+  {
+    "p": "P654",
+    "count": 6,
+    "label": "direction relative to location",
+    "percent": 0.0
+  },
+  {
+    "p": "P4968",
+    "count": 6,
+    "label": "relevant qualification",
+    "percent": 0.0
+  },
+  {
+    "p": "P1898",
+    "count": 6,
+    "label": "lowest note",
+    "percent": 0.0
+  },
+  {
+    "p": "P3575",
+    "count": 6,
+    "label": "data size",
+    "percent": 0.0
+  },
+  {
+    "p": "P769",
+    "count": 6,
+    "label": "significant drug interaction",
+    "percent": 0.0
+  },
+  {
+    "p": "P1099",
+    "count": 6,
+    "label": "number of masts",
+    "percent": 0.0
+  },
+  {
+    "p": "P6106",
+    "count": 6,
+    "label": "uses capitalization for",
+    "percent": 0.0
+  },
+  {
+    "p": "P223",
+    "count": 6,
+    "label": "galaxy morphological type",
+    "percent": 0.0
+  },
+  {
+    "p": "P1090",
+    "count": 6,
+    "label": "redshift",
+    "percent": 0.0
+  },
+  {
+    "p": "P2993",
+    "count": 6,
+    "label": "partition coefficient water\/octanol",
+    "percent": 0.0
+  },
+  {
+    "p": "P2227",
+    "count": 6,
+    "label": "metallicity",
+    "percent": 0.0
+  },
+  {
+    "p": "P1924",
+    "count": 6,
+    "label": "vaccine for",
+    "percent": 0.0
+  },
+  {
+    "p": "P6879",
+    "count": 6,
+    "label": "effective temperature",
+    "percent": 0.0
+  },
+  {
+    "p": "P881",
+    "count": 6,
+    "label": "type of variable star",
+    "percent": 0.0
+  },
+  {
+    "p": "P7707",
+    "count": 6,
+    "label": "PlayStation DataCenter URL",
+    "percent": 0.0
+  },
+  {
+    "p": "P7081",
+    "count": 6,
+    "label": "quotation or excerpt",
+    "percent": 0.0
+  },
+  {
+    "p": "P1259",
+    "count": 6,
+    "label": "coordinates of the point of view",
+    "percent": 0.0
+  },
+  {
+    "p": "P3148",
+    "count": 6,
+    "label": "repeals",
+    "percent": 0.0
+  },
+  {
+    "p": "P1560",
+    "count": 6,
+    "label": "given name version for other gender",
+    "percent": 0.0
+  },
+  {
+    "p": "P562",
+    "count": 6,
+    "label": "central bank\/issuer",
+    "percent": 0.0
+  },
+  {
+    "p": "P3737",
+    "count": 5,
+    "label": "maximum wavelength of sensitivity",
+    "percent": 0.0
+  },
+  {
+    "p": "P3738",
+    "count": 5,
+    "label": "minimum wavelength of sensitivity",
+    "percent": 0.0
+  },
+  {
+    "p": "P3014",
+    "count": 5,
+    "label": "laws applied",
+    "percent": 0.0
+  },
+  {
+    "p": "P5059",
+    "count": 5,
+    "label": "modified version of",
+    "percent": 0.0
+  },
+  {
+    "p": "P5202",
+    "count": 5,
+    "label": "adapted by",
+    "percent": 0.0
+  },
+  {
+    "p": "P5136",
+    "count": 5,
+    "label": "less than",
+    "percent": 0.0
+  },
+  {
+    "p": "P6954",
+    "count": 5,
+    "label": "access status",
+    "percent": 0.0
+  },
+  {
+    "p": "P4387",
+    "count": 5,
+    "label": "update method",
+    "percent": 0.0
+  },
+  {
+    "p": "P2411",
+    "count": 5,
+    "label": "Artsy gene",
+    "percent": 0.0
+  },
+  {
+    "p": "P4292",
+    "count": 5,
+    "label": "possessed by spirit",
+    "percent": 0.0
+  },
+  {
+    "p": "P2366",
+    "count": 5,
+    "label": "Roman agnomen",
+    "percent": 0.0
+  },
+  {
+    "p": "P7705",
+    "count": 5,
+    "label": "superfamicom.org URL",
+    "percent": 0.0
+  },
+  {
+    "p": "P1531",
+    "count": 5,
+    "label": "parent of this hybrid, breed, or cultivar",
+    "percent": 0.0
+  },
+  {
+    "p": "P7767",
+    "count": 5,
+    "label": "serving temperature",
+    "percent": 0.0
+  },
+  {
+    "p": "P3950",
+    "count": 5,
+    "label": "narrower external class",
+    "percent": 0.0
+  },
+  {
+    "p": "P7862",
+    "count": 5,
+    "label": "period of lactation",
+    "percent": 0.0
+  },
+  {
+    "p": "P6193",
+    "count": 5,
+    "label": "ratified by",
+    "percent": 0.0
+  },
+  {
+    "p": "P2791",
+    "count": 5,
+    "label": "power consumed",
+    "percent": 0.0
+  },
+  {
+    "p": "P1686",
+    "count": 5,
+    "label": "for work",
+    "percent": 0.0
+  },
+  {
+    "p": "P6291",
+    "count": 5,
+    "label": "advertises",
+    "percent": 0.0
+  },
+  {
+    "p": "P5135",
+    "count": 5,
+    "label": "greater than",
+    "percent": 0.0
+  },
+  {
+    "p": "P2321",
+    "count": 5,
+    "label": "general classification of race participants",
+    "percent": 0.0
+  },
+  {
+    "p": "P517",
+    "count": 5,
+    "label": "interaction",
+    "percent": 0.0
+  },
+  {
+    "p": "P8470",
+    "count": 5,
+    "label": "order number",
+    "percent": 0.0
+  },
+  {
+    "p": "P4628",
+    "count": 5,
+    "label": "ICTV virus genome composition",
+    "percent": 0.0
+  },
+  {
+    "p": "P7588",
+    "count": 5,
+    "label": "effective date",
+    "percent": 0.0
+  },
+  {
+    "p": "P6590",
+    "count": 5,
+    "label": "highest break",
+    "percent": 0.0
+  },
+  {
+    "p": "P5593",
+    "count": 5,
+    "label": "Poisson's ratio",
+    "percent": 0.0
+  },
+  {
+    "p": "P5330",
+    "count": 5,
+    "label": "United Kingdom Department for Transport railway station category",
+    "percent": 0.0
+  },
+  {
+    "p": "P4586",
+    "count": 5,
+    "label": "type foundry",
+    "percent": 0.0
+  },
+  {
+    "p": "P1878",
+    "count": 5,
+    "label": "Vox-ATypI classification",
+    "percent": 0.0
+  },
+  {
+    "p": "P1639",
+    "count": 5,
+    "label": "pendant of",
+    "percent": 0.0
+  },
+  {
+    "p": "P3081",
+    "count": 5,
+    "label": "damaged",
+    "percent": 0.0
+  },
+  {
+    "p": "P2499",
+    "count": 5,
+    "label": "league level above",
+    "percent": 0.0
+  },
+  {
+    "p": "P3013",
+    "count": 5,
+    "label": "surface tension",
+    "percent": 0.0
+  },
+  {
+    "p": "P2291",
+    "count": 5,
+    "label": "charted in",
+    "percent": 0.0
+  },
+  {
+    "p": "P4600",
+    "count": 5,
+    "label": "polymer of",
+    "percent": 0.0
+  },
+  {
+    "p": "P3085",
+    "count": 5,
+    "label": "qualifies for event",
+    "percent": 0.0
+  },
+  {
+    "p": "P489",
+    "count": 5,
+    "label": "currency symbol description",
+    "percent": 0.0
+  },
+  {
+    "p": "P1594",
+    "count": 5,
+    "label": "judge",
+    "percent": 0.0
+  },
+  {
+    "p": "P1445",
+    "count": 5,
+    "label": "fictional universe described in",
+    "percent": 0.0
+  },
+  {
+    "p": "P3440",
+    "count": 5,
+    "label": "time signature",
+    "percent": 0.0
+  },
+  {
+    "p": "P2859",
+    "count": 4,
+    "label": "X-SAMPA code",
+    "percent": 0.0
+  },
+  {
+    "p": "P3625",
+    "count": 4,
+    "label": "Kirshenbaum code",
+    "percent": 0.0
+  },
+  {
+    "p": "P3917",
+    "count": 4,
+    "label": "IPA number order",
+    "percent": 0.0
+  },
+  {
+    "p": "P4225",
+    "count": 4,
+    "label": "IPA Braille",
+    "percent": 0.0
+  },
+  {
+    "p": "P7457",
+    "count": 4,
+    "label": "creator's signature",
+    "percent": 0.0
+  },
+  {
+    "p": "P7374",
+    "count": 4,
+    "label": "educational stage",
+    "percent": 0.0
+  },
+  {
+    "p": "P1652",
+    "count": 4,
+    "label": "referee",
+    "percent": 0.0
+  },
+  {
+    "p": "P681",
+    "count": 4,
+    "label": "cell component",
+    "percent": 0.0
+  },
+  {
+    "p": "P1703",
+    "count": 4,
+    "label": "is pollinated by",
+    "percent": 0.0
+  },
+  {
+    "p": "P3492",
+    "count": 4,
+    "label": "basic reproduction number",
+    "percent": 0.0
+  },
+  {
+    "p": "P6241",
+    "count": 4,
+    "label": "collection creator",
+    "percent": 0.0
+  },
+  {
+    "p": "P3983",
+    "count": 4,
+    "label": "sports league level",
+    "percent": 0.0
+  },
+  {
+    "p": "P1706",
+    "count": 4,
+    "label": "together with",
+    "percent": 0.0
+  },
+  {
+    "p": "P4640",
+    "count": 4,
+    "label": "photosphere image",
+    "percent": 0.0
+  },
+  {
+    "p": "P1446",
+    "count": 4,
+    "label": "number of missing",
+    "percent": 0.0
+  },
+  {
+    "p": "P4997",
+    "count": 4,
+    "label": "National Governors Association biography URL",
+    "percent": 0.0
+  },
+  {
+    "p": "P3781",
+    "count": 4,
+    "label": "has active ingredient",
+    "percent": 0.0
+  },
+  {
+    "p": "P1833",
+    "count": 4,
+    "label": "number of registered users\/contributors",
+    "percent": 0.0
+  },
+  {
+    "p": "P8453",
+    "count": 4,
+    "label": "public transport stop",
+    "percent": 0.0
+  },
+  {
+    "p": "P538",
+    "count": 4,
+    "label": "fracturing",
+    "percent": 0.0
+  },
+  {
+    "p": "P589",
+    "count": 4,
+    "label": "point group",
+    "percent": 0.0
+  },
+  {
+    "p": "P2937",
+    "count": 4,
+    "label": "parliamentary term",
+    "percent": 0.0
+  },
+  {
+    "p": "P6424",
+    "count": 4,
+    "label": "affiliation string",
+    "percent": 0.0
+  },
+  {
+    "p": "P5206",
+    "count": 4,
+    "label": "has conjugation class",
+    "percent": 0.0
+  },
+  {
+    "p": "P5436",
+    "count": 4,
+    "label": "number of viewers\/listeners",
+    "percent": 0.0
+  },
+  {
+    "p": "P1603",
+    "count": 4,
+    "label": "number of cases",
+    "percent": 0.0
+  },
+  {
+    "p": "P1122",
+    "count": 4,
+    "label": "spin quantum number",
+    "percent": 0.0
+  },
+  {
+    "p": "P2152",
+    "count": 4,
+    "label": "antiparticle",
+    "percent": 0.0
+  },
+  {
+    "p": "P2375",
+    "count": 4,
+    "label": "has superpartner",
+    "percent": 0.0
+  },
+  {
+    "p": "P1775",
+    "count": 4,
+    "label": "follower of",
+    "percent": 0.0
+  },
+  {
+    "p": "P1628",
+    "count": 4,
+    "label": "equivalent property",
+    "percent": 0.0
+  },
+  {
+    "p": "P4837",
+    "count": 4,
+    "label": "has command line option",
+    "percent": 0.0
+  },
+  {
+    "p": "P3080",
+    "count": 4,
+    "label": "game artist",
+    "percent": 0.0
+  },
+  {
+    "p": "P588",
+    "count": 4,
+    "label": "coolant",
+    "percent": 0.0
+  },
+  {
+    "p": "P5832",
+    "count": 4,
+    "label": "political coalition",
+    "percent": 0.0
+  },
+  {
+    "p": "P6254",
+    "count": 4,
+    "label": "subject lexeme",
+    "percent": 0.0
+  },
+  {
+    "p": "P4296",
+    "count": 4,
+    "label": "stellar rotational velocity",
+    "percent": 0.0
+  },
+  {
+    "p": "P5483",
+    "count": 4,
+    "label": "hardness",
+    "percent": 0.0
+  },
+  {
+    "p": "P2822",
+    "count": 4,
+    "label": "by-product of",
+    "percent": 0.0
+  },
+  {
+    "p": "P3922",
+    "count": 4,
+    "label": "light sector",
+    "percent": 0.0
+  },
+  {
+    "p": "P3437",
+    "count": 4,
+    "label": "people or cargo transported",
+    "percent": 0.0
+  },
+  {
+    "p": "P1534",
+    "count": 4,
+    "label": "end cause",
+    "percent": 0.0
+  },
+  {
+    "p": "P8556",
+    "count": 4,
+    "label": "extinction date",
+    "percent": 0.0
+  },
+  {
+    "p": "P2406",
+    "count": 4,
+    "label": "maximum peak exposure limit",
+    "percent": 0.0
+  },
+  {
+    "p": "P2113",
+    "count": 4,
+    "label": "sublimation temperature",
+    "percent": 0.0
+  },
+  {
+    "p": "P3494",
+    "count": 4,
+    "label": "points classification",
+    "percent": 0.0
+  },
+  {
+    "p": "P2155",
+    "count": 4,
+    "label": "solid solution series with",
+    "percent": 0.0
+  },
+  {
+    "p": "P6338",
+    "count": 4,
+    "label": "colorist",
+    "percent": 0.0
+  },
+  {
+    "p": "P4506",
+    "count": 4,
+    "label": "Formal Public Identifier",
+    "percent": 0.0
+  },
+  {
+    "p": "P4140",
+    "count": 4,
+    "label": "energy storage capacity",
+    "percent": 0.0
+  },
+  {
+    "p": "P4441",
+    "count": 4,
+    "label": "hydraulic head",
+    "percent": 0.0
+  },
+  {
+    "p": "P8328",
+    "count": 4,
+    "label": "Democracy Index",
+    "percent": 0.0
+  },
+  {
+    "p": "P3493",
+    "count": 4,
+    "label": "legal status (medicine)",
+    "percent": 0.0
+  },
+  {
+    "p": "P1202",
+    "count": 4,
+    "label": "carries scientific instrument",
+    "percent": 0.0
+  },
+  {
+    "p": "P4884",
+    "count": 4,
+    "label": "court",
+    "percent": 0.0
+  },
+  {
+    "p": "P965",
+    "count": 3,
+    "label": "burial plot reference",
+    "percent": 0.0
+  },
+  {
+    "p": "P1606",
+    "count": 3,
+    "label": "natural reservoir of",
+    "percent": 0.0
+  },
+  {
+    "p": "P207",
+    "count": 3,
+    "label": "bathymetry image",
+    "percent": 0.0
+  },
+  {
+    "p": "P1568",
+    "count": 3,
+    "label": "definition domain",
+    "percent": 0.0
+  },
+  {
+    "p": "P1013",
+    "count": 3,
+    "label": "criterion used",
+    "percent": 0.0
+  },
+  {
+    "p": "P4656",
+    "count": 3,
+    "label": "Wikimedia import URL",
+    "percent": 0.0
+  },
+  {
+    "p": "P1956",
+    "count": 3,
+    "label": "takeoff and landing capability",
+    "percent": 0.0
+  },
+  {
+    "p": "P4424",
+    "count": 3,
+    "label": "mandates",
+    "percent": 0.0
+  },
+  {
+    "p": "P2117",
+    "count": 3,
+    "label": "combustion enthalpy",
+    "percent": 0.0
+  },
+  {
+    "p": "P8498",
+    "count": 3,
+    "label": "road number formatter",
+    "percent": 0.0
+  },
+  {
+    "p": "P8505",
+    "count": 3,
+    "label": "traffic sign template image",
+    "percent": 0.0
+  },
+  {
+    "p": "P5095",
+    "count": 3,
+    "label": "fault",
+    "percent": 0.0
+  },
+  {
+    "p": "P7584",
+    "count": 3,
+    "label": "age estimated by a dating method",
+    "percent": 0.0
+  },
+  {
+    "p": "P2133",
+    "count": 3,
+    "label": "total debt",
+    "percent": 0.0
+  },
+  {
+    "p": "P4184",
+    "count": 3,
+    "label": "slope",
+    "percent": 0.0
+  },
+  {
+    "p": "P1909",
+    "count": 3,
+    "label": "side effect",
+    "percent": 0.0
+  },
+  {
+    "p": "P4575",
+    "count": 3,
+    "label": "HTML entity",
+    "percent": 0.0
+  },
+  {
+    "p": "P1656",
+    "count": 3,
+    "label": "unveiled by",
+    "percent": 0.0
+  },
+  {
+    "p": "P4425",
+    "count": 3,
+    "label": "mtDNA haplogroup",
+    "percent": 0.0
+  },
+  {
+    "p": "P2658",
+    "count": 3,
+    "label": "Scoville grade",
+    "percent": 0.0
+  },
+  {
+    "p": "P4646",
+    "count": 3,
+    "label": "representation of",
+    "percent": 0.0
+  },
+  {
+    "p": "P4152",
+    "count": 3,
+    "label": "file format identification pattern",
+    "percent": 0.0
+  },
+  {
+    "p": "P3439",
+    "count": 3,
+    "label": "angular resolution",
+    "percent": 0.0
+  },
+  {
+    "p": "P1002",
+    "count": 3,
+    "label": "engine configuration",
+    "percent": 0.0
+  },
+  {
+    "p": "P3268",
+    "count": 3,
+    "label": "PORT organization URL",
+    "percent": 0.0
+  },
+  {
+    "p": "P7861",
+    "count": 3,
+    "label": "category for files created with program",
+    "percent": 0.0
+  },
+  {
+    "p": "P4545",
+    "count": 3,
+    "label": "sexually homologous with",
+    "percent": 0.0
+  },
+  {
+    "p": "P3041",
+    "count": 3,
+    "label": "luminous intensity",
+    "percent": 0.0
+  },
+  {
+    "p": "P3969",
+    "count": 3,
+    "label": "signed form",
+    "percent": 0.0
+  },
+  {
+    "p": "P4622",
+    "count": 3,
+    "label": "trophy awarded",
+    "percent": 0.0
+  },
+  {
+    "p": "P7469",
+    "count": 3,
+    "label": "orientation",
+    "percent": 0.0
+  },
+  {
+    "p": "P6118",
+    "count": 3,
+    "label": "season ends",
+    "percent": 0.0
+  },
+  {
+    "p": "P1326",
+    "count": 3,
+    "label": "latest date",
+    "percent": 0.0
+  },
+  {
+    "p": "P4500",
+    "count": 3,
+    "label": "family relationship degree",
+    "percent": 0.0
+  },
+  {
+    "p": "P6075",
+    "count": 3,
+    "label": "embodied energy",
+    "percent": 0.0
+  },
+  {
+    "p": "P916",
+    "count": 3,
+    "label": "GSRR rating",
+    "percent": 0.0
+  },
+  {
+    "p": "P694",
+    "count": 3,
+    "label": "replaced synonym (for nom. nov.)",
+    "percent": 0.0
+  },
+  {
+    "p": "P682",
+    "count": 3,
+    "label": "biological process",
+    "percent": 0.0
+  },
+  {
+    "p": "P4444",
+    "count": 3,
+    "label": "reward",
+    "percent": 0.0
+  },
+  {
+    "p": "P2560",
+    "count": 3,
+    "label": "GPU",
+    "percent": 0.0
+  },
+  {
+    "p": "P2556",
+    "count": 3,
+    "label": "bore",
+    "percent": 0.0
+  },
+  {
+    "p": "P5673",
+    "count": 3,
+    "label": "shear modulus",
+    "percent": 0.0
+  },
+  {
+    "p": "P2228",
+    "count": 3,
+    "label": "maximum thrust",
+    "percent": 0.0
+  },
+  {
+    "p": "P2319",
+    "count": 3,
+    "label": "elector",
+    "percent": 0.0
+  },
+  {
+    "p": "P5230",
+    "count": 3,
+    "label": "chromosome count",
+    "percent": 0.0
+  },
+  {
+    "p": "P4452",
+    "count": 3,
+    "label": "Thibaudeau classification",
+    "percent": 0.0
+  },
+  {
+    "p": "P2060",
+    "count": 3,
+    "label": "luminosity",
+    "percent": 0.0
+  },
+  {
+    "p": "P1141",
+    "count": 3,
+    "label": "number of processor cores",
+    "percent": 0.0
+  },
+  {
+    "p": "P3740",
+    "count": 3,
+    "label": "number of works",
+    "percent": 0.0
+  },
+  {
+    "p": "P3189",
+    "count": 3,
+    "label": "innervated by",
+    "percent": 0.0
+  },
+  {
+    "p": "P1779",
+    "count": 3,
+    "label": "possible creator",
+    "percent": 0.0
+  },
+  {
+    "p": "P8006",
+    "count": 3,
+    "label": "footedness",
+    "percent": 0.0
+  },
+  {
+    "p": "P4320",
+    "count": 3,
+    "label": "mountains classification",
+    "percent": 0.0
+  },
+  {
+    "p": "P3497",
+    "count": 3,
+    "label": "teams classification by time",
+    "percent": 0.0
+  },
+  {
+    "p": "P7377",
+    "count": 3,
+    "label": "tussenvoegsel",
+    "percent": 0.0
+  },
+  {
+    "p": "P5072",
+    "count": 3,
+    "label": "presented in",
+    "percent": 0.0
+  },
+  {
+    "p": "P7420",
+    "count": 3,
+    "label": "image with frame",
+    "percent": 0.0
+  },
+  {
+    "p": "P744",
+    "count": 3,
+    "label": "asteroid family",
+    "percent": 0.0
+  },
+  {
+    "p": "P3559",
+    "count": 3,
+    "label": "maximum size or capacity",
+    "percent": 0.0
+  },
+  {
+    "p": "P7479",
+    "count": 3,
+    "label": "key col",
+    "percent": 0.0
+  },
+  {
+    "p": "P4150",
+    "count": 3,
+    "label": "weather history",
+    "percent": 0.0
+  },
+  {
+    "p": "P8361",
+    "count": 3,
+    "label": "Universal Decimal Classification (works and editions)",
+    "percent": 0.0
+  },
+  {
+    "p": "P2145",
+    "count": 3,
+    "label": "explosive energy equivalent",
+    "percent": 0.0
+  },
+  {
+    "p": "P1945",
+    "count": 3,
+    "label": "street key",
+    "percent": 0.0
+  },
+  {
+    "p": "P4788",
+    "count": 3,
+    "label": "storage device",
+    "percent": 0.0
+  },
+  {
+    "p": "P4519",
+    "count": 3,
+    "label": "payload mass",
+    "percent": 0.0
+  },
+  {
+    "p": "P4908",
+    "count": 3,
+    "label": "season",
+    "percent": 0.0
+  },
+  {
+    "p": "P751",
+    "count": 3,
+    "label": "introduced feature",
+    "percent": 0.0
+  },
+  {
+    "p": "P4218",
+    "count": 3,
+    "label": "shelf life",
+    "percent": 0.0
+  },
+  {
+    "p": "P788",
+    "count": 3,
+    "label": "mushroom ecological type",
+    "percent": 0.0
+  },
+  {
+    "p": "P787",
+    "count": 3,
+    "label": "spore print color",
+    "percent": 0.0
+  },
+  {
+    "p": "P789",
+    "count": 3,
+    "label": "edibility",
+    "percent": 0.0
+  },
+  {
+    "p": "P1079",
+    "count": 3,
+    "label": "launch contractor",
+    "percent": 0.0
+  },
+  {
+    "p": "P537",
+    "count": 3,
+    "label": "twinning",
+    "percent": 0.0
+  },
+  {
+    "p": "P873",
+    "count": 3,
+    "label": "phase point",
+    "percent": 0.0
+  },
+  {
+    "p": "P5386",
+    "count": 3,
+    "label": "JMA Seismic Intensity Scale",
+    "percent": 0.0
+  },
+  {
+    "p": "P5138",
+    "count": 3,
+    "label": "season of club or team",
+    "percent": 0.0
+  },
+  {
+    "p": "P2378",
+    "count": 3,
+    "label": "issued by",
+    "percent": 0.0
+  },
+  {
+    "p": "P1932",
+    "count": 3,
+    "label": "stated as",
+    "percent": 0.0
+  },
+  {
+    "p": "P2127",
+    "count": 3,
+    "label": "International Nuclear Event Scale",
+    "percent": 0.0
+  },
+  {
+    "p": "P1620",
+    "count": 3,
+    "label": "plaintiff",
+    "percent": 0.0
+  },
+  {
+    "p": "P1592",
+    "count": 3,
+    "label": "prosecutor",
+    "percent": 0.0
+  },
+  {
+    "p": "P5479",
+    "count": 3,
+    "label": "ultimate tensile strength",
+    "percent": 0.0
+  },
+  {
+    "p": "P405",
+    "count": 3,
+    "label": "taxon author",
+    "percent": 0.0
+  },
+  {
+    "p": "P2821",
+    "count": 2,
+    "label": "by-product",
+    "percent": 0.0
+  },
+  {
+    "p": "P8550",
+    "count": 2,
+    "label": "law or regulation identifying number",
+    "percent": 0.0
+  },
+  {
+    "p": "P2803",
+    "count": 2,
+    "label": "Wikidata time precision",
+    "percent": 0.0
+  },
+  {
+    "p": "P6648",
+    "count": 2,
+    "label": "position in Forsyth-Edwards Notation",
+    "percent": 0.0
+  },
+  {
+    "p": "P967",
+    "count": 2,
+    "label": "guest of honor",
+    "percent": 0.0
+  },
+  {
+    "p": "P4032",
+    "count": 2,
+    "label": "reviewed by",
+    "percent": 0.0
+  },
+  {
+    "p": "P1851",
+    "count": 2,
+    "label": "input set",
+    "percent": 0.0
+  },
+  {
+    "p": "P1437",
+    "count": 2,
+    "label": "plea",
+    "percent": 0.0
+  },
+  {
+    "p": "P1887",
+    "count": 2,
+    "label": "vice-county",
+    "percent": 0.0
+  },
+  {
+    "p": "P6452",
+    "count": 2,
+    "label": "CBFC rating",
+    "percent": 0.0
+  },
+  {
+    "p": "P7419",
+    "count": 2,
+    "label": "gender educated",
+    "percent": 0.0
+  },
+  {
+    "p": "P8283",
+    "count": 2,
+    "label": "ISCO-08 occupation code",
+    "percent": 0.0
+  },
+  {
+    "p": "P1704",
+    "count": 2,
+    "label": "is pollinator of",
+    "percent": 0.0
+  },
+  {
+    "p": "P1312",
+    "count": 2,
+    "label": "has facet polytope",
+    "percent": 0.0
+  },
+  {
+    "p": "P2198",
+    "count": 2,
+    "label": "average gradient",
+    "percent": 0.0
+  },
+  {
+    "p": "P1318",
+    "count": 2,
+    "label": "proved by",
+    "percent": 0.0
+  },
+  {
+    "p": "P6697",
+    "count": 2,
+    "label": "Football Money League rank",
+    "percent": 0.0
+  },
+  {
+    "p": "P5028",
+    "count": 2,
+    "label": "sound designer",
+    "percent": 0.0
+  },
+  {
+    "p": "P1903",
+    "count": 2,
+    "label": "volcanic explosivity index",
+    "percent": 0.0
+  },
+  {
+    "p": "P6195",
+    "count": 2,
+    "label": "funding scheme",
+    "percent": 0.0
+  },
+  {
+    "p": "P2647",
+    "count": 2,
+    "label": "source of material",
+    "percent": 0.0
+  },
+  {
+    "p": "P8517",
+    "count": 2,
+    "label": "view",
+    "percent": 0.0
+  },
+  {
+    "p": "P7378",
+    "count": 2,
+    "label": "item disputed by",
+    "percent": 0.0
+  },
+  {
+    "p": "P6185",
+    "count": 2,
+    "label": "tautomer of",
+    "percent": 0.0
+  },
+  {
+    "p": "P3374",
+    "count": 2,
+    "label": "endianness",
+    "percent": 0.0
+  },
+  {
+    "p": "P8001",
+    "count": 2,
+    "label": "endorsed by",
+    "percent": 0.0
+  },
+  {
+    "p": "P2149",
+    "count": 2,
+    "label": "clock speed",
+    "percent": 0.0
+  },
+  {
+    "p": "P3643",
+    "count": 2,
+    "label": "significant environmental impact",
+    "percent": 0.0
+  },
+  {
+    "p": "P3994",
+    "count": 2,
+    "label": "racon signal",
+    "percent": 0.0
+  },
+  {
+    "p": "P7406",
+    "count": 2,
+    "label": "style of karate",
+    "percent": 0.0
+  },
+  {
+    "p": "P5993",
+    "count": 2,
+    "label": "compressive modulus of elasticity",
+    "percent": 0.0
+  },
+  {
+    "p": "P2010",
+    "count": 2,
+    "label": "Exif make",
+    "percent": 0.0
+  },
+  {
+    "p": "P2009",
+    "count": 2,
+    "label": "Exif model",
+    "percent": 0.0
+  },
+  {
+    "p": "P1815",
+    "count": 2,
+    "label": "RSL scanned books identifier",
+    "percent": 0.0
+  },
+  {
+    "p": "P6510",
+    "count": 2,
+    "label": "stall speed",
+    "percent": 0.0
+  },
+  {
+    "p": "P5071",
+    "count": 2,
+    "label": "boiler pressure",
+    "percent": 0.0
+  },
+  {
+    "p": "P922",
+    "count": 2,
+    "label": "magnetic ordering",
+    "percent": 0.0
+  },
+  {
+    "p": "P2135",
+    "count": 2,
+    "label": "total exports",
+    "percent": 0.0
+  },
+  {
+    "p": "P1032",
+    "count": 2,
+    "label": "Digital Rights Management system",
+    "percent": 0.0
+  },
+  {
+    "p": "P8703",
+    "count": 2,
+    "label": "entry in abbreviations table",
+    "percent": 0.0
+  },
+  {
+    "p": "P1897",
+    "count": 2,
+    "label": "highest note",
+    "percent": 0.0
+  },
+  {
+    "p": "P2114",
+    "count": 2,
+    "label": "half-life",
+    "percent": 0.0
+  },
+  {
+    "p": "P2808",
+    "count": 2,
+    "label": "wavelength",
+    "percent": 0.0
+  },
+  {
+    "p": "P2634",
+    "count": 2,
+    "label": "sitter",
+    "percent": 0.0
+  },
+  {
+    "p": "P7589",
+    "count": 2,
+    "label": "date of assent",
+    "percent": 0.0
+  },
+  {
+    "p": "P3094",
+    "count": 2,
+    "label": "develops from",
+    "percent": 0.0
+  },
+  {
+    "p": "P3335",
+    "count": 2,
+    "label": "hazard on site",
+    "percent": 0.0
+  },
+  {
+    "p": "P2557",
+    "count": 2,
+    "label": "stroke",
+    "percent": 0.0
+  },
+  {
+    "p": "P2159",
+    "count": 2,
+    "label": "solves",
+    "percent": 0.0
+  },
+  {
+    "p": "P7727",
+    "count": 2,
+    "label": "legislative committee",
+    "percent": 0.0
+  },
+  {
+    "p": "P565",
+    "count": 2,
+    "label": "crystal habit",
+    "percent": 0.0
+  },
+  {
+    "p": "P3891",
+    "count": 2,
+    "label": "observing time available",
+    "percent": 0.0
+  },
+  {
+    "p": "P8733",
+    "count": 2,
+    "label": "number of rooms",
+    "percent": 0.0
+  },
+  {
+    "p": "P6095",
+    "count": 2,
+    "label": "INEP IGC discrete grade",
+    "percent": 0.0
+  },
+  {
+    "p": "P3739",
+    "count": 2,
+    "label": "inflorescence",
+    "percent": 0.0
+  },
+  {
+    "p": "P3741",
+    "count": 2,
+    "label": "seed dispersal",
+    "percent": 0.0
+  },
+  {
+    "p": "P6260",
+    "count": 2,
+    "label": "galactic longitude",
+    "percent": 0.0
+  },
+  {
+    "p": "P6261",
+    "count": 2,
+    "label": "galactic latitude",
+    "percent": 0.0
+  },
+  {
+    "p": "P5069",
+    "count": 2,
+    "label": "service life",
+    "percent": 0.0
+  },
+  {
+    "p": "P2552",
+    "count": 2,
+    "label": "quantitative metrical pattern",
+    "percent": 0.0
+  },
+  {
+    "p": "P491",
+    "count": 2,
+    "label": "orbit diagram",
+    "percent": 0.0
+  },
+  {
+    "p": "P4137",
+    "count": 2,
+    "label": "muzzle velocity",
+    "percent": 0.0
+  },
+  {
+    "p": "P874",
+    "count": 2,
+    "label": "UN class",
+    "percent": 0.0
+  },
+  {
+    "p": "P5873",
+    "count": 2,
+    "label": "place of devotion",
+    "percent": 0.0
+  },
+  {
+    "p": "P6670",
+    "count": 2,
+    "label": "musical quotation or excerpt",
+    "percent": 0.0
+  },
+  {
+    "p": "P459",
+    "count": 2,
+    "label": "determination method",
+    "percent": 0.0
+  },
+  {
+    "p": "P1611",
+    "count": 2,
+    "label": "NATO code for grade",
+    "percent": 0.0
+  },
+  {
+    "p": "P4810",
+    "count": 2,
+    "label": "reads environment variable",
+    "percent": 0.0
+  },
+  {
+    "p": "P2839",
+    "count": 2,
+    "label": "gait",
+    "percent": 0.0
+  },
+  {
+    "p": "P2679",
+    "count": 2,
+    "label": "author of foreword",
+    "percent": 0.0
+  },
+  {
+    "p": "P2279",
+    "count": 2,
+    "label": "ambitus",
+    "percent": 0.0
+  },
+  {
+    "p": "P4967",
+    "count": 2,
+    "label": "prerequisite",
+    "percent": 0.0
+  },
+  {
+    "p": "P4135",
+    "count": 2,
+    "label": "maximum age",
+    "percent": 0.0
+  },
+  {
+    "p": "P4002",
+    "count": 2,
+    "label": "WFD Ecological status",
+    "percent": 0.0
+  },
+  {
+    "p": "P4202",
+    "count": 2,
+    "label": "WFD Chemical status",
+    "percent": 0.0
+  },
+  {
+    "p": "P2384",
+    "count": 2,
+    "label": "statement describes",
+    "percent": 0.0
+  },
+  {
+    "p": "P2103",
+    "count": 2,
+    "label": "size of team at start",
+    "percent": 0.0
+  },
+  {
+    "p": "P2105",
+    "count": 2,
+    "label": "size of team at finish",
+    "percent": 0.0
+  },
+  {
+    "p": "P5307",
+    "count": 2,
+    "label": "display technology",
+    "percent": 0.0
+  },
+  {
+    "p": "P2204",
+    "count": 2,
+    "label": "minimum explosive concentration",
+    "percent": 0.0
+  },
+  {
+    "p": "P5929",
+    "count": 2,
+    "label": "limiting oxygen index",
+    "percent": 0.0
+  },
+  {
+    "p": "P5024",
+    "count": 2,
+    "label": "choral conductor",
+    "percent": 0.0
+  },
+  {
+    "p": "P416",
+    "count": 2,
+    "label": "quantity symbol (string)",
+    "percent": 0.0
+  },
+  {
+    "p": "P6803",
+    "count": 2,
+    "label": "taxa found at location",
+    "percent": 0.0
+  },
+  {
+    "p": "P1793",
+    "count": 2,
+    "label": "format as a regular expression",
+    "percent": 0.0
+  },
+  {
+    "p": "P8115",
+    "count": 2,
+    "label": "eligible recipient",
+    "percent": 0.0
+  },
+  {
+    "p": "P8659",
+    "count": 2,
+    "label": "TDD number",
+    "percent": 0.0
+  },
+  {
+    "p": "P2140",
+    "count": 2,
+    "label": "foreign direct investment net outflow",
+    "percent": 0.0
+  },
+  {
+    "p": "P2141",
+    "count": 2,
+    "label": "foreign direct investment net inflow",
+    "percent": 0.0
+  },
+  {
+    "p": "P2834",
+    "count": 2,
+    "label": "individual tax rate",
+    "percent": 0.0
+  },
+  {
+    "p": "P5798",
+    "count": 2,
+    "label": "Thomson Reuters Business Classification",
+    "percent": 0.0
+  },
+  {
+    "p": "P783",
+    "count": 2,
+    "label": "hymenium type",
+    "percent": 0.0
+  },
+  {
+    "p": "P785",
+    "count": 2,
+    "label": "hymenium attachment",
+    "percent": 0.0
+  },
+  {
+    "p": "P784",
+    "count": 2,
+    "label": "mushroom cap shape",
+    "percent": 0.0
+  },
+  {
+    "p": "P3457",
+    "count": 2,
+    "label": "case fatality rate",
+    "percent": 0.0
+  },
+  {
+    "p": "P2361",
+    "count": 2,
+    "label": "online service",
+    "percent": 0.0
+  },
+  {
+    "p": "P2118",
+    "count": 2,
+    "label": "kinematic viscosity",
+    "percent": 0.0
+  },
+  {
+    "p": "P4988",
+    "count": 2,
+    "label": "test method",
+    "percent": 0.0
+  },
+  {
+    "p": "P2436",
+    "count": 2,
+    "label": "voltage",
+    "percent": 0.0
+  },
+  {
+    "p": "P1322",
+    "count": 2,
+    "label": "dual to",
+    "percent": 0.0
+  },
+  {
+    "p": "P1393",
+    "count": 2,
+    "label": "proxy",
+    "percent": 0.0
+  },
+  {
+    "p": "P7160",
+    "count": 2,
+    "label": "manner of inhumane treatment",
+    "percent": 0.0
+  },
+  {
+    "p": "P5326",
+    "count": 2,
+    "label": "publication in which this taxon name was established",
+    "percent": 0.0
+  },
+  {
+    "p": "P1629",
+    "count": 2,
+    "label": "subject item of this property",
+    "percent": 0.0
+  },
+  {
+    "p": "P8131",
+    "count": 2,
+    "label": "dialect of computer language",
+    "percent": 0.0
+  },
+  {
+    "p": "P5707",
+    "count": 2,
+    "label": "samples from work",
+    "percent": 0.0
+  },
+  {
+    "p": "P7169",
+    "count": 2,
+    "label": "substitute director\/manager",
+    "percent": 0.0
+  },
+  {
+    "p": "P4323",
+    "count": 2,
+    "label": "young rider classification",
+    "percent": 0.0
+  },
+  {
+    "p": "P1817",
+    "count": 2,
+    "label": "addressee",
+    "percent": 0.0
+  },
+  {
+    "p": "P4183",
+    "count": 2,
+    "label": "angle from vertical",
+    "percent": 0.0
+  },
+  {
+    "p": "P5524",
+    "count": 2,
+    "label": "horizontal depth",
+    "percent": 0.0
+  },
+  {
+    "p": "P795",
+    "count": 2,
+    "label": "located on linear feature",
+    "percent": 0.0
+  },
+  {
+    "p": "P2430",
+    "count": 2,
+    "label": "takeoff roll",
+    "percent": 0.0
+  },
+  {
+    "p": "P3015",
+    "count": 2,
+    "label": "backup or reserve team or crew",
+    "percent": 0.0
+  },
+  {
+    "p": "P2318",
+    "count": 2,
+    "label": "debut participant",
+    "percent": 0.0
+  },
+  {
+    "p": "P2236",
+    "count": 2,
+    "label": "external subproperty",
+    "percent": 0.0
+  },
+  {
+    "p": "P1041",
+    "count": 2,
+    "label": "socket supported",
+    "percent": 0.0
+  },
+  {
+    "p": "P5196",
+    "count": 2,
+    "label": "output method",
+    "percent": 0.0
+  },
+  {
+    "p": "P4353",
+    "count": 2,
+    "label": "nominated by",
+    "percent": 0.0
+  },
+  {
+    "p": "P1136",
+    "count": 2,
+    "label": "solved by",
+    "percent": 0.0
+  },
+  {
+    "p": "P1673",
+    "count": 2,
+    "label": "general formula",
+    "percent": 0.0
+  },
+  {
+    "p": "P5132",
+    "count": 1,
+    "label": "suggests the existence of",
+    "percent": 0.0
+  },
+  {
+    "p": "P1780",
+    "count": 1,
+    "label": "school of",
+    "percent": 0.0
+  },
+  {
+    "p": "P1697",
+    "count": 1,
+    "label": "total valid votes",
+    "percent": 0.0
+  },
+  {
+    "p": "P1915",
+    "count": 1,
+    "label": "gene inversion association with",
+    "percent": 0.0
+  },
+  {
+    "p": "P1548",
+    "count": 1,
+    "label": "maximum Strahler number",
+    "percent": 0.0
+  },
+  {
+    "p": "P8671",
+    "count": 1,
+    "label": "Deutsche Bahn station code",
+    "percent": 0.0
+  },
+  {
+    "p": "P2197",
+    "count": 1,
+    "label": "production rate",
+    "percent": 0.0
+  },
+  {
+    "p": "P1137",
+    "count": 1,
+    "label": "fossil found in this unit",
+    "percent": 0.0
+  },
+  {
+    "p": "P6116",
+    "count": 1,
+    "label": "chord progression",
+    "percent": 0.0
+  },
+  {
+    "p": "P2587",
+    "count": 1,
+    "label": "has phoneme",
+    "percent": 0.0
+  },
+  {
+    "p": "P5422",
+    "count": 1,
+    "label": "has decorative pattern",
+    "percent": 0.0
+  },
+  {
+    "p": "P5623",
+    "count": 1,
+    "label": "type of water supply",
+    "percent": 0.0
+  },
+  {
+    "p": "P3158",
+    "count": 1,
+    "label": "enclosure",
+    "percent": 0.0
+  },
+  {
+    "p": "P6856",
+    "count": 1,
+    "label": "average speed",
+    "percent": 0.0
+  },
+  {
+    "p": "P1774",
+    "count": 1,
+    "label": "workshop of",
+    "percent": 0.0
+  },
+  {
+    "p": "P5054",
+    "count": 1,
+    "label": "cabinet",
+    "percent": 0.0
+  },
+  {
+    "p": "P1685",
+    "count": 1,
+    "label": "Pok\u00e9dex \/ Pok\u00e9mon browser number",
+    "percent": 0.0
+  },
+  {
+    "p": "P8702",
+    "count": 1,
+    "label": "parallel street",
+    "percent": 0.0
+  },
+  {
+    "p": "P6606",
+    "count": 1,
+    "label": "study or design for",
+    "percent": 0.0
+  },
+  {
+    "p": "P4900",
+    "count": 1,
+    "label": "broader concept",
+    "percent": 0.0
+  },
+  {
+    "p": "P1360",
+    "count": 1,
+    "label": "Monte Carlo Particle Number",
+    "percent": 0.0
+  },
+  {
+    "p": "P1123",
+    "count": 1,
+    "label": "parity quantum number",
+    "percent": 0.0
+  },
+  {
+    "p": "P2200",
+    "count": 1,
+    "label": "electric charge",
+    "percent": 0.0
+  },
+  {
+    "p": "P1097",
+    "count": 1,
+    "label": "g-factor",
+    "percent": 0.0
+  },
+  {
+    "p": "P670",
+    "count": 1,
+    "label": "street number",
+    "percent": 0.0
+  },
+  {
+    "p": "P6437",
+    "count": 1,
+    "label": "day of regular release",
+    "percent": 0.0
+  },
+  {
+    "p": "P3019",
+    "count": 1,
+    "label": "railway signalling system",
+    "percent": 0.0
+  },
+  {
+    "p": "P5676",
+    "count": 1,
+    "label": "relative permeability",
+    "percent": 0.0
+  },
+  {
+    "p": "P5187",
+    "count": 1,
+    "label": "word stem",
+    "percent": 0.0
+  },
+  {
+    "p": "P2210",
+    "count": 1,
+    "label": "relative to",
+    "percent": 0.0
+  },
+  {
+    "p": "P2136",
+    "count": 1,
+    "label": "total imports",
+    "percent": 0.0
+  },
+  {
+    "p": "P8739",
+    "count": 1,
+    "label": "prohibits",
+    "percent": 0.0
+  },
+  {
+    "p": "P7010",
+    "count": 1,
+    "label": "imprimitur granted by",
+    "percent": 0.0
+  },
+  {
+    "p": "P1355",
+    "count": 1,
+    "label": "number of wins",
+    "percent": 0.0
+  },
+  {
+    "p": "P2550",
+    "count": 1,
+    "label": "recording or performance of",
+    "percent": 0.0
+  },
+  {
+    "p": "P693",
+    "count": 1,
+    "label": "cleavage",
+    "percent": 0.0
+  },
+  {
+    "p": "P3416",
+    "count": 1,
+    "label": "end period",
+    "percent": 0.0
+  },
+  {
+    "p": "P5831",
+    "count": 1,
+    "label": "usage example",
+    "percent": 0.0
+  },
+  {
+    "p": "P1349",
+    "count": 1,
+    "label": "ploidy",
+    "percent": 0.0
+  },
+  {
+    "p": "P5348",
+    "count": 1,
+    "label": "angular diameter",
+    "percent": 0.0
+  },
+  {
+    "p": "P2490",
+    "count": 1,
+    "label": "page at OSTIS Belarus Wiki",
+    "percent": 0.0
+  },
+  {
+    "p": "P2292",
+    "count": 1,
+    "label": "consumption rate",
+    "percent": 0.0
+  },
+  {
+    "p": "P2662",
+    "count": 1,
+    "label": "consumption rate per capita",
+    "percent": 0.0
+  },
+  {
+    "p": "P4850",
+    "count": 1,
+    "label": "permitted food additive",
+    "percent": 0.0
+  },
+  {
+    "p": "P5017",
+    "count": 1,
+    "label": "last update",
+    "percent": 0.0
+  },
+  {
+    "p": "P5677",
+    "count": 1,
+    "label": "flexural strength",
+    "percent": 0.0
+  },
+  {
+    "p": "P1127",
+    "count": 1,
+    "label": "isospin z-component",
+    "percent": 0.0
+  },
+  {
+    "p": "P1126",
+    "count": 1,
+    "label": "isospin quantum number",
+    "percent": 0.0
+  },
+  {
+    "p": "P2077",
+    "count": 1,
+    "label": "pressure",
+    "percent": 0.0
+  },
+  {
+    "p": "P7407",
+    "count": 1,
+    "label": "name (image)",
+    "percent": 0.0
+  },
+  {
+    "p": "P2907",
+    "count": 1,
+    "label": "UTC timezone offset",
+    "percent": 0.0
+  },
+  {
+    "p": "P2675",
+    "count": 1,
+    "label": "reply to",
+    "percent": 0.0
+  },
+  {
+    "p": "P7103",
+    "count": 1,
+    "label": "start of covered period",
+    "percent": 0.0
+  },
+  {
+    "p": "P6639",
+    "count": 1,
+    "label": "capacity factor",
+    "percent": 0.0
+  },
+  {
+    "p": "P4954",
+    "count": 1,
+    "label": "may prevent",
+    "percent": 0.0
+  },
+  {
+    "p": "P447",
+    "count": 1,
+    "label": "review score by",
+    "percent": 0.0
+  },
+  {
+    "p": "P1199",
+    "count": 1,
+    "label": "mode of inheritance",
+    "percent": 0.0
+  },
+  {
+    "p": "P6938",
+    "count": 1,
+    "label": "seconded by",
+    "percent": 0.0
+  },
+  {
+    "p": "P7253",
+    "count": 1,
+    "label": "color produced",
+    "percent": 0.0
+  },
+  {
+    "p": "P6208",
+    "count": 1,
+    "label": "award rationale",
+    "percent": 0.0
+  },
+  {
+    "p": "P8339",
+    "count": 1,
+    "label": "entry receptor",
+    "percent": 0.0
+  },
+  {
+    "p": "P7643",
+    "count": 1,
+    "label": "covered period",
+    "percent": 0.0
+  },
+  {
+    "p": "P3022",
+    "count": 1,
+    "label": "flag bearer",
+    "percent": 0.0
+  },
+  {
+    "p": "P6149",
+    "count": 1,
+    "label": "running mate",
+    "percent": 0.0
+  },
+  {
+    "p": "P2239",
+    "count": 1,
+    "label": "first aid measures",
+    "percent": 0.0
+  },
+  {
+    "p": "P1458",
+    "count": 1,
+    "label": "color index",
+    "percent": 0.0
+  },
+  {
+    "p": "P1721",
+    "count": 1,
+    "label": "pinyin transliteration",
+    "percent": 0.0
+  },
+  {
+    "p": "P3263",
+    "count": 1,
+    "label": "base",
+    "percent": 0.0
+  },
+  {
+    "p": "P8687",
+    "count": 1,
+    "label": "social media followers",
+    "percent": 0.0
+  },
+  {
+    "p": "P2231",
+    "count": 1,
+    "label": "explosive velocity",
+    "percent": 0.0
+  },
+  {
+    "p": "P3415",
+    "count": 1,
+    "label": "start period",
+    "percent": 0.0
+  },
+  {
+    "p": "P1753",
+    "count": 1,
+    "label": "list related to category",
+    "percent": 0.0
+  },
+  {
+    "p": "P3771",
+    "count": 1,
+    "label": "activator of",
+    "percent": 0.0
+  },
+  {
+    "p": "P786",
+    "count": 1,
+    "label": "stipe character",
+    "percent": 0.0
+  },
+  {
+    "p": "P5810",
+    "count": 1,
+    "label": "cryptocurrency symbol",
+    "percent": 0.0
+  },
+  {
+    "p": "P6524",
+    "count": 1,
+    "label": "expression of",
+    "percent": 0.0
+  },
+  {
+    "p": "P876",
+    "count": 1,
+    "label": "UN packaging group",
+    "percent": 0.0
+  },
+  {
+    "p": "P5900",
+    "count": 1,
+    "label": "JMA Magnitude",
+    "percent": 0.0
+  },
+  {
+    "p": "P6657",
+    "count": 1,
+    "label": "CHVRS Classification",
+    "percent": 0.0
+  },
+  {
+    "p": "P799",
+    "count": 1,
+    "label": "Air Ministry specification ID",
+    "percent": 0.0
+  },
+  {
+    "p": "P4844",
+    "count": 1,
+    "label": "research intervention",
+    "percent": 0.0
+  },
+  {
+    "p": "P2790",
+    "count": 1,
+    "label": "net tonnage",
+    "percent": 0.0
+  },
+  {
+    "p": "P1776",
+    "count": 1,
+    "label": "circle of",
+    "percent": 0.0
+  },
+  {
+    "p": "P3432",
+    "count": 1,
+    "label": "parent cell line",
+    "percent": 0.0
+  },
+  {
+    "p": "P5669",
+    "count": 1,
+    "label": "compressive strength",
+    "percent": 0.0
+  },
+  {
+    "p": "P5070",
+    "count": 1,
+    "label": "French standard size for oil paintings",
+    "percent": 0.0
+  },
+  {
+    "p": "P4565",
+    "count": 1,
+    "label": "electoral district number",
+    "percent": 0.0
+  },
+  {
+    "p": "P2156",
+    "count": 1,
+    "label": "pseudo crystal habit",
+    "percent": 0.0
+  },
+  {
+    "p": "P4945",
+    "count": 1,
+    "label": "download link",
+    "percent": 0.0
+  },
+  {
+    "p": "P2957",
+    "count": 1,
+    "label": "throughput",
+    "percent": 0.0
+  },
+  {
+    "p": "P2320",
+    "count": 1,
+    "label": "aftershocks",
+    "percent": 0.0
+  },
+  {
+    "p": "P7719",
+    "count": 1,
+    "label": "generalization of",
+    "percent": 0.0
+  },
+  {
+    "p": "P6237",
+    "count": 1,
+    "label": "real estate developer",
+    "percent": 0.0
+  },
+  {
+    "p": "P5134",
+    "count": 1,
+    "label": "evaluation of",
+    "percent": 0.0
+  },
+  {
+    "p": "P1425",
+    "count": 1,
+    "label": "ecoregion (WWF)",
+    "percent": 0.0
+  },
+  {
+    "p": "P1683",
+    "count": 1,
+    "label": "quotation",
+    "percent": 0.0
+  },
+  {
+    "p": "P1689",
+    "count": 1,
+    "label": "central government debt as a percent of GDP",
+    "percent": 0.0
+  },
+  {
+    "p": "P4624",
+    "count": 1,
+    "label": "squadron embarked",
+    "percent": 0.0
+  },
+  {
+    "p": "P4745",
+    "count": 1,
+    "label": "is proceedings from",
+    "percent": 0.0
+  },
+  {
+    "p": "P2844",
+    "count": 1,
+    "label": "incidence",
+    "percent": 0.0
+  },
+  {
+    "p": "P6153",
+    "count": 1,
+    "label": "research site",
+    "percent": 0.0
+  },
+  {
+    "p": "P5447",
+    "count": 1,
+    "label": "lower limit",
+    "percent": 0.0
+  },
+  {
+    "p": "P5448",
+    "count": 1,
+    "label": "upper limit",
+    "percent": 0.0
+  },
+  {
+    "p": "P5692",
+    "count": 1,
+    "label": "dummy value",
+    "percent": 0.0
+  },
+  {
+    "p": "P7417",
+    "count": 1,
+    "label": "image of reverse",
+    "percent": 0.0
+  },
+  {
+    "p": "P1171",
+    "count": 1,
+    "label": "approximation algorithm",
+    "percent": 0.0
+  },
+  {
+    "p": "P5594",
+    "count": 1,
+    "label": "moisture absorption",
+    "percent": 0.0
+  },
+  {
+    "p": "P5520",
+    "count": 1,
+    "label": "toughness",
+    "percent": 0.0
+  },
+  {
+    "p": "P5575",
+    "count": 1,
+    "label": "coefficient of friction",
+    "percent": 0.0
+  },
+  {
+    "p": "P5066",
+    "count": 1,
+    "label": "operating temperature",
+    "percent": 0.0
+  },
+  {
+    "p": "P6014",
+    "count": 1,
+    "label": "flexural strain at break",
+    "percent": 0.0
+  },
+  {
+    "p": "P518",
+    "count": 1,
+    "label": "applies to part",
+    "percent": 0.0
+  },
+  {
+    "p": "P4082",
+    "count": 1,
+    "label": "image captured with",
+    "percent": 0.0
+  },
+  {
+    "p": "P2715",
+    "count": 1,
+    "label": "elected in",
+    "percent": 0.0
+  },
+  {
+    "p": "P2502",
+    "count": 1,
+    "label": "classification of race",
+    "percent": 0.0
+  },
+  {
+    "p": "P7108",
+    "count": 1,
+    "label": "location of the point of view",
+    "percent": 0.0
+  },
+  {
+    "p": "P2232",
+    "count": 1,
+    "label": "cash",
+    "percent": 0.0
+  },
+  {
+    "p": "P5046",
+    "count": 1,
+    "label": "International Classification for Standards",
+    "percent": 0.0
+  },
+  {
+    "p": "P1855",
+    "count": 1,
+    "label": "Wikidata property example",
+    "percent": 0.0
+  },
+  {
+    "p": "P6707",
+    "count": 1,
+    "label": "approach angle",
+    "percent": 0.0
+  },
+  {
+    "p": "P6708",
+    "count": 1,
+    "label": "departure angle",
+    "percent": 0.0
+  },
+  {
+    "p": "P2964",
+    "count": 1,
+    "label": "right to vote",
+    "percent": 0.0
+  },
+  {
+    "p": "P2308",
+    "count": 1,
+    "label": "class",
+    "percent": 0.0
+  },
+  {
+    "p": "P1201",
+    "count": 1,
+    "label": "space tug",
+    "percent": 0.0
+  },
+  {
+    "p": "P1194",
+    "count": 1,
+    "label": "received signal type",
+    "percent": 0.0
+  },
+  {
+    "p": "P1170",
+    "count": 1,
+    "label": "transmitted signal type",
+    "percent": 0.0
+  },
+  {
+    "p": "P2667",
+    "count": 1,
+    "label": "corresponding template",
+    "percent": 0.0
+  },
+  {
+    "p": "P554",
+    "count": 1,
+    "label": "website username",
+    "percent": 0.0
+  },
+  {
+    "p": "P5065",
+    "count": 1,
+    "label": "wind speed",
+    "percent": 0.0
+  },
+  {
+    "p": "P8010",
+    "count": 1,
+    "label": "number of recoveries",
+    "percent": 0.0
+  },
+  {
+    "p": "P7045",
+    "count": 1,
+    "label": "chassis",
+    "percent": 0.0
+  },
+  {
+    "p": "P8225",
+    "count": 1,
+    "label": "is metaclass for",
+    "percent": 0.0
+  },
+  {
+    "p": "P7971",
+    "count": 1,
+    "label": "food energy",
+    "percent": 0.0
+  },
+  {
+    "p": "P6022",
+    "count": 1,
+    "label": "expression, gesture or body pose",
+    "percent": 0.0
+  },
+  {
+    "p": "P5679",
+    "count": 1,
+    "label": "electrical resistivity",
+    "percent": 0.0
+  },
+  {
+    "p": "P1295",
+    "count": 1,
+    "label": "emissivity",
+    "percent": 0.0
+  },
+  {
+    "p": "P2881",
+    "count": 1,
+    "label": "promoted",
+    "percent": 0.0
+  },
+  {
+    "p": "P4179",
+    "count": 1,
+    "label": "tabular population",
+    "percent": 0.0
+  },
+  {
+    "p": "P5947",
+    "count": 1,
+    "label": "Vicat softening point",
+    "percent": 0.0
+  },
+  {
+    "p": "P3903",
+    "count": 1,
+    "label": "column",
+    "percent": 0.0
+  },
+  {
+    "p": "P3190",
+    "count": 1,
+    "label": "innervates",
+    "percent": 0.0
+  },
+  {
+    "p": "P5423",
+    "count": 1,
+    "label": "floor number",
+    "percent": 0.0
+  },
+  {
+    "p": "P2665",
+    "count": 1,
+    "label": "alcohol by volume",
+    "percent": 0.0
+  },
+  {
+    "p": "P3264",
+    "count": 1,
+    "label": "radix",
+    "percent": 0.0
+  },
+  {
+    "p": "P7500",
+    "count": 1,
+    "label": "comorbidity",
+    "percent": 0.0
+  },
+  {
+    "p": "P5674",
+    "count": 1,
+    "label": "thermal diffusivity",
+    "percent": 0.0
+  },
+  {
+    "p": "P3680",
+    "count": 1,
+    "label": "statement supported by",
+    "percent": 0.0
+  },
+  {
+    "p": "P971",
+    "count": 1,
+    "label": "category combines topics",
+    "percent": 0.0
+  },
+  {
+    "p": "P2392",
+    "count": 1,
+    "label": "teaching method",
+    "percent": 0.0
+  },
+  {
+    "p": "P2700",
+    "count": 1,
+    "label": "protocol",
+    "percent": 0.0
+  },
+  {
+    "p": "P2820",
+    "count": 1,
+    "label": "cardinality of this set",
+    "percent": 0.0
+  },
+  {
+    "p": "P3985",
+    "count": 1,
+    "label": "supports programming language",
+    "percent": 0.0
+  },
+  {
+    "p": "P7462",
+    "count": 1,
+    "label": "graph diameter",
+    "percent": 0.0
+  },
+  {
+    "p": "P7391",
+    "count": 1,
+    "label": "graph radius",
+    "percent": 0.0
+  },
+  {
+    "p": "P4878",
+    "count": 1,
+    "label": "symbolizes",
+    "percent": 0.0
+  },
+  {
+    "p": "P7604",
+    "count": 1,
+    "label": "supervised by",
+    "percent": 0.0
+  },
+  {
+    "p": "P7535",
+    "count": 1,
+    "label": "scope and content",
+    "percent": 0.0
+  },
+  {
+    "p": "P7294",
+    "count": 1,
+    "label": "Itch.io URL",
+    "percent": 0.0
+  },
+  {
+    "p": "P4070",
+    "count": 1,
+    "label": "identifier shared with",
+    "percent": 0.0
+  },
+  {
+    "p": "P4006",
+    "count": 1,
+    "label": "overrules",
+    "percent": 0.0
+  },
+  {
+    "p": "P5826",
+    "count": 1,
+    "label": "majority opinion by",
+    "percent": 0.0
+  },
+  {
+    "p": "P1571",
+    "count": 1,
+    "label": "codomain",
+    "percent": 0.0
+  },
+  {
+    "p": "P6587",
+    "count": 1,
+    "label": "league system",
+    "percent": 0.0
+  },
+  {
+    "p": "P8596",
+    "count": 1,
+    "label": "category for the exterior of the item",
+    "percent": 0.0
+  },
+  {
+    "p": "P8839",
+    "count": 1,
+    "label": "hairstyle",
+    "percent": 0.0
+  },
+  {
+    "p": "P1450",
+    "count": 1,
+    "label": "Sandbox-Monolingual text",
+    "percent": 0.0
+  },
+  {
+    "p": "P7984",
+    "count": 1,
+    "label": "depicted format",
+    "percent": 0.0
+  }
+]

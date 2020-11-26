@@ -1,0 +1,537 @@
+[
+  {
+    "var_number": 0,
+    "count": 585895,
+    "percent": 47.18688388335502
+  },
+  {
+    "var_number": 1,
+    "count": 271301,
+    "percent": 21.850073450768654
+  },
+  {
+    "var_number": 2,
+    "count": 160961,
+    "percent": 12.963496900893007
+  },
+  {
+    "var_number": 3,
+    "count": 88880,
+    "percent": 7.15822841900442
+  },
+  {
+    "var_number": 4,
+    "count": 47014,
+    "percent": 3.7864193394585257
+  },
+  {
+    "var_number": 5,
+    "count": 28117,
+    "percent": 2.2644904191848254
+  },
+  {
+    "var_number": 6,
+    "count": 17847,
+    "percent": 1.4373638905712407
+  },
+  {
+    "var_number": 7,
+    "count": 11167,
+    "percent": 0.8993692254165431
+  },
+  {
+    "var_number": 8,
+    "count": 7170,
+    "percent": 0.5774583456825123
+  },
+  {
+    "var_number": 9,
+    "count": 5777,
+    "percent": 0.46526873961058207
+  },
+  {
+    "var_number": 10,
+    "count": 3564,
+    "percent": 0.28703787224720695
+  },
+  {
+    "var_number": 11,
+    "count": 2595,
+    "percent": 0.20899643055036532
+  },
+  {
+    "var_number": 12,
+    "count": 2254,
+    "percent": 0.18153293042794735
+  },
+  {
+    "var_number": 13,
+    "count": 1441,
+    "percent": 0.11605543600118552
+  },
+  {
+    "var_number": 15,
+    "count": 1133,
+    "percent": 0.0912496939551306
+  },
+  {
+    "var_number": 14,
+    "count": 1113,
+    "percent": 0.08963893148460755
+  },
+  {
+    "var_number": 16,
+    "count": 685,
+    "percent": 0.05516861461541435
+  },
+  {
+    "var_number": 18,
+    "count": 667,
+    "percent": 0.053718928391943616
+  },
+  {
+    "var_number": 17,
+    "count": 563,
+    "percent": 0.04534296354522377
+  },
+  {
+    "var_number": 21,
+    "count": 425,
+    "percent": 0.034228702498614746
+  },
+  {
+    "var_number": 19,
+    "count": 366,
+    "percent": 0.029476953210571758
+  },
+  {
+    "var_number": 20,
+    "count": 301,
+    "percent": 0.024241975181371854
+  },
+  {
+    "var_number": 24,
+    "count": 265,
+    "percent": 0.02134260273443037
+  },
+  {
+    "var_number": 22,
+    "count": 215,
+    "percent": 0.01731569655812275
+  },
+  {
+    "var_number": 23,
+    "count": 192,
+    "percent": 0.01546331971702125
+  },
+  {
+    "var_number": 27,
+    "count": 184,
+    "percent": 0.014819014728812032
+  },
+  {
+    "var_number": 30,
+    "count": 132,
+    "percent": 0.010631032305452108
+  },
+  {
+    "var_number": 25,
+    "count": 117,
+    "percent": 0.009422960452559824
+  },
+  {
+    "var_number": 26,
+    "count": 117,
+    "percent": 0.009422960452559824
+  },
+  {
+    "var_number": 33,
+    "count": 107,
+    "percent": 0.008617579217298301
+  },
+  {
+    "var_number": 29,
+    "count": 88,
+    "percent": 0.007087354870301405
+  },
+  {
+    "var_number": 36,
+    "count": 85,
+    "percent": 0.006845740499722949
+  },
+  {
+    "var_number": 28,
+    "count": 84,
+    "percent": 0.0067652023761967965
+  },
+  {
+    "var_number": 31,
+    "count": 62,
+    "percent": 0.004993363658621445
+  },
+  {
+    "var_number": 39,
+    "count": 61,
+    "percent": 0.004912825535095293
+  },
+  {
+    "var_number": 32,
+    "count": 52,
+    "percent": 0.004187982423359922
+  },
+  {
+    "var_number": 42,
+    "count": 51,
+    "percent": 0.004107444299833769
+  },
+  {
+    "var_number": 34,
+    "count": 43,
+    "percent": 0.0034631393116245504
+  },
+  {
+    "var_number": 45,
+    "count": 40,
+    "percent": 0.0032215249410460934
+  },
+  {
+    "var_number": 38,
+    "count": 37,
+    "percent": 0.0029799105704676368
+  },
+  {
+    "var_number": 35,
+    "count": 36,
+    "percent": 0.002899372446941484
+  },
+  {
+    "var_number": 48,
+    "count": 35,
+    "percent": 0.002818834323415332
+  },
+  {
+    "var_number": 37,
+    "count": 31,
+    "percent": 0.0024966818293107227
+  },
+  {
+    "var_number": 40,
+    "count": 24,
+    "percent": 0.0019329149646276562
+  },
+  {
+    "var_number": 43,
+    "count": 24,
+    "percent": 0.0019329149646276562
+  },
+  {
+    "var_number": 51,
+    "count": 24,
+    "percent": 0.0019329149646276562
+  },
+  {
+    "var_number": 54,
+    "count": 18,
+    "percent": 0.001449686223470742
+  },
+  {
+    "var_number": 44,
+    "count": 18,
+    "percent": 0.001449686223470742
+  },
+  {
+    "var_number": 41,
+    "count": 18,
+    "percent": 0.001449686223470742
+  },
+  {
+    "var_number": 57,
+    "count": 16,
+    "percent": 0.0012886099764184374
+  },
+  {
+    "var_number": 53,
+    "count": 15,
+    "percent": 0.0012080718528922852
+  },
+  {
+    "var_number": 60,
+    "count": 13,
+    "percent": 0.0010469956058399804
+  },
+  {
+    "var_number": 49,
+    "count": 11,
+    "percent": 0.0008859193587876757
+  },
+  {
+    "var_number": 52,
+    "count": 11,
+    "percent": 0.0008859193587876757
+  },
+  {
+    "var_number": 63,
+    "count": 11,
+    "percent": 0.0008859193587876757
+  },
+  {
+    "var_number": 50,
+    "count": 11,
+    "percent": 0.0008859193587876757
+  },
+  {
+    "var_number": 47,
+    "count": 10,
+    "percent": 0.0008053812352615233
+  },
+  {
+    "var_number": 56,
+    "count": 10,
+    "percent": 0.0008053812352615233
+  },
+  {
+    "var_number": 46,
+    "count": 9,
+    "percent": 0.000724843111735371
+  },
+  {
+    "var_number": 55,
+    "count": 9,
+    "percent": 0.000724843111735371
+  },
+  {
+    "var_number": 66,
+    "count": 8,
+    "percent": 0.0006443049882092187
+  },
+  {
+    "var_number": 59,
+    "count": 8,
+    "percent": 0.0006443049882092187
+  },
+  {
+    "var_number": 81,
+    "count": 7,
+    "percent": 0.0005637668646830663
+  },
+  {
+    "var_number": 69,
+    "count": 7,
+    "percent": 0.0005637668646830663
+  },
+  {
+    "var_number": 72,
+    "count": 6,
+    "percent": 0.00048322874115691404
+  },
+  {
+    "var_number": 67,
+    "count": 6,
+    "percent": 0.00048322874115691404
+  },
+  {
+    "var_number": 61,
+    "count": 5,
+    "percent": 0.0004026906176307617
+  },
+  {
+    "var_number": 76,
+    "count": 5,
+    "percent": 0.0004026906176307617
+  },
+  {
+    "var_number": 62,
+    "count": 5,
+    "percent": 0.0004026906176307617
+  },
+  {
+    "var_number": 58,
+    "count": 4,
+    "percent": 0.00032215249410460936
+  },
+  {
+    "var_number": 64,
+    "count": 4,
+    "percent": 0.00032215249410460936
+  },
+  {
+    "var_number": 78,
+    "count": 4,
+    "percent": 0.00032215249410460936
+  },
+  {
+    "var_number": 88,
+    "count": 3,
+    "percent": 0.00024161437057845702
+  },
+  {
+    "var_number": 75,
+    "count": 3,
+    "percent": 0.00024161437057845702
+  },
+  {
+    "var_number": 65,
+    "count": 3,
+    "percent": 0.00024161437057845702
+  },
+  {
+    "var_number": 74,
+    "count": 3,
+    "percent": 0.00024161437057845702
+  },
+  {
+    "var_number": 73,
+    "count": 3,
+    "percent": 0.00024161437057845702
+  },
+  {
+    "var_number": 68,
+    "count": 3,
+    "percent": 0.00024161437057845702
+  },
+  {
+    "var_number": 96,
+    "count": 2,
+    "percent": 0.00016107624705230468
+  },
+  {
+    "var_number": 70,
+    "count": 2,
+    "percent": 0.00016107624705230468
+  },
+  {
+    "var_number": 86,
+    "count": 2,
+    "percent": 0.00016107624705230468
+  },
+  {
+    "var_number": 85,
+    "count": 2,
+    "percent": 0.00016107624705230468
+  },
+  {
+    "var_number": 273,
+    "count": 2,
+    "percent": 0.00016107624705230468
+  },
+  {
+    "var_number": 84,
+    "count": 2,
+    "percent": 0.00016107624705230468
+  },
+  {
+    "var_number": 98,
+    "count": 2,
+    "percent": 0.00016107624705230468
+  },
+  {
+    "var_number": 71,
+    "count": 2,
+    "percent": 0.00016107624705230468
+  },
+  {
+    "var_number": 82,
+    "count": 2,
+    "percent": 0.00016107624705230468
+  },
+  {
+    "var_number": 83,
+    "count": 2,
+    "percent": 0.00016107624705230468
+  },
+  {
+    "var_number": 171,
+    "count": 1,
+    "percent": 0.00008053812352615234
+  },
+  {
+    "var_number": 112,
+    "count": 1,
+    "percent": 0.00008053812352615234
+  },
+  {
+    "var_number": 117,
+    "count": 1,
+    "percent": 0.00008053812352615234
+  },
+  {
+    "var_number": 97,
+    "count": 1,
+    "percent": 0.00008053812352615234
+  },
+  {
+    "var_number": 99,
+    "count": 1,
+    "percent": 0.00008053812352615234
+  },
+  {
+    "var_number": 121,
+    "count": 1,
+    "percent": 0.00008053812352615234
+  },
+  {
+    "var_number": 159,
+    "count": 1,
+    "percent": 0.00008053812352615234
+  },
+  {
+    "var_number": 87,
+    "count": 1,
+    "percent": 0.00008053812352615234
+  },
+  {
+    "var_number": 126,
+    "count": 1,
+    "percent": 0.00008053812352615234
+  },
+  {
+    "var_number": 151,
+    "count": 1,
+    "percent": 0.00008053812352615234
+  },
+  {
+    "var_number": 228,
+    "count": 1,
+    "percent": 0.00008053812352615234
+  },
+  {
+    "var_number": 90,
+    "count": 1,
+    "percent": 0.00008053812352615234
+  },
+  {
+    "var_number": 91,
+    "count": 1,
+    "percent": 0.00008053812352615234
+  },
+  {
+    "var_number": 93,
+    "count": 1,
+    "percent": 0.00008053812352615234
+  },
+  {
+    "var_number": 111,
+    "count": 1,
+    "percent": 0.00008053812352615234
+  },
+  {
+    "var_number": 105,
+    "count": 1,
+    "percent": 0.00008053812352615234
+  },
+  {
+    "var_number": 92,
+    "count": 1,
+    "percent": 0.00008053812352615234
+  },
+  {
+    "var_number": 149,
+    "count": 1,
+    "percent": 0.00008053812352615234
+  },
+  {
+    "var_number": 104,
+    "count": 1,
+    "percent": 0.00008053812352615234
+  }
+]

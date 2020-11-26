@@ -1,0 +1,3122 @@
+[
+  {
+    "wiki": "enwiki",
+    "count": 658165,
+    "percent": 53.06036400926148
+  },
+  {
+    "wiki": "dewiki",
+    "count": 415543,
+    "percent": 33.500509509774204
+  },
+  {
+    "wiki": "frwiki",
+    "count": 347907,
+    "percent": 28.047787502176703
+  },
+  {
+    "wiki": "commonswiki",
+    "count": 295693,
+    "percent": 23.83836608599751
+  },
+  {
+    "wiki": "eswiki",
+    "count": 244781,
+    "percent": 19.733910132795014
+  },
+  {
+    "wiki": "itwiki",
+    "count": 234935,
+    "percent": 18.940139051021923
+  },
+  {
+    "wiki": "ruwiki",
+    "count": 219308,
+    "percent": 17.68031163939607
+  },
+  {
+    "wiki": "arzwiki",
+    "count": 208535,
+    "percent": 16.81180708283081
+  },
+  {
+    "wiki": "arwiki",
+    "count": 208344,
+    "percent": 16.79640892351549
+  },
+  {
+    "wiki": "nolink",
+    "count": 197742,
+    "percent": 15.941690153562377
+  },
+  {
+    "wiki": "plwiki",
+    "count": 192757,
+    "percent": 15.539806257295988
+  },
+  {
+    "wiki": "svwiki",
+    "count": 168370,
+    "percent": 13.573759601679447
+  },
+  {
+    "wiki": "ptwiki",
+    "count": 167195,
+    "percent": 13.47903270536791
+  },
+  {
+    "wiki": "nlwiki",
+    "count": 165598,
+    "percent": 13.35028474501938
+  },
+  {
+    "wiki": "jawiki",
+    "count": 157853,
+    "percent": 12.725893415714829
+  },
+  {
+    "wiki": "fawiki",
+    "count": 135286,
+    "percent": 10.906572676087222
+  },
+  {
+    "wiki": "ukwiki",
+    "count": 129511,
+    "percent": 10.441000058045418
+  },
+  {
+    "wiki": "zhwiki",
+    "count": 127495,
+    "percent": 10.278472889565368
+  },
+  {
+    "wiki": "cawiki",
+    "count": 125611,
+    "percent": 10.126587380926276
+  },
+  {
+    "wiki": "fiwiki",
+    "count": 96585,
+    "percent": 7.786550876808277
+  },
+  {
+    "wiki": "nowiki",
+    "count": 95075,
+    "percent": 7.664816737718557
+  },
+  {
+    "wiki": "cswiki",
+    "count": 90974,
+    "percent": 7.334199714932506
+  },
+  {
+    "wiki": "kowiki",
+    "count": 87385,
+    "percent": 7.044859433347737
+  },
+  {
+    "wiki": "huwiki",
+    "count": 78771,
+    "percent": 6.350410510090228
+  },
+  {
+    "wiki": "trwiki",
+    "count": 75845,
+    "percent": 6.114520383615714
+  },
+  {
+    "wiki": "hewiki",
+    "count": 72187,
+    "percent": 5.8196174162049905
+  },
+  {
+    "wiki": "euwiki",
+    "count": 70287,
+    "percent": 5.666442009403357
+  },
+  {
+    "wiki": "cebwiki",
+    "count": 69466,
+    "percent": 5.60025410993802
+  },
+  {
+    "wiki": "viwiki",
+    "count": 68538,
+    "percent": 5.5254400165106965
+  },
+  {
+    "wiki": "idwiki",
+    "count": 68374,
+    "percent": 5.512218560344661
+  },
+  {
+    "wiki": "rowiki",
+    "count": 68318,
+    "percent": 5.50770391677577
+  },
+  {
+    "wiki": "azbwiki",
+    "count": 66969,
+    "percent": 5.398949377946611
+  },
+  {
+    "wiki": "srwiki",
+    "count": 66808,
+    "percent": 5.385969777686052
+  },
+  {
+    "wiki": "eowiki",
+    "count": 66756,
+    "percent": 5.381777608657797
+  },
+  {
+    "wiki": "simplewiki",
+    "count": 64033,
+    "percent": 5.162253065120509
+  },
+  {
+    "wiki": "shwiki",
+    "count": 61924,
+    "percent": 4.992228363570696
+  },
+  {
+    "wiki": "dawiki",
+    "count": 58983,
+    "percent": 4.7551289575688
+  },
+  {
+    "wiki": "bgwiki",
+    "count": 58259,
+    "percent": 4.696761065713862
+  },
+  {
+    "wiki": "hywiki",
+    "count": 48827,
+    "percent": 3.936366098896492
+  },
+  {
+    "wiki": "zh_min_nanwiki",
+    "count": 45217,
+    "percent": 3.6453328259733895
+  },
+  {
+    "wiki": "etwiki",
+    "count": 43798,
+    "percent": 3.530934982683117
+  },
+  {
+    "wiki": "elwiki",
+    "count": 39938,
+    "percent": 3.2197470509703257
+  },
+  {
+    "wiki": "cywiki",
+    "count": 39929,
+    "percent": 3.219021483253897
+  },
+  {
+    "wiki": "lawiki",
+    "count": 39307,
+    "percent": 3.168876692185152
+  },
+  {
+    "wiki": "glwiki",
+    "count": 38331,
+    "percent": 3.090192904270208
+  },
+  {
+    "wiki": "mswiki",
+    "count": 37996,
+    "percent": 3.0631856614920254
+  },
+  {
+    "wiki": "skwiki",
+    "count": 37769,
+    "percent": 3.044885231310988
+  },
+  {
+    "wiki": "hrwiki",
+    "count": 35863,
+    "percent": 2.8912261126984027
+  },
+  {
+    "wiki": "urwiki",
+    "count": 35358,
+    "percent": 2.850513701943232
+  },
+  {
+    "wiki": "afwiki",
+    "count": 35002,
+    "percent": 2.821813467826715
+  },
+  {
+    "wiki": "ltwiki",
+    "count": 33297,
+    "percent": 2.684358694881039
+  },
+  {
+    "wiki": "warwiki",
+    "count": 31961,
+    "percent": 2.5766521983089437
+  },
+  {
+    "wiki": "bewiki",
+    "count": 31831,
+    "percent": 2.566171775738306
+  },
+  {
+    "wiki": "slwiki",
+    "count": 31707,
+    "percent": 2.55617506497862
+  },
+  {
+    "wiki": "kawiki",
+    "count": 30042,
+    "percent": 2.421945037439294
+  },
+  {
+    "wiki": "nnwiki",
+    "count": 29038,
+    "percent": 2.341003927739905
+  },
+  {
+    "wiki": "astwiki",
+    "count": 28959,
+    "percent": 2.334635055562363
+  },
+  {
+    "wiki": "vowiki",
+    "count": 27800,
+    "percent": 2.241198057413367
+  },
+  {
+    "wiki": "uzwiki",
+    "count": 27335,
+    "percent": 2.2037103920645467
+  },
+  {
+    "wiki": "kkwiki",
+    "count": 26967,
+    "percent": 2.174042734326125
+  },
+  {
+    "wiki": "azwiki",
+    "count": 26593,
+    "percent": 2.143891364776751
+  },
+  {
+    "wiki": "thwiki",
+    "count": 25487,
+    "percent": 2.0547271542911685
+  },
+  {
+    "wiki": "mgwiki",
+    "count": 25366,
+    "percent": 2.0449722994369592
+  },
+  {
+    "wiki": "enwikisource",
+    "count": 24599,
+    "percent": 1.9831378062701948
+  },
+  {
+    "wiki": "lvwiki",
+    "count": 23952,
+    "percent": 1.930977549322481
+  },
+  {
+    "wiki": "ttwiki",
+    "count": 23006,
+    "percent": 1.8547123204622995
+  },
+  {
+    "wiki": "itwikiquote",
+    "count": 21651,
+    "percent": 1.7454740698221876
+  },
+  {
+    "wiki": "hiwiki",
+    "count": 20595,
+    "percent": 1.6603407910945431
+  },
+  {
+    "wiki": "ocwiki",
+    "count": 20421,
+    "percent": 1.6463131485769198
+  },
+  {
+    "wiki": "tawiki",
+    "count": 19919,
+    "percent": 1.6058425937272254
+  },
+  {
+    "wiki": "enwikiquote",
+    "count": 19730,
+    "percent": 1.5906056716822208
+  },
+  {
+    "wiki": "bnwiki",
+    "count": 19726,
+    "percent": 1.5902831971415856
+  },
+  {
+    "wiki": "htwiki",
+    "count": 19682,
+    "percent": 1.5867359771946004
+  },
+  {
+    "wiki": "mkwiki",
+    "count": 19648,
+    "percent": 1.583994943599203
+  },
+  {
+    "wiki": "brwiki",
+    "count": 19579,
+    "percent": 1.5784322577732486
+  },
+  {
+    "wiki": "gawiki",
+    "count": 18994,
+    "percent": 1.5312703562053775
+  },
+  {
+    "wiki": "sqwiki",
+    "count": 18940,
+    "percent": 1.5269169499068047
+  },
+  {
+    "wiki": "zh_yuewiki",
+    "count": 18513,
+    "percent": 1.4924927926940168
+  },
+  {
+    "wiki": "mlwiki",
+    "count": 18001,
+    "percent": 1.4512160514927346
+  },
+  {
+    "wiki": "wuuwiki",
+    "count": 16919,
+    "percent": 1.3639866882509626
+  },
+  {
+    "wiki": "cewiki",
+    "count": 16812,
+    "percent": 1.3553604942889759
+  },
+  {
+    "wiki": "scowiki",
+    "count": 16613,
+    "percent": 1.3393173858923837
+  },
+  {
+    "wiki": "pnbwiki",
+    "count": 16247,
+    "percent": 1.3098109654242798
+  },
+  {
+    "wiki": "plwikiquote",
+    "count": 15894,
+    "percent": 1.2813525872132394
+  },
+  {
+    "wiki": "tlwiki",
+    "count": 15662,
+    "percent": 1.2626490638564085
+  },
+  {
+    "wiki": "iowiki",
+    "count": 15411,
+    "percent": 1.2424137864315612
+  },
+  {
+    "wiki": "iswiki",
+    "count": 14803,
+    "percent": 1.1933976562550388
+  },
+  {
+    "wiki": "enwikivoyage",
+    "count": 14450,
+    "percent": 1.1649392780439984
+  },
+  {
+    "wiki": "be_x_oldwiki",
+    "count": 14178,
+    "percent": 1.1430110092808172
+  },
+  {
+    "wiki": "lbwiki",
+    "count": 13682,
+    "percent": 1.1030241662420752
+  },
+  {
+    "wiki": "kywiki",
+    "count": 13474,
+    "percent": 1.0862554901290544
+  },
+  {
+    "wiki": "swwiki",
+    "count": 13253,
+    "percent": 1.0684387717589696
+  },
+  {
+    "wiki": "bswiki",
+    "count": 12470,
+    "percent": 1.0053143804296651
+  },
+  {
+    "wiki": "mrwiki",
+    "count": 12430,
+    "percent": 1.002089635023315
+  },
+  {
+    "wiki": "specieswiki",
+    "count": 12044,
+    "percent": 0.9709708418520359
+  },
+  {
+    "wiki": "fywiki",
+    "count": 11704,
+    "percent": 0.9435605058980593
+  },
+  {
+    "wiki": "pawiki",
+    "count": 10970,
+    "percent": 0.8843864276915337
+  },
+  {
+    "wiki": "vecwiki",
+    "count": 10637,
+    "percent": 0.8575404221836687
+  },
+  {
+    "wiki": "ruwikinews",
+    "count": 10633,
+    "percent": 0.8572179476430335
+  },
+  {
+    "wiki": "anwiki",
+    "count": 10626,
+    "percent": 0.8566536171969223
+  },
+  {
+    "wiki": "pmswiki",
+    "count": 10150,
+    "percent": 0.8182791468613553
+  },
+  {
+    "wiki": "ndswiki",
+    "count": 9826,
+    "percent": 0.7921587090699188
+  },
+  {
+    "wiki": "jvwiki",
+    "count": 9776,
+    "percent": 0.7881277773119812
+  },
+  {
+    "wiki": "frwikisource",
+    "count": 8592,
+    "percent": 0.6926753132840162
+  },
+  {
+    "wiki": "lmowiki",
+    "count": 8546,
+    "percent": 0.6889668560667135
+  },
+  {
+    "wiki": "itwikisource",
+    "count": 8403,
+    "percent": 0.6774383912390116
+  },
+  {
+    "wiki": "ckbwiki",
+    "count": 8371,
+    "percent": 0.6748585949139315
+  },
+  {
+    "wiki": "cswikiquote",
+    "count": 8056,
+    "percent": 0.649463724838924
+  },
+  {
+    "wiki": "dewikivoyage",
+    "count": 7741,
+    "percent": 0.6240688547639164
+  },
+  {
+    "wiki": "tgwiki",
+    "count": 7676,
+    "percent": 0.6188286434785975
+  },
+  {
+    "wiki": "quwiki",
+    "count": 7674,
+    "percent": 0.6186674062082799
+  },
+  {
+    "wiki": "alswiki",
+    "count": 7568,
+    "percent": 0.6101218308814519
+  },
+  {
+    "wiki": "barwiki",
+    "count": 7515,
+    "percent": 0.605849043218038
+  },
+  {
+    "wiki": "yowiki",
+    "count": 7172,
+    "percent": 0.5781968513585852
+  },
+  {
+    "wiki": "bawiki",
+    "count": 6808,
+    "percent": 0.5488516681607987
+  },
+  {
+    "wiki": "diqwiki",
+    "count": 6750,
+    "percent": 0.544175787321591
+  },
+  {
+    "wiki": "dewikisource",
+    "count": 6714,
+    "percent": 0.5412735164558758
+  },
+  {
+    "wiki": "scnwiki",
+    "count": 6637,
+    "percent": 0.5350658815486518
+  },
+  {
+    "wiki": "knwiki",
+    "count": 6434,
+    "percent": 0.5187002986114246
+  },
+  {
+    "wiki": "tewiki",
+    "count": 6388,
+    "percent": 0.514991841394122
+  },
+  {
+    "wiki": "iawiki",
+    "count": 6315,
+    "percent": 0.5091066810275329
+  },
+  {
+    "wiki": "mnwiki",
+    "count": 6311,
+    "percent": 0.5087842064868978
+  },
+  {
+    "wiki": "plwikivoyage",
+    "count": 6274,
+    "percent": 0.5058013169860239
+  },
+  {
+    "wiki": "newwiki",
+    "count": 6099,
+    "percent": 0.4916930558332419
+  },
+  {
+    "wiki": "gdwiki",
+    "count": 6074,
+    "percent": 0.48967758995427313
+  },
+  {
+    "wiki": "cvwiki",
+    "count": 5938,
+    "percent": 0.4787134555726825
+  },
+  {
+    "wiki": "kuwiki",
+    "count": 5817,
+    "percent": 0.4689586007184733
+  },
+  {
+    "wiki": "newiki",
+    "count": 5761,
+    "percent": 0.464443957149583
+  },
+  {
+    "wiki": "yiwiki",
+    "count": 5577,
+    "percent": 0.4496101282803723
+  },
+  {
+    "wiki": "cdowiki",
+    "count": 5467,
+    "percent": 0.4407420784129093
+  },
+  {
+    "wiki": "xmfwiki",
+    "count": 5318,
+    "percent": 0.4287299017742549
+  },
+  {
+    "wiki": "bpywiki",
+    "count": 5202,
+    "percent": 0.41937814009583946
+  },
+  {
+    "wiki": "mywiki",
+    "count": 5119,
+    "percent": 0.41268679337766284
+  },
+  {
+    "wiki": "ruwikiquote",
+    "count": 5036,
+    "percent": 0.4059954466594863
+  },
+  {
+    "wiki": "ptwikiquote",
+    "count": 4680,
+    "percent": 0.3772952125429697
+  },
+  {
+    "wiki": "eswikiquote",
+    "count": 4638,
+    "percent": 0.37390922986630204
+  },
+  {
+    "wiki": "szlwiki",
+    "count": 4416,
+    "percent": 0.3560118928610586
+  },
+  {
+    "wiki": "frwikiquote",
+    "count": 4369,
+    "percent": 0.3522228170085972
+  },
+  {
+    "wiki": "dewikiquote",
+    "count": 4296,
+    "percent": 0.3463376566420081
+  },
+  {
+    "wiki": "liwiki",
+    "count": 4271,
+    "percent": 0.34432219076303927
+  },
+  {
+    "wiki": "frrwiki",
+    "count": 4126,
+    "percent": 0.3326324886650199
+  },
+  {
+    "wiki": "fawikivoyage",
+    "count": 4102,
+    "percent": 0.3306976414212098
+  },
+  {
+    "wiki": "mznwiki",
+    "count": 4011,
+    "percent": 0.32336134562176316
+  },
+  {
+    "wiki": "fowiki",
+    "count": 3998,
+    "percent": 0.3223133033646994
+  },
+  {
+    "wiki": "ruwikisource",
+    "count": 3972,
+    "percent": 0.32021721885057175
+  },
+  {
+    "wiki": "hakwiki",
+    "count": 3800,
+    "percent": 0.30635081360326605
+  },
+  {
+    "wiki": "ukwikiquote",
+    "count": 3716,
+    "percent": 0.29957884824993064
+  },
+  {
+    "wiki": "frwikivoyage",
+    "count": 3680,
+    "percent": 0.2966765773842155
+  },
+  {
+    "wiki": "scwiki",
+    "count": 3636,
+    "percent": 0.29312935743723034
+  },
+  {
+    "wiki": "hsbwiki",
+    "count": 3582,
+    "percent": 0.2887759511386576
+  },
+  {
+    "wiki": "suwiki",
+    "count": 3456,
+    "percent": 0.2786180031086546
+  },
+  {
+    "wiki": "siwiki",
+    "count": 3414,
+    "percent": 0.2752320204319869
+  },
+  {
+    "wiki": "ilowiki",
+    "count": 3333,
+    "percent": 0.2687019109841278
+  },
+  {
+    "wiki": "guwiki",
+    "count": 3326,
+    "percent": 0.2681375805380165
+  },
+  {
+    "wiki": "zh_classicalwiki",
+    "count": 3179,
+    "percent": 0.25628664116967964
+  },
+  {
+    "wiki": "amwiki",
+    "count": 3177,
+    "percent": 0.25612540389936217
+  },
+  {
+    "wiki": "sawiki",
+    "count": 3174,
+    "percent": 0.2558835479938859
+  },
+  {
+    "wiki": "fawikiquote",
+    "count": 3151,
+    "percent": 0.25402931938523454
+  },
+  {
+    "wiki": "pswiki",
+    "count": 3082,
+    "percent": 0.24846663355928048
+  },
+  {
+    "wiki": "oswiki",
+    "count": 3078,
+    "percent": 0.24814415901864548
+  },
+  {
+    "wiki": "bhwiki",
+    "count": 3060,
+    "percent": 0.24669302358578793
+  },
+  {
+    "wiki": "pamwiki",
+    "count": 3010,
+    "percent": 0.24266209182785017
+  },
+  {
+    "wiki": "sahwiki",
+    "count": 2994,
+    "percent": 0.24137219366531013
+  },
+  {
+    "wiki": "dewikinews",
+    "count": 2969,
+    "percent": 0.23935672778634126
+  },
+  {
+    "wiki": "maiwiki",
+    "count": 2951,
+    "percent": 0.23790559235348369
+  },
+  {
+    "wiki": "orwiki",
+    "count": 2902,
+    "percent": 0.23395527923070472
+  },
+  {
+    "wiki": "bclwiki",
+    "count": 2851,
+    "percent": 0.22984372883760826
+  },
+  {
+    "wiki": "bat_smgwiki",
+    "count": 2828,
+    "percent": 0.22798950022895692
+  },
+  {
+    "wiki": "iewiki",
+    "count": 2822,
+    "percent": 0.2275057884180044
+  },
+  {
+    "wiki": "vepwiki",
+    "count": 2751,
+    "percent": 0.22178186532173286
+  },
+  {
+    "wiki": "bgwikiquote",
+    "count": 2698,
+    "percent": 0.21750907765831887
+  },
+  {
+    "wiki": "hewikiquote",
+    "count": 2683,
+    "percent": 0.21629979813093755
+  },
+  {
+    "wiki": "itwikivoyage",
+    "count": 2661,
+    "percent": 0.21452618815744495
+  },
+  {
+    "wiki": "hywwiki",
+    "count": 2657,
+    "percent": 0.21420371361680995
+  },
+  {
+    "wiki": "sdwiki",
+    "count": 2655,
+    "percent": 0.21404247634649243
+  },
+  {
+    "wiki": "trwikiquote",
+    "count": 2612,
+    "percent": 0.210575875034666
+  },
+  {
+    "wiki": "kwwiki",
+    "count": 2589,
+    "percent": 0.20872164642601465
+  },
+  {
+    "wiki": "emlwiki",
+    "count": 2403,
+    "percent": 0.1937265802864864
+  },
+  {
+    "wiki": "lfnwiki",
+    "count": 2342,
+    "percent": 0.18880884354180236
+  },
+  {
+    "wiki": "sewiki",
+    "count": 2336,
+    "percent": 0.18832513173084986
+  },
+  {
+    "wiki": "eswikisource",
+    "count": 2322,
+    "percent": 0.18719647083862728
+  },
+  {
+    "wiki": "napwiki",
+    "count": 2313,
+    "percent": 0.1864709031221985
+  },
+  {
+    "wiki": "nlwikivoyage",
+    "count": 2229,
+    "percent": 0.17969893776886314
+  },
+  {
+    "wiki": "ruewiki",
+    "count": 2218,
+    "percent": 0.17881213278211686
+  },
+  {
+    "wiki": "cawikiquote",
+    "count": 2214,
+    "percent": 0.17848965824148183
+  },
+  {
+    "wiki": "gvwiki",
+    "count": 2209,
+    "percent": 0.17808656506568807
+  },
+  {
+    "wiki": "wawiki",
+    "count": 2190,
+    "percent": 0.17655481099767173
+  },
+  {
+    "wiki": "bswikiquote",
+    "count": 2169,
+    "percent": 0.1748618196593379
+  },
+  {
+    "wiki": "sowiki",
+    "count": 2168,
+    "percent": 0.17478120102417916
+  },
+  {
+    "wiki": "hifwiki",
+    "count": 2156,
+    "percent": 0.1738137774022741
+  },
+  {
+    "wiki": "cowiki",
+    "count": 2081,
+    "percent": 0.16776737976536754
+  },
+  {
+    "wiki": "mrjwiki",
+    "count": 2074,
+    "percent": 0.16720304931925625
+  },
+  {
+    "wiki": "aywiki",
+    "count": 2044,
+    "percent": 0.1647844902644936
+  },
+  {
+    "wiki": "aswiki",
+    "count": 2035,
+    "percent": 0.16405892254806484
+  },
+  {
+    "wiki": "zhwikiquote",
+    "count": 2025,
+    "percent": 0.1632527361964773
+  },
+  {
+    "wiki": "vlswiki",
+    "count": 2009,
+    "percent": 0.1619628380339372
+  },
+  {
+    "wiki": "lijwiki",
+    "count": 1991,
+    "percent": 0.16051170260107964
+  },
+  {
+    "wiki": "gnwiki",
+    "count": 1968,
+    "percent": 0.1586574739924283
+  },
+  {
+    "wiki": "ptwikivoyage",
+    "count": 1965,
+    "percent": 0.15841561808695204
+  },
+  {
+    "wiki": "mwlwiki",
+    "count": 1961,
+    "percent": 0.158093143546317
+  },
+  {
+    "wiki": "satwiki",
+    "count": 1955,
+    "percent": 0.15760943173536449
+  },
+  {
+    "wiki": "stqwiki",
+    "count": 1935,
+    "percent": 0.1559970590321894
+  },
+  {
+    "wiki": "ugwiki",
+    "count": 1898,
+    "percent": 0.1530141695313155
+  },
+  {
+    "wiki": "hawiki",
+    "count": 1889,
+    "percent": 0.1522886018148867
+  },
+  {
+    "wiki": "bowiki",
+    "count": 1888,
+    "percent": 0.15220798317972797
+  },
+  {
+    "wiki": "zhwikivoyage",
+    "count": 1871,
+    "percent": 0.15083746638202913
+  },
+  {
+    "wiki": "nahwiki",
+    "count": 1870,
+    "percent": 0.15075684774687037
+  },
+  {
+    "wiki": "enwikinews",
+    "count": 1850,
+    "percent": 0.1491444750436953
+  },
+  {
+    "wiki": "ladwiki",
+    "count": 1841,
+    "percent": 0.1484189073272665
+  },
+  {
+    "wiki": "slwikiquote",
+    "count": 1839,
+    "percent": 0.148257670056949
+  },
+  {
+    "wiki": "nvwiki",
+    "count": 1833,
+    "percent": 0.14777395824599648
+  },
+  {
+    "wiki": "angwiki",
+    "count": 1827,
+    "percent": 0.14729024643504396
+  },
+  {
+    "wiki": "dsbwiki",
+    "count": 1802,
+    "percent": 0.1452747805560751
+  },
+  {
+    "wiki": "frwikinews",
+    "count": 1786,
+    "percent": 0.14398488239353505
+  },
+  {
+    "wiki": "kabwiki",
+    "count": 1769,
+    "percent": 0.1426143655958362
+  },
+  {
+    "wiki": "extwiki",
+    "count": 1702,
+    "percent": 0.13721291704019967
+  },
+  {
+    "wiki": "frpwiki",
+    "count": 1699,
+    "percent": 0.13697106113472343
+  },
+  {
+    "wiki": "eswikivoyage",
+    "count": 1670,
+    "percent": 0.13463312071511954
+  },
+  {
+    "wiki": "ruwikivoyage",
+    "count": 1641,
+    "percent": 0.13229518029551568
+  },
+  {
+    "wiki": "skwikiquote",
+    "count": 1640,
+    "percent": 0.13221456166035692
+  },
+  {
+    "wiki": "cswikisource",
+    "count": 1639,
+    "percent": 0.13213394302519815
+  },
+  {
+    "wiki": "tkwiki",
+    "count": 1633,
+    "percent": 0.13165023121424563
+  },
+  {
+    "wiki": "plwikisource",
+    "count": 1629,
+    "percent": 0.13132775667361063
+  },
+  {
+    "wiki": "minwiki",
+    "count": 1615,
+    "percent": 0.13019909578138805
+  },
+  {
+    "wiki": "myvwiki",
+    "count": 1612,
+    "percent": 0.1299572398759118
+  },
+  {
+    "wiki": "nds_nlwiki",
+    "count": 1598,
+    "percent": 0.12882857898368924
+  },
+  {
+    "wiki": "zuwiki",
+    "count": 1553,
+    "percent": 0.1252007404015453
+  },
+  {
+    "wiki": "mhrwiki",
+    "count": 1510,
+    "percent": 0.12173413908971886
+  },
+  {
+    "wiki": "hewikivoyage",
+    "count": 1497,
+    "percent": 0.12068609683265506
+  },
+  {
+    "wiki": "fiu_vrowiki",
+    "count": 1479,
+    "percent": 0.1192349613997975
+  },
+  {
+    "wiki": "avkwiki",
+    "count": 1477,
+    "percent": 0.11907372412947997
+  },
+  {
+    "wiki": "pcdwiki",
+    "count": 1466,
+    "percent": 0.11818691914273367
+  },
+  {
+    "wiki": "hrwikiquote",
+    "count": 1461,
+    "percent": 0.11778382596693991
+  },
+  {
+    "wiki": "acewiki",
+    "count": 1443,
+    "percent": 0.11633269053408232
+  },
+  {
+    "wiki": "eowikiquote",
+    "count": 1435,
+    "percent": 0.1156877414528123
+  },
+  {
+    "wiki": "ltwikiquote",
+    "count": 1424,
+    "percent": 0.11480093646606601
+  },
+  {
+    "wiki": "etwikiquote",
+    "count": 1389,
+    "percent": 0.11197928423550961
+  },
+  {
+    "wiki": "arwikiquote",
+    "count": 1379,
+    "percent": 0.11117309788392206
+  },
+  {
+    "wiki": "lnwiki",
+    "count": 1377,
+    "percent": 0.11101186061360456
+  },
+  {
+    "wiki": "csbwiki",
+    "count": 1374,
+    "percent": 0.1107700047081283
+  },
+  {
+    "wiki": "ganwiki",
+    "count": 1365,
+    "percent": 0.11004443699169951
+  },
+  {
+    "wiki": "roa_tarawiki",
+    "count": 1363,
+    "percent": 0.109883199721382
+  },
+  {
+    "wiki": "ukwikisource",
+    "count": 1356,
+    "percent": 0.10931886927527071
+  },
+  {
+    "wiki": "udmwiki",
+    "count": 1341,
+    "percent": 0.1081095897478894
+  },
+  {
+    "wiki": "kbpwiki",
+    "count": 1332,
+    "percent": 0.10738402203146061
+  },
+  {
+    "wiki": "rmwiki",
+    "count": 1330,
+    "percent": 0.10722278476114312
+  },
+  {
+    "wiki": "bxrwiki",
+    "count": 1321,
+    "percent": 0.1064972170447143
+  },
+  {
+    "wiki": "mtwiki",
+    "count": 1292,
+    "percent": 0.10415927662511044
+  },
+  {
+    "wiki": "azwikiquote",
+    "count": 1285,
+    "percent": 0.10359494617899917
+  },
+  {
+    "wiki": "bugwiki",
+    "count": 1283,
+    "percent": 0.10343370890868167
+  },
+  {
+    "wiki": "zeawiki",
+    "count": 1283,
+    "percent": 0.10343370890868167
+  },
+  {
+    "wiki": "furwiki",
+    "count": 1274,
+    "percent": 0.10270814119225287
+  },
+  {
+    "wiki": "nrmwiki",
+    "count": 1274,
+    "percent": 0.10270814119225287
+  },
+  {
+    "wiki": "crhwiki",
+    "count": 1264,
+    "percent": 0.10190195484066533
+  },
+  {
+    "wiki": "banwiki",
+    "count": 1250,
+    "percent": 0.10077329394844277
+  },
+  {
+    "wiki": "olowiki",
+    "count": 1238,
+    "percent": 0.09980587032653772
+  },
+  {
+    "wiki": "fiwikiquote",
+    "count": 1229,
+    "percent": 0.09908030261010893
+  },
+  {
+    "wiki": "papwiki",
+    "count": 1229,
+    "percent": 0.09908030261010893
+  },
+  {
+    "wiki": "viwikivoyage",
+    "count": 1220,
+    "percent": 0.09835473489368016
+  },
+  {
+    "wiki": "hywikiquote",
+    "count": 1217,
+    "percent": 0.09811287898820388
+  },
+  {
+    "wiki": "zhwikisource",
+    "count": 1200,
+    "percent": 0.09674236219050505
+  },
+  {
+    "wiki": "fiwikivoyage",
+    "count": 1182,
+    "percent": 0.09529122675764748
+  },
+  {
+    "wiki": "kmwiki",
+    "count": 1177,
+    "percent": 0.0948881335818537
+  },
+  {
+    "wiki": "nlwikinews",
+    "count": 1159,
+    "percent": 0.09343699814899614
+  },
+  {
+    "wiki": "dtywiki",
+    "count": 1157,
+    "percent": 0.09327576087867863
+  },
+  {
+    "wiki": "eowikinews",
+    "count": 1136,
+    "percent": 0.09158276954034479
+  },
+  {
+    "wiki": "kaawiki",
+    "count": 1094,
+    "percent": 0.08819678686367712
+  },
+  {
+    "wiki": "kvwiki",
+    "count": 1091,
+    "percent": 0.08795493095820085
+  },
+  {
+    "wiki": "cbk_zamwiki",
+    "count": 1082,
+    "percent": 0.08722936324177206
+  },
+  {
+    "wiki": "snwiki",
+    "count": 1064,
+    "percent": 0.08577822780891449
+  },
+  {
+    "wiki": "huwikiquote",
+    "count": 1062,
+    "percent": 0.08561699053859698
+  },
+  {
+    "wiki": "jamwiki",
+    "count": 1035,
+    "percent": 0.08344028738931061
+  },
+  {
+    "wiki": "gcrwiki",
+    "count": 1005,
+    "percent": 0.08102172833454799
+  },
+  {
+    "wiki": "miwiki",
+    "count": 992,
+    "percent": 0.07997368607748419
+  },
+  {
+    "wiki": "svwikivoyage",
+    "count": 970,
+    "percent": 0.07820007610399159
+  },
+  {
+    "wiki": "lowiki",
+    "count": 962,
+    "percent": 0.07755512702272156
+  },
+  {
+    "wiki": "lezwiki",
+    "count": 960,
+    "percent": 0.07739388975240405
+  },
+  {
+    "wiki": "nawiki",
+    "count": 956,
+    "percent": 0.07707141521176904
+  },
+  {
+    "wiki": "kshwiki",
+    "count": 949,
+    "percent": 0.07650708476565775
+  },
+  {
+    "wiki": "novwiki",
+    "count": 943,
+    "percent": 0.07602337295470522
+  },
+  {
+    "wiki": "lrcwiki",
+    "count": 936,
+    "percent": 0.07545904250859395
+  },
+  {
+    "wiki": "svwikiquote",
+    "count": 936,
+    "percent": 0.07545904250859395
+  },
+  {
+    "wiki": "biwiki",
+    "count": 925,
+    "percent": 0.07457223752184765
+  },
+  {
+    "wiki": "gagwiki",
+    "count": 867,
+    "percent": 0.0698963566826399
+  },
+  {
+    "wiki": "rwwiki",
+    "count": 864,
+    "percent": 0.06965450077716365
+  },
+  {
+    "wiki": "arcwiki",
+    "count": 861,
+    "percent": 0.06941264487168737
+  },
+  {
+    "wiki": "pdcwiki",
+    "count": 857,
+    "percent": 0.06909017033105236
+  },
+  {
+    "wiki": "zawiki",
+    "count": 853,
+    "percent": 0.06876769579041735
+  },
+  {
+    "wiki": "nsowiki",
+    "count": 850,
+    "percent": 0.06852583988494108
+  },
+  {
+    "wiki": "dvwiki",
+    "count": 843,
+    "percent": 0.0679615094388298
+  },
+  {
+    "wiki": "ptwikisource",
+    "count": 842,
+    "percent": 0.06788089080367106
+  },
+  {
+    "wiki": "itwikinews",
+    "count": 835,
+    "percent": 0.06731656035755977
+  },
+  {
+    "wiki": "hywikisource",
+    "count": 832,
+    "percent": 0.06707470445208351
+  },
+  {
+    "wiki": "xalwiki",
+    "count": 822,
+    "percent": 0.06626851810049597
+  },
+  {
+    "wiki": "jbowiki",
+    "count": 804,
+    "percent": 0.06481738266763838
+  },
+  {
+    "wiki": "tyvwiki",
+    "count": 800,
+    "percent": 0.06449490812700337
+  },
+  {
+    "wiki": "smnwiki",
+    "count": 785,
+    "percent": 0.06328562859962206
+  },
+  {
+    "wiki": "hawwiki",
+    "count": 785,
+    "percent": 0.06328562859962206
+  },
+  {
+    "wiki": "wowiki",
+    "count": 785,
+    "percent": 0.06328562859962206
+  },
+  {
+    "wiki": "bjnwiki",
+    "count": 776,
+    "percent": 0.06256006088319327
+  },
+  {
+    "wiki": "elwikivoyage",
+    "count": 767,
+    "percent": 0.06183449316676449
+  },
+  {
+    "wiki": "map_bmswiki",
+    "count": 766,
+    "percent": 0.06175387453160573
+  },
+  {
+    "wiki": "roa_rupwiki",
+    "count": 764,
+    "percent": 0.06159263726128822
+  },
+  {
+    "wiki": "elwikiquote",
+    "count": 763,
+    "percent": 0.06151201862612947
+  },
+  {
+    "wiki": "nlwikiquote",
+    "count": 749,
+    "percent": 0.060383357733906906
+  },
+  {
+    "wiki": "jawikiquote",
+    "count": 748,
+    "percent": 0.060302739098748157
+  },
+  {
+    "wiki": "srwikinews",
+    "count": 727,
+    "percent": 0.05860974776041431
+  },
+  {
+    "wiki": "gomwiki",
+    "count": 727,
+    "percent": 0.05860974776041431
+  },
+  {
+    "wiki": "avwiki",
+    "count": 724,
+    "percent": 0.058367891854938056
+  },
+  {
+    "wiki": "eswikinews",
+    "count": 724,
+    "percent": 0.058367891854938056
+  },
+  {
+    "wiki": "arywiki",
+    "count": 720,
+    "percent": 0.05804541731430304
+  },
+  {
+    "wiki": "liwikiquote",
+    "count": 710,
+    "percent": 0.0572392309627155
+  },
+  {
+    "wiki": "kgwiki",
+    "count": 707,
+    "percent": 0.05699737505723923
+  },
+  {
+    "wiki": "slwikisource",
+    "count": 655,
+    "percent": 0.05280520602898402
+  },
+  {
+    "wiki": "lawikisource",
+    "count": 648,
+    "percent": 0.052240875582872735
+  },
+  {
+    "wiki": "enwikibooks",
+    "count": 631,
+    "percent": 0.05087035878517391
+  },
+  {
+    "wiki": "ptwikinews",
+    "count": 629,
+    "percent": 0.050709121514856396
+  },
+  {
+    "wiki": "akwiki",
+    "count": 625,
+    "percent": 0.050386646974221384
+  },
+  {
+    "wiki": "piwiki",
+    "count": 624,
+    "percent": 0.050306028339062635
+  },
+  {
+    "wiki": "igwiki",
+    "count": 619,
+    "percent": 0.04990293516326886
+  },
+  {
+    "wiki": "kowikisource",
+    "count": 616,
+    "percent": 0.049661079257792604
+  },
+  {
+    "wiki": "krcwiki",
+    "count": 615,
+    "percent": 0.04958046062263384
+  },
+  {
+    "wiki": "tawikiquote",
+    "count": 605,
+    "percent": 0.0487742742710463
+  },
+  {
+    "wiki": "abwiki",
+    "count": 599,
+    "percent": 0.04829056246009378
+  },
+  {
+    "wiki": "pihwiki",
+    "count": 598,
+    "percent": 0.04820994382493502
+  },
+  {
+    "wiki": "lldwiki",
+    "count": 597,
+    "percent": 0.048129325189776265
+  },
+  {
+    "wiki": "tpiwiki",
+    "count": 597,
+    "percent": 0.048129325189776265
+  },
+  {
+    "wiki": "kowikiquote",
+    "count": 589,
+    "percent": 0.047484376108506234
+  },
+  {
+    "wiki": "nnwikiquote",
+    "count": 589,
+    "percent": 0.047484376108506234
+  },
+  {
+    "wiki": "arwikinews",
+    "count": 579,
+    "percent": 0.046678189756918696
+  },
+  {
+    "wiki": "gotwiki",
+    "count": 579,
+    "percent": 0.046678189756918696
+  },
+  {
+    "wiki": "ukwikivoyage",
+    "count": 578,
+    "percent": 0.04659757112175994
+  },
+  {
+    "wiki": "pagwiki",
+    "count": 575,
+    "percent": 0.04635571521628368
+  },
+  {
+    "wiki": "kiwiki",
+    "count": 575,
+    "percent": 0.04635571521628368
+  },
+  {
+    "wiki": "chrwiki",
+    "count": 572,
+    "percent": 0.046113859310807415
+  },
+  {
+    "wiki": "arwikisource",
+    "count": 567,
+    "percent": 0.04571076613501364
+  },
+  {
+    "wiki": "rowikivoyage",
+    "count": 563,
+    "percent": 0.04538829159437862
+  },
+  {
+    "wiki": "elwikisource",
+    "count": 559,
+    "percent": 0.04506581705374361
+  },
+  {
+    "wiki": "tetwiki",
+    "count": 559,
+    "percent": 0.04506581705374361
+  },
+  {
+    "wiki": "nowikiquote",
+    "count": 557,
+    "percent": 0.044904579783426095
+  },
+  {
+    "wiki": "inhwiki",
+    "count": 553,
+    "percent": 0.04458210524279108
+  },
+  {
+    "wiki": "szywiki",
+    "count": 552,
+    "percent": 0.044501486607632326
+  },
+  {
+    "wiki": "xhwiki",
+    "count": 552,
+    "percent": 0.044501486607632326
+  },
+  {
+    "wiki": "smwiki",
+    "count": 524,
+    "percent": 0.042244164823187214
+  },
+  {
+    "wiki": "fjwiki",
+    "count": 520,
+    "percent": 0.041921690282552194
+  },
+  {
+    "wiki": "pflwiki",
+    "count": 517,
+    "percent": 0.041679834377075925
+  },
+  {
+    "wiki": "twwiki",
+    "count": 514,
+    "percent": 0.04143797847159966
+  },
+  {
+    "wiki": "kbdwiki",
+    "count": 501,
+    "percent": 0.04038993621453586
+  },
+  {
+    "wiki": "shnwiki",
+    "count": 488,
+    "percent": 0.039341893957472056
+  },
+  {
+    "wiki": "huwikisource",
+    "count": 482,
+    "percent": 0.03885818214651953
+  },
+  {
+    "wiki": "svwikinews",
+    "count": 475,
+    "percent": 0.038293851700408256
+  },
+  {
+    "wiki": "bmwiki",
+    "count": 471,
+    "percent": 0.03797137715977324
+  },
+  {
+    "wiki": "glwikiquote",
+    "count": 465,
+    "percent": 0.03748766534882071
+  },
+  {
+    "wiki": "cuwiki",
+    "count": 464,
+    "percent": 0.03740704671366196
+  },
+  {
+    "wiki": "fiwikisource",
+    "count": 460,
+    "percent": 0.037084572173026936
+  },
+  {
+    "wiki": "svwikisource",
+    "count": 457,
+    "percent": 0.036842716267550674
+  },
+  {
+    "wiki": "koiwiki",
+    "count": 455,
+    "percent": 0.03668147899723317
+  },
+  {
+    "wiki": "hewikisource",
+    "count": 452,
+    "percent": 0.036439623091756905
+  },
+  {
+    "wiki": "tywiki",
+    "count": 439,
+    "percent": 0.0353915808346931
+  },
+  {
+    "wiki": "srwikiquote",
+    "count": 433,
+    "percent": 0.03490786902374057
+  },
+  {
+    "wiki": "bnwikisource",
+    "count": 432,
+    "percent": 0.034827250388581824
+  },
+  {
+    "wiki": "omwiki",
+    "count": 425,
+    "percent": 0.03426291994247054
+  },
+  {
+    "wiki": "cawikisource",
+    "count": 419,
+    "percent": 0.03377920813151802
+  },
+  {
+    "wiki": "jawikisource",
+    "count": 418,
+    "percent": 0.03369858949635927
+  },
+  {
+    "wiki": "chywiki",
+    "count": 410,
+    "percent": 0.03305364041508923
+  },
+  {
+    "wiki": "simplewikiquote",
+    "count": 407,
+    "percent": 0.032811784509612966
+  },
+  {
+    "wiki": "rowikisource",
+    "count": 407,
+    "percent": 0.032811784509612966
+  },
+  {
+    "wiki": "kawikiquote",
+    "count": 406,
+    "percent": 0.03273116587445421
+  },
+  {
+    "wiki": "mdfwiki",
+    "count": 397,
+    "percent": 0.03200559815802542
+  },
+  {
+    "wiki": "tcywiki",
+    "count": 395,
+    "percent": 0.031844360887707916
+  },
+  {
+    "wiki": "awawiki",
+    "count": 395,
+    "percent": 0.031844360887707916
+  },
+  {
+    "wiki": "stwiki",
+    "count": 394,
+    "percent": 0.03176374225254916
+  },
+  {
+    "wiki": "lbewiki",
+    "count": 388,
+    "percent": 0.031280030441596635
+  },
+  {
+    "wiki": "chwiki",
+    "count": 386,
+    "percent": 0.03111879317127913
+  },
+  {
+    "wiki": "tumwiki",
+    "count": 379,
+    "percent": 0.030554462725167847
+  },
+  {
+    "wiki": "frwikiversity",
+    "count": 374,
+    "percent": 0.030151369549374078
+  },
+  {
+    "wiki": "atjwiki",
+    "count": 373,
+    "percent": 0.030070750914215322
+  },
+  {
+    "wiki": "bewikiquote",
+    "count": 367,
+    "percent": 0.0295870391032628
+  },
+  {
+    "wiki": "iuwiki",
+    "count": 359,
+    "percent": 0.028942090021992765
+  },
+  {
+    "wiki": "rowikiquote",
+    "count": 359,
+    "percent": 0.028942090021992765
+  },
+  {
+    "wiki": "srnwiki",
+    "count": 353,
+    "percent": 0.028458378211040237
+  },
+  {
+    "wiki": "itwikiversity",
+    "count": 346,
+    "percent": 0.02789404776492896
+  },
+  {
+    "wiki": "tswiki",
+    "count": 342,
+    "percent": 0.02757157322429394
+  },
+  {
+    "wiki": "lgwiki",
+    "count": 341,
+    "percent": 0.027490954589135187
+  },
+  {
+    "wiki": "trwikinews",
+    "count": 339,
+    "percent": 0.027329717318817677
+  },
+  {
+    "wiki": "nywiki",
+    "count": 336,
+    "percent": 0.027087861413341414
+  },
+  {
+    "wiki": "ltgwiki",
+    "count": 336,
+    "percent": 0.027087861413341414
+  },
+  {
+    "wiki": "plwikinews",
+    "count": 329,
+    "percent": 0.026523530967230136
+  },
+  {
+    "wiki": "thwikiquote",
+    "count": 322,
+    "percent": 0.025959200521118858
+  },
+  {
+    "wiki": "ikwiki",
+    "count": 322,
+    "percent": 0.025959200521118858
+  },
+  {
+    "wiki": "enwikiversity",
+    "count": 317,
+    "percent": 0.025556107345325086
+  },
+  {
+    "wiki": "rmywiki",
+    "count": 315,
+    "percent": 0.02539487007500758
+  },
+  {
+    "wiki": "adywiki",
+    "count": 312,
+    "percent": 0.025153014169531317
+  },
+  {
+    "wiki": "sswiki",
+    "count": 308,
+    "percent": 0.024830539628896302
+  },
+  {
+    "wiki": "glkwiki",
+    "count": 304,
+    "percent": 0.024508065088261283
+  },
+  {
+    "wiki": "klwiki",
+    "count": 303,
+    "percent": 0.02442744645310253
+  },
+  {
+    "wiki": "idwikiquote",
+    "count": 298,
+    "percent": 0.024024353277308758
+  },
+  {
+    "wiki": "eowikisource",
+    "count": 295,
+    "percent": 0.023782497371832495
+  },
+  {
+    "wiki": "gorwiki",
+    "count": 285,
+    "percent": 0.02297631102024495
+  },
+  {
+    "wiki": "cawikinews",
+    "count": 277,
+    "percent": 0.022331361938974916
+  },
+  {
+    "wiki": "cswikinews",
+    "count": 276,
+    "percent": 0.022250743303816163
+  },
+  {
+    "wiki": "fawikinews",
+    "count": 273,
+    "percent": 0.0220088873983399
+  },
+  {
+    "wiki": "eewiki",
+    "count": 270,
+    "percent": 0.021767031492863638
+  },
+  {
+    "wiki": "dawikiquote",
+    "count": 265,
+    "percent": 0.02136393831706987
+  },
+  {
+    "wiki": "jawikinews",
+    "count": 262,
+    "percent": 0.021122082411593607
+  },
+  {
+    "wiki": "pntwiki",
+    "count": 261,
+    "percent": 0.02104146377643485
+  },
+  {
+    "wiki": "euwikiquote",
+    "count": 252,
+    "percent": 0.020315896060006063
+  },
+  {
+    "wiki": "urwikiquote",
+    "count": 251,
+    "percent": 0.020235277424847306
+  },
+  {
+    "wiki": "kswiki",
+    "count": 245,
+    "percent": 0.019751565613894784
+  },
+  {
+    "wiki": "azwikisource",
+    "count": 237,
+    "percent": 0.01910661653262475
+  },
+  {
+    "wiki": "lawikiquote",
+    "count": 234,
+    "percent": 0.018864760627148487
+  },
+  {
+    "wiki": "tnwiki",
+    "count": 233,
+    "percent": 0.018784141991989734
+  },
+  {
+    "wiki": "frwikibooks",
+    "count": 230,
+    "percent": 0.018542286086513468
+  },
+  {
+    "wiki": "nlwikibooks",
+    "count": 228,
+    "percent": 0.018381048816195962
+  },
+  {
+    "wiki": "viwikisource",
+    "count": 226,
+    "percent": 0.018219811545878453
+  },
+  {
+    "wiki": "ffwiki",
+    "count": 224,
+    "percent": 0.018058574275560943
+  },
+  {
+    "wiki": "zhwikinews",
+    "count": 216,
+    "percent": 0.017413625194290912
+  },
+  {
+    "wiki": "jawikibooks",
+    "count": 216,
+    "percent": 0.017413625194290912
+  },
+  {
+    "wiki": "ukwikinews",
+    "count": 216,
+    "percent": 0.017413625194290912
+  },
+  {
+    "wiki": "bnwikivoyage",
+    "count": 213,
+    "percent": 0.01717176928881465
+  },
+  {
+    "wiki": "cywikiquote",
+    "count": 213,
+    "percent": 0.01717176928881465
+  },
+  {
+    "wiki": "tawikinews",
+    "count": 212,
+    "percent": 0.017091150653655893
+  },
+  {
+    "wiki": "itwikibooks",
+    "count": 206,
+    "percent": 0.01660743884270337
+  },
+  {
+    "wiki": "nqowiki",
+    "count": 203,
+    "percent": 0.016365582937227105
+  },
+  {
+    "wiki": "kuwikiquote",
+    "count": 203,
+    "percent": 0.016365582937227105
+  },
+  {
+    "wiki": "sqwikiquote",
+    "count": 199,
+    "percent": 0.01604310839659209
+  },
+  {
+    "wiki": "hrwikisource",
+    "count": 197,
+    "percent": 0.01588187112627458
+  },
+  {
+    "wiki": "dawikisource",
+    "count": 196,
+    "percent": 0.015801252491115827
+  },
+  {
+    "wiki": "dewikibooks",
+    "count": 196,
+    "percent": 0.015801252491115827
+  },
+  {
+    "wiki": "rnwiki",
+    "count": 193,
+    "percent": 0.015559396585639564
+  },
+  {
+    "wiki": "nlwikisource",
+    "count": 193,
+    "percent": 0.015559396585639564
+  },
+  {
+    "wiki": "nowikisource",
+    "count": 191,
+    "percent": 0.015398159315322055
+  },
+  {
+    "wiki": "trwikisource",
+    "count": 188,
+    "percent": 0.015156303409845792
+  },
+  {
+    "wiki": "kowikinews",
+    "count": 182,
+    "percent": 0.014672591598893269
+  },
+  {
+    "wiki": "srwikisource",
+    "count": 182,
+    "percent": 0.014672591598893269
+  },
+  {
+    "wiki": "sgwiki",
+    "count": 181,
+    "percent": 0.014591972963734514
+  },
+  {
+    "wiki": "dinwiki",
+    "count": 180,
+    "percent": 0.01451135432857576
+  },
+  {
+    "wiki": "tiwiki",
+    "count": 180,
+    "percent": 0.01451135432857576
+  },
+  {
+    "wiki": "viwikiquote",
+    "count": 177,
+    "percent": 0.014269498423099498
+  },
+  {
+    "wiki": "huwikinews",
+    "count": 177,
+    "percent": 0.014269498423099498
+  },
+  {
+    "wiki": "elwikinews",
+    "count": 176,
+    "percent": 0.01418887978794074
+  },
+  {
+    "wiki": "fiwikinews",
+    "count": 168,
+    "percent": 0.013543930706670707
+  },
+  {
+    "wiki": "mnwwiki",
+    "count": 164,
+    "percent": 0.013221456166035692
+  },
+  {
+    "wiki": "euwikibooks",
+    "count": 164,
+    "percent": 0.013221456166035692
+  },
+  {
+    "wiki": "vewiki",
+    "count": 163,
+    "percent": 0.013140837530876937
+  },
+  {
+    "wiki": "towiki",
+    "count": 157,
+    "percent": 0.012657125719924413
+  },
+  {
+    "wiki": "nowikinews",
+    "count": 153,
+    "percent": 0.012334651179289396
+  },
+  {
+    "wiki": "zhwikibooks",
+    "count": 152,
+    "percent": 0.012254032544130641
+  },
+  {
+    "wiki": "fawikisource",
+    "count": 151,
+    "percent": 0.012173413908971887
+  },
+  {
+    "wiki": "sqwikinews",
+    "count": 150,
+    "percent": 0.012092795273813132
+  },
+  {
+    "wiki": "ptwikibooks",
+    "count": 149,
+    "percent": 0.012012176638654379
+  },
+  {
+    "wiki": "ruwikibooks",
+    "count": 147,
+    "percent": 0.01185093936833687
+  },
+  {
+    "wiki": "arwikiversity",
+    "count": 145,
+    "percent": 0.011689702098019361
+  },
+  {
+    "wiki": "azwikibooks",
+    "count": 141,
+    "percent": 0.011367227557384344
+  },
+  {
+    "wiki": "dzwiki",
+    "count": 140,
+    "percent": 0.01128660892222559
+  },
+  {
+    "wiki": "bswikinews",
+    "count": 140,
+    "percent": 0.01128660892222559
+  },
+  {
+    "wiki": "tewikiquote",
+    "count": 140,
+    "percent": 0.01128660892222559
+  },
+  {
+    "wiki": "hiwikiquote",
+    "count": 139,
+    "percent": 0.011205990287066836
+  },
+  {
+    "wiki": "afwikiquote",
+    "count": 137,
+    "percent": 0.011044753016749327
+  },
+  {
+    "wiki": "jawikivoyage",
+    "count": 136,
+    "percent": 0.010964134381590574
+  },
+  {
+    "wiki": "iswikiquote",
+    "count": 132,
+    "percent": 0.010641659840955556
+  },
+  {
+    "wiki": "rowikinews",
+    "count": 131,
+    "percent": 0.010561041205796803
+  },
+  {
+    "wiki": "plwikibooks",
+    "count": 128,
+    "percent": 0.010319185300320539
+  },
+  {
+    "wiki": "brwikiquote",
+    "count": 123,
+    "percent": 0.009916092124526769
+  },
+  {
+    "wiki": "eswikibooks",
+    "count": 120,
+    "percent": 0.009674236219050506
+  },
+  {
+    "wiki": "tewikisource",
+    "count": 116,
+    "percent": 0.00935176167841549
+  },
+  {
+    "wiki": "crwiki",
+    "count": 102,
+    "percent": 0.008223100786192929
+  },
+  {
+    "wiki": "bgwikisource",
+    "count": 98,
+    "percent": 0.007900626245557913
+  },
+  {
+    "wiki": "tawikisource",
+    "count": 95,
+    "percent": 0.007658770340081651
+  },
+  {
+    "wiki": "arwikibooks",
+    "count": 93,
+    "percent": 0.007497533069764142
+  },
+  {
+    "wiki": "bewikisource",
+    "count": 93,
+    "percent": 0.007497533069764142
+  },
+  {
+    "wiki": "glwikisource",
+    "count": 86,
+    "percent": 0.006933202623652862
+  },
+  {
+    "wiki": "hewikinews",
+    "count": 85,
+    "percent": 0.006852583988494108
+  },
+  {
+    "wiki": "hewikibooks",
+    "count": 84,
+    "percent": 0.006771965353335354
+  },
+  {
+    "wiki": "fiwikibooks",
+    "count": 81,
+    "percent": 0.006530109447859092
+  },
+  {
+    "wiki": "hiwikivoyage",
+    "count": 80,
+    "percent": 0.006449490812700337
+  },
+  {
+    "wiki": "idwikisource",
+    "count": 79,
+    "percent": 0.006368872177541583
+  },
+  {
+    "wiki": "euwikisource",
+    "count": 68,
+    "percent": 0.005482067190795287
+  },
+  {
+    "wiki": "mlwikiquote",
+    "count": 68,
+    "percent": 0.005482067190795287
+  },
+  {
+    "wiki": "ruwikiversity",
+    "count": 68,
+    "percent": 0.005482067190795287
+  },
+  {
+    "wiki": "napwikisource",
+    "count": 68,
+    "percent": 0.005482067190795287
+  },
+  {
+    "wiki": "brwikisource",
+    "count": 65,
+    "percent": 0.005240211285319024
+  },
+  {
+    "wiki": "kawikibooks",
+    "count": 64,
+    "percent": 0.0051595926501602695
+  },
+  {
+    "wiki": "liwikinews",
+    "count": 63,
+    "percent": 0.005078974015001516
+  },
+  {
+    "wiki": "guwikisource",
+    "count": 62,
+    "percent": 0.004998355379842762
+  },
+  {
+    "wiki": "uzwikiquote",
+    "count": 61,
+    "percent": 0.004917736744684007
+  },
+  {
+    "wiki": "pawikisource",
+    "count": 61,
+    "percent": 0.004917736744684007
+  },
+  {
+    "wiki": "kowikibooks",
+    "count": 60,
+    "percent": 0.004837118109525253
+  },
+  {
+    "wiki": "mlwikisource",
+    "count": 60,
+    "percent": 0.004837118109525253
+  },
+  {
+    "wiki": "thwikisource",
+    "count": 58,
+    "percent": 0.004675880839207745
+  },
+  {
+    "wiki": "iswikisource",
+    "count": 57,
+    "percent": 0.0045952622040489905
+  },
+  {
+    "wiki": "cswikibooks",
+    "count": 56,
+    "percent": 0.004514643568890236
+  },
+  {
+    "wiki": "thwikibooks",
+    "count": 56,
+    "percent": 0.004514643568890236
+  },
+  {
+    "wiki": "pswikivoyage",
+    "count": 56,
+    "percent": 0.004514643568890236
+  },
+  {
+    "wiki": "vecwikisource",
+    "count": 54,
+    "percent": 0.004353406298572728
+  },
+  {
+    "wiki": "eswikiversity",
+    "count": 50,
+    "percent": 0.004030931757937711
+  },
+  {
+    "wiki": "etwikisource",
+    "count": 50,
+    "percent": 0.004030931757937711
+  },
+  {
+    "wiki": "iswikibooks",
+    "count": 50,
+    "percent": 0.004030931757937711
+  },
+  {
+    "wiki": "elwikiversity",
+    "count": 48,
+    "percent": 0.0038696944876202024
+  },
+  {
+    "wiki": "sqwikibooks",
+    "count": 47,
+    "percent": 0.003789075852461448
+  },
+  {
+    "wiki": "knwikiquote",
+    "count": 46,
+    "percent": 0.003708457217302694
+  },
+  {
+    "wiki": "idwikibooks",
+    "count": 44,
+    "percent": 0.003547219946985185
+  },
+  {
+    "wiki": "zhwikiversity",
+    "count": 44,
+    "percent": 0.003547219946985185
+  },
+  {
+    "wiki": "ukwikibooks",
+    "count": 44,
+    "percent": 0.003547219946985185
+  },
+  {
+    "wiki": "bswikisource",
+    "count": 42,
+    "percent": 0.003385982676667677
+  },
+  {
+    "wiki": "dewikiversity",
+    "count": 42,
+    "percent": 0.003385982676667677
+  },
+  {
+    "wiki": "bnwikibooks",
+    "count": 42,
+    "percent": 0.003385982676667677
+  },
+  {
+    "wiki": "kowikiversity",
+    "count": 41,
+    "percent": 0.003305364041508923
+  },
+  {
+    "wiki": "huwikibooks",
+    "count": 41,
+    "percent": 0.003305364041508923
+  },
+  {
+    "wiki": "bgwikinews",
+    "count": 41,
+    "percent": 0.003305364041508923
+  },
+  {
+    "wiki": "ltwikisource",
+    "count": 40,
+    "percent": 0.0032247454063501686
+  },
+  {
+    "wiki": "fawikibooks",
+    "count": 39,
+    "percent": 0.0031441267711914147
+  },
+  {
+    "wiki": "cswikiversity",
+    "count": 37,
+    "percent": 0.002982889500873906
+  },
+  {
+    "wiki": "nowikibooks",
+    "count": 35,
+    "percent": 0.0028216522305563973
+  },
+  {
+    "wiki": "bewikibooks",
+    "count": 35,
+    "percent": 0.0028216522305563973
+  },
+  {
+    "wiki": "trwikibooks",
+    "count": 32,
+    "percent": 0.0025797963250801348
+  },
+  {
+    "wiki": "svwikibooks",
+    "count": 32,
+    "percent": 0.0025797963250801348
+  },
+  {
+    "wiki": "jawikiversity",
+    "count": 31,
+    "percent": 0.002499177689921381
+  },
+  {
+    "wiki": "rowikibooks",
+    "count": 31,
+    "percent": 0.002499177689921381
+  },
+  {
+    "wiki": "mkwikibooks",
+    "count": 29,
+    "percent": 0.0023379404196038726
+  },
+  {
+    "wiki": "tawikibooks",
+    "count": 28,
+    "percent": 0.002257321784445118
+  },
+  {
+    "wiki": "cawikibooks",
+    "count": 27,
+    "percent": 0.002176703149286364
+  },
+  {
+    "wiki": "orwikisource",
+    "count": 27,
+    "percent": 0.002176703149286364
+  },
+  {
+    "wiki": "hiwikibooks",
+    "count": 26,
+    "percent": 0.0020960845141276096
+  },
+  {
+    "wiki": "glwikibooks",
+    "count": 25,
+    "percent": 0.0020154658789688553
+  },
+  {
+    "wiki": "eowikibooks",
+    "count": 25,
+    "percent": 0.0020154658789688553
+  },
+  {
+    "wiki": "aswikisource",
+    "count": 25,
+    "percent": 0.0020154658789688553
+  },
+  {
+    "wiki": "guwikiquote",
+    "count": 25,
+    "percent": 0.0020154658789688553
+  },
+  {
+    "wiki": "hiwikiversity",
+    "count": 23,
+    "percent": 0.001854228608651347
+  },
+  {
+    "wiki": "metawiki",
+    "count": 22,
+    "percent": 0.0017736099734925925
+  },
+  {
+    "wiki": "enwiktionary",
+    "count": 21,
+    "percent": 0.0016929913383338384
+  },
+  {
+    "wiki": "dawikibooks",
+    "count": 21,
+    "percent": 0.0016929913383338384
+  },
+  {
+    "wiki": "ptwikiversity",
+    "count": 20,
+    "percent": 0.0016123727031750843
+  },
+  {
+    "wiki": "mrwikiquote",
+    "count": 20,
+    "percent": 0.0016123727031750843
+  },
+  {
+    "wiki": "mkwikisource",
+    "count": 18,
+    "percent": 0.001451135432857576
+  },
+  {
+    "wiki": "lijwikisource",
+    "count": 17,
+    "percent": 0.0013705167976988217
+  },
+  {
+    "wiki": "sawikisource",
+    "count": 16,
+    "percent": 0.0012898981625400674
+  },
+  {
+    "wiki": "liwikibooks",
+    "count": 15,
+    "percent": 0.0012092795273813133
+  },
+  {
+    "wiki": "thwikinews",
+    "count": 14,
+    "percent": 0.001128660892222559
+  },
+  {
+    "wiki": "ltwikibooks",
+    "count": 13,
+    "percent": 0.0010480422570638048
+  },
+  {
+    "wiki": "sawikiquote",
+    "count": 13,
+    "percent": 0.0010480422570638048
+  },
+  {
+    "wiki": "ngwiki",
+    "count": 11,
+    "percent": 0.0008868049867462963
+  },
+  {
+    "wiki": "srwikibooks",
+    "count": 11,
+    "percent": 0.0008868049867462963
+  },
+  {
+    "wiki": "zh_min_nanwikiquote",
+    "count": 10,
+    "percent": 0.0008061863515875421
+  },
+  {
+    "wiki": "slwikiversity",
+    "count": 10,
+    "percent": 0.0008061863515875421
+  },
+  {
+    "wiki": "hrwikibooks",
+    "count": 10,
+    "percent": 0.0008061863515875421
+  },
+  {
+    "wiki": "angwikiquote",
+    "count": 10,
+    "percent": 0.0008061863515875421
+  },
+  {
+    "wiki": "skwikisource",
+    "count": 9,
+    "percent": 0.000725567716428788
+  },
+  {
+    "wiki": "kywikiquote",
+    "count": 9,
+    "percent": 0.000725567716428788
+  },
+  {
+    "wiki": "hiwikisource",
+    "count": 9,
+    "percent": 0.000725567716428788
+  },
+  {
+    "wiki": "tgwikibooks",
+    "count": 9,
+    "percent": 0.000725567716428788
+  },
+  {
+    "wiki": "wowikiquote",
+    "count": 9,
+    "percent": 0.000725567716428788
+  },
+  {
+    "wiki": "mswikibooks",
+    "count": 8,
+    "percent": 0.0006449490812700337
+  },
+  {
+    "wiki": "mrwikisource",
+    "count": 8,
+    "percent": 0.0006449490812700337
+  },
+  {
+    "wiki": "iiwiki",
+    "count": 8,
+    "percent": 0.0006449490812700337
+  },
+  {
+    "wiki": "hywikibooks",
+    "count": 8,
+    "percent": 0.0006449490812700337
+  },
+  {
+    "wiki": "simplewikibooks",
+    "count": 7,
+    "percent": 0.0005643304461112795
+  },
+  {
+    "wiki": "viwikibooks",
+    "count": 7,
+    "percent": 0.0005643304461112795
+  },
+  {
+    "wiki": "pmswikisource",
+    "count": 7,
+    "percent": 0.0005643304461112795
+  },
+  {
+    "wiki": "elwikibooks",
+    "count": 7,
+    "percent": 0.0005643304461112795
+  },
+  {
+    "wiki": "suwikiquote",
+    "count": 7,
+    "percent": 0.0005643304461112795
+  },
+  {
+    "wiki": "cywikisource",
+    "count": 6,
+    "percent": 0.0004837118109525253
+  },
+  {
+    "wiki": "tlwikibooks",
+    "count": 6,
+    "percent": 0.0004837118109525253
+  },
+  {
+    "wiki": "liwikisource",
+    "count": 6,
+    "percent": 0.0004837118109525253
+  },
+  {
+    "wiki": "wikidatawiki",
+    "count": 6,
+    "percent": 0.0004837118109525253
+  },
+  {
+    "wiki": "ttwikibooks",
+    "count": 5,
+    "percent": 0.00040309317579377107
+  },
+  {
+    "wiki": "bgwikibooks",
+    "count": 5,
+    "percent": 0.00040309317579377107
+  },
+  {
+    "wiki": "mediawikiwiki",
+    "count": 5,
+    "percent": 0.00040309317579377107
+  },
+  {
+    "wiki": "yiwikisource",
+    "count": 5,
+    "percent": 0.00040309317579377107
+  },
+  {
+    "wiki": "dewiktionary",
+    "count": 5,
+    "percent": 0.00040309317579377107
+  },
+  {
+    "wiki": "ruwiktionary",
+    "count": 5,
+    "percent": 0.00040309317579377107
+  },
+  {
+    "wiki": "etwikibooks",
+    "count": 5,
+    "percent": 0.00040309317579377107
+  },
+  {
+    "wiki": "kjwiki",
+    "count": 4,
+    "percent": 0.00032247454063501685
+  },
+  {
+    "wiki": "urwikibooks",
+    "count": 4,
+    "percent": 0.00032247454063501685
+  },
+  {
+    "wiki": "slwikibooks",
+    "count": 4,
+    "percent": 0.00032247454063501685
+  },
+  {
+    "wiki": "pawikibooks",
+    "count": 4,
+    "percent": 0.00032247454063501685
+  },
+  {
+    "wiki": "lawikibooks",
+    "count": 4,
+    "percent": 0.00032247454063501685
+  },
+  {
+    "wiki": "afwikibooks",
+    "count": 4,
+    "percent": 0.00032247454063501685
+  },
+  {
+    "wiki": "knwikisource",
+    "count": 4,
+    "percent": 0.00032247454063501685
+  },
+  {
+    "wiki": "svwikiversity",
+    "count": 4,
+    "percent": 0.00032247454063501685
+  },
+  {
+    "wiki": "hewiktionary",
+    "count": 3,
+    "percent": 0.00024185590547626265
+  },
+  {
+    "wiki": "mhwiki",
+    "count": 3,
+    "percent": 0.00024185590547626265
+  },
+  {
+    "wiki": "mlwikibooks",
+    "count": 3,
+    "percent": 0.00024185590547626265
+  },
+  {
+    "wiki": "skwikibooks",
+    "count": 3,
+    "percent": 0.00024185590547626265
+  },
+  {
+    "wiki": "plwiktionary",
+    "count": 3,
+    "percent": 0.00024185590547626265
+  },
+  {
+    "wiki": "chowiki",
+    "count": 3,
+    "percent": 0.00024185590547626265
+  },
+  {
+    "wiki": "cvwikibooks",
+    "count": 3,
+    "percent": 0.00024185590547626265
+  },
+  {
+    "wiki": "kowiktionary",
+    "count": 3,
+    "percent": 0.00024185590547626265
+  },
+  {
+    "wiki": "sourceswiki",
+    "count": 3,
+    "percent": 0.00024185590547626265
+  },
+  {
+    "wiki": "incubatorwiki",
+    "count": 3,
+    "percent": 0.00024185590547626265
+  },
+  {
+    "wiki": "eswiktionary",
+    "count": 3,
+    "percent": 0.00024185590547626265
+  },
+  {
+    "wiki": "mgwikibooks",
+    "count": 3,
+    "percent": 0.00024185590547626265
+  },
+  {
+    "wiki": "howiki",
+    "count": 2,
+    "percent": 0.00016123727031750842
+  },
+  {
+    "wiki": "frwiktionary",
+    "count": 2,
+    "percent": 0.00016123727031750842
+  },
+  {
+    "wiki": "ocwikibooks",
+    "count": 2,
+    "percent": 0.00016123727031750842
+  },
+  {
+    "wiki": "kkwikibooks",
+    "count": 2,
+    "percent": 0.00016123727031750842
+  },
+  {
+    "wiki": "fywikibooks",
+    "count": 2,
+    "percent": 0.00016123727031750842
+  },
+  {
+    "wiki": "ptwiktionary",
+    "count": 2,
+    "percent": 0.00016123727031750842
+  },
+  {
+    "wiki": "srwiktionary",
+    "count": 2,
+    "percent": 0.00016123727031750842
+  },
+  {
+    "wiki": "sahwikiquote",
+    "count": 2,
+    "percent": 0.00016123727031750842
+  },
+  {
+    "wiki": "wawiktionary",
+    "count": 2,
+    "percent": 0.00016123727031750842
+  },
+  {
+    "wiki": "cywikibooks",
+    "count": 2,
+    "percent": 0.00016123727031750842
+  },
+  {
+    "wiki": "fowikisource",
+    "count": 2,
+    "percent": 0.00016123727031750842
+  },
+  {
+    "wiki": "itwiktionary",
+    "count": 2,
+    "percent": 0.00016123727031750842
+  },
+  {
+    "wiki": "siwikibooks",
+    "count": 2,
+    "percent": 0.00016123727031750842
+  },
+  {
+    "wiki": "cawiktionary",
+    "count": 2,
+    "percent": 0.00016123727031750842
+  },
+  {
+    "wiki": "lbwikiquote",
+    "count": 1,
+    "percent": 0.00008061863515875421
+  },
+  {
+    "wiki": "aawiki",
+    "count": 1,
+    "percent": 0.00008061863515875421
+  },
+  {
+    "wiki": "bswikibooks",
+    "count": 1,
+    "percent": 0.00008061863515875421
+  },
+  {
+    "wiki": "mrwikibooks",
+    "count": 1,
+    "percent": 0.00008061863515875421
+  },
+  {
+    "wiki": "newikibooks",
+    "count": 1,
+    "percent": 0.00008061863515875421
+  },
+  {
+    "wiki": "ndswiktionary",
+    "count": 1,
+    "percent": 0.00008061863515875421
+  },
+  {
+    "wiki": "nlwiktionary",
+    "count": 1,
+    "percent": 0.00008061863515875421
+  },
+  {
+    "wiki": "iawikibooks",
+    "count": 1,
+    "percent": 0.00008061863515875421
+  },
+  {
+    "wiki": "iawiktionary",
+    "count": 1,
+    "percent": 0.00008061863515875421
+  },
+  {
+    "wiki": "hawiktionary",
+    "count": 1,
+    "percent": 0.00008061863515875421
+  },
+  {
+    "wiki": "sdwikinews",
+    "count": 1,
+    "percent": 0.00008061863515875421
+  },
+  {
+    "wiki": "arwiktionary",
+    "count": 1,
+    "percent": 0.00008061863515875421
+  },
+  {
+    "wiki": "bnwiktionary",
+    "count": 1,
+    "percent": 0.00008061863515875421
+  },
+  {
+    "wiki": "jawiktionary",
+    "count": 1,
+    "percent": 0.00008061863515875421
+  },
+  {
+    "wiki": "zhwiktionary",
+    "count": 1,
+    "percent": 0.00008061863515875421
+  },
+  {
+    "wiki": "azwiktionary",
+    "count": 1,
+    "percent": 0.00008061863515875421
+  },
+  {
+    "wiki": "astwikiquote",
+    "count": 1,
+    "percent": 0.00008061863515875421
+  },
+  {
+    "wiki": "fiwikiversity",
+    "count": 1,
+    "percent": 0.00008061863515875421
+  }
+]
