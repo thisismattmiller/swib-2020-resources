@@ -1,5 +1,5 @@
 # swib-2020-resources
-Code and data from my SWIB20 [presentation](https://github.com/thisismattmiller/swib-2020-resources/blob/main/presentation.pdf)
+Code and data from my SWIB20 [presentation](https://github.com/thisismattmiller/swib-2020-resources/blob/main/presentation.pdf) Watch here: https://www.youtube.com/watch?v=OvcBBRZ_sUM
 
 
 ## Data
